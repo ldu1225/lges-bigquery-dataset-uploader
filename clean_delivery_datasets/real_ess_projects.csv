@@ -1,0 +1,1501 @@
+project_id,country,region,customer_utility_company,application,system_power_mw,storage_capacity_mwh,battery_manufacturer_id,cod,unit_price_usd_per_kwh
+ESS_001,USA,North America,Vistra Energy,Renewable Integration,300.0,1200.0,LGES,2021-08-01,135.0
+ESS_002,USA,North America,Vistra Energy,Peak Shaving,100.0,400.0,LGES,2021-12-01,130.0
+ESS_003,USA,North America,Terra-Gen,Renewable Integration,1300.0,3287.0,LGES,2024-02-01,88.0
+ESS_004,UK,Europe,Fluence,Frequency Regulation,100.0,100.0,LGES,2023-05-01,112.0
+ESS_005,South Korea,Asia-Pacific,KEPCO,Frequency Regulation,150.0,300.0,LGES,2023-09-01,115.0
+ESS_006,USA,North America,Salt River Project,Renewable Integration,100.0,400.0,LGES,2025-06-01,76.0
+ESS_007,USA,North America,NextEra Energy,Renewable Integration,300.0,1200.0,LGES,2026-01-01,72.0
+ESS_008,USA,North America,Florida Power & Light,Renewable Integration,409.0,900.0,CATL,2022-01-01,98.0
+ESS_009,China,Asia-Pacific,State Grid,Peak Shaving,500.0,1000.0,CATL,2023-07-01,82.0
+ESS_010,Australia,Asia-Pacific,CleanCo,Renewable Integration,200.0,800.0,CATL,2025-11-01,68.0
+ESS_011,USA,North America,Vistra Energy,Renewable Integration,350.0,350.0,BYD,2023-04-01,92.0
+ESS_012,Australia,Asia-Pacific,Vena Energy,Peak Shaving,100.0,150.0,SAMSUNG_SDI,2022-06-01,124.0
+ESS_013,Germany,Europe,RWE,Renewable Integration,110.0,220.0,SAMSUNG_SDI,2024-10-01,94.0
+ESS_014,USA,North America,KEPCO,Peak Shaving,89.7,179.4,LGES,2023-04-01,129.06
+ESS_015,Australia,Asia-Pacific,Terra-Gen,Renewable Integration,16.2,32.4,SAMSUNG_SDI,2022-12-01,146.62
+ESS_016,Australia,Asia-Pacific,Fluence,Frequency Regulation,130.3,521.2,SAMSUNG_SDI,2026-12-01,79.79
+ESS_017,USA,North America,AES Corporation,Peak Shaving,69.5,278.0,LGES,2025-04-01,97.84
+ESS_018,South Korea,Asia-Pacific,Florida Power & Light,Frequency Regulation,9.0,36.0,LGES,2021-07-01,140.57
+ESS_019,South Korea,Asia-Pacific,PG&E,Peak Shaving,119.4,477.6,LGES,2022-04-01,146.78
+ESS_020,USA,North America,Duke Energy,Renewable Integration,102.2,408.8,LGES,2024-08-01,107.48
+ESS_021,Germany,Europe,Enel Green Power,Peak Shaving,129.5,518.0,SAMSUNG_SDI,2022-11-01,136.15
+ESS_022,South Korea,Asia-Pacific,KEPCO,Renewable Integration,46.9,187.6,LGES,2025-01-01,95.41
+ESS_023,Germany,Europe,Southern California Edison,Peak Shaving,106.7,426.8,SAMSUNG_SDI,2027-07-01,75.34
+ESS_024,Australia,Asia-Pacific,KEPCO,Peak Shaving,31.3,125.2,SAMSUNG_SDI,2022-12-01,142.64
+ESS_025,South Korea,Asia-Pacific,Duke Energy,Renewable Integration,17.0,68.0,LGES,2022-09-01,135.56
+ESS_026,UK,Europe,Duke Energy,Renewable Integration,51.3,102.6,LGES,2022-10-01,146.3
+ESS_027,UK,Europe,Duke Energy,Renewable Integration,139.4,278.8,LGES,2021-11-01,137.02
+ESS_028,Australia,Asia-Pacific,Neoen,Renewable Integration,125.1,250.2,SAMSUNG_SDI,2023-06-01,126.48
+ESS_029,Australia,Asia-Pacific,Duke Energy,Renewable Integration,76.6,153.2,SAMSUNG_SDI,2026-03-01,88.99
+ESS_030,Australia,Asia-Pacific,Duke Energy,Peak Shaving,60.8,121.6,CATL,2024-11-01,81.49
+ESS_031,South Korea,Asia-Pacific,Enel Green Power,Renewable Integration,31.0,124.0,LGES,2027-05-01,79.62
+ESS_032,UK,Europe,PG&E,Frequency Regulation,9.9,39.6,LGES,2021-08-01,135.43
+ESS_033,UK,Europe,Florida Power & Light,Peak Shaving,24.2,48.4,LGES,2024-10-01,109.99
+ESS_034,South Korea,Asia-Pacific,Vistra Energy,Frequency Regulation,58.0,116.0,LGES,2025-02-01,99.66
+ESS_035,USA,North America,KEPCO,Renewable Integration,120.2,240.4,LGES,2021-08-01,143.41
+ESS_036,UK,Europe,Duke Energy,Peak Shaving,91.8,367.2,LGES,2021-03-01,140.84
+ESS_037,USA,North America,Vistra Energy,Peak Shaving,127.2,254.4,LGES,2023-08-01,137.05
+ESS_038,USA,North America,Vistra Energy,Frequency Regulation,142.7,285.4,LGES,2021-09-01,140.93
+ESS_039,USA,North America,AES Corporation,Peak Shaving,83.0,332.0,LGES,2026-01-01,86.19
+ESS_040,South Korea,Asia-Pacific,Duke Energy,Renewable Integration,128.5,514.0,LGES,2025-08-01,95.02
+ESS_041,USA,North America,Terra-Gen,Renewable Integration,69.9,279.6,LGES,2027-03-01,76.61
+ESS_042,South Korea,Asia-Pacific,KEPCO,Peak Shaving,92.4,184.8,LGES,2025-03-01,93.0
+ESS_043,South Korea,Asia-Pacific,AES Corporation,Renewable Integration,143.4,286.8,LGES,2026-11-01,88.59
+ESS_044,USA,North America,Enel Green Power,Renewable Integration,111.7,223.4,CATL,2025-12-01,74.97
+ESS_045,China,Asia-Pacific,KEPCO,Frequency Regulation,65.8,131.6,CATL,2021-05-01,103.7
+ESS_046,UK,Europe,Terra-Gen,Peak Shaving,63.9,255.6,LGES,2024-05-01,105.24
+ESS_047,USA,North America,Vistra Energy,Frequency Regulation,37.0,74.0,LGES,2024-01-01,107.96
+ESS_048,South Korea,Asia-Pacific,NextEra Energy,Renewable Integration,77.4,309.6,LGES,2026-09-01,85.87
+ESS_049,South Korea,Asia-Pacific,Vistra Energy,Frequency Regulation,42.1,168.4,LGES,2025-07-01,100.12
+ESS_050,USA,North America,Duke Energy,Peak Shaving,53.5,107.0,LGES,2024-05-01,112.16
+ESS_051,USA,North America,AES Corporation,Peak Shaving,67.6,270.4,LGES,2023-02-01,124.11
+ESS_052,South Korea,Asia-Pacific,Florida Power & Light,Frequency Regulation,52.9,211.6,LGES,2026-09-01,85.56
+ESS_053,South Korea,Asia-Pacific,KEPCO,Peak Shaving,87.6,350.4,LGES,2021-03-01,134.94
+ESS_054,USA,North America,Florida Power & Light,Frequency Regulation,83.4,333.6,LGES,2026-05-01,84.62
+ESS_055,USA,North America,Neoen,Frequency Regulation,45.2,90.4,BYD,2024-02-01,77.64
+ESS_056,UK,Europe,Neoen,Renewable Integration,107.0,428.0,LGES,2026-09-01,83.34
+ESS_057,UK,Europe,Southern California Edison,Peak Shaving,71.5,143.0,LGES,2026-03-01,84.35
+ESS_058,Australia,Asia-Pacific,Florida Power & Light,Peak Shaving,12.9,25.8,CATL,2026-12-01,62.3
+ESS_059,UK,Europe,Neoen,Peak Shaving,17.6,70.4,LGES,2023-10-01,129.46
+ESS_060,USA,North America,Vistra Energy,Renewable Integration,112.6,450.4,LGES,2023-02-01,129.8
+ESS_061,Australia,Asia-Pacific,Southern California Edison,Renewable Integration,97.2,388.8,SAMSUNG_SDI,2021-06-01,132.83
+ESS_062,UK,Europe,AES Corporation,Peak Shaving,53.2,212.8,LGES,2025-12-01,97.94
+ESS_063,USA,North America,Terra-Gen,Frequency Regulation,142.7,285.4,LGES,2025-06-01,98.21
+ESS_064,UK,Europe,Southern California Edison,Peak Shaving,49.2,98.4,LGES,2024-08-01,111.28
+ESS_065,UK,Europe,Duke Energy,Frequency Regulation,18.3,36.6,LGES,2021-04-01,132.13
+ESS_066,Australia,Asia-Pacific,Southern California Edison,Frequency Regulation,47.7,190.8,SAMSUNG_SDI,2021-07-01,138.96
+ESS_067,Australia,Asia-Pacific,Florida Power & Light,Renewable Integration,78.2,156.4,SAMSUNG_SDI,2025-08-01,100.1
+ESS_068,Australia,Asia-Pacific,Duke Energy,Frequency Regulation,147.9,591.6,CATL,2024-02-01,82.82
+ESS_069,USA,North America,Terra-Gen,Renewable Integration,105.3,421.2,LGES,2025-05-01,92.59
+ESS_070,USA,North America,Terra-Gen,Renewable Integration,19.5,39.0,LGES,2021-06-01,140.12
+ESS_071,USA,North America,Terra-Gen,Renewable Integration,119.9,239.8,LGES,2025-04-01,90.91
+ESS_072,China,Asia-Pacific,Southern California Edison,Peak Shaving,37.3,149.2,CATL,2025-10-01,70.85
+ESS_073,UK,Europe,Terra-Gen,Peak Shaving,90.5,181.0,LGES,2021-02-01,134.91
+ESS_074,USA,North America,NextEra Energy,Frequency Regulation,40.4,80.8,LGES,2021-11-01,142.33
+ESS_075,South Korea,Asia-Pacific,Terra-Gen,Frequency Regulation,63.4,126.8,LGES,2024-02-01,103.85
+ESS_076,UK,Europe,KEPCO,Renewable Integration,80.0,320.0,LGES,2026-06-01,84.06
+ESS_077,China,Asia-Pacific,PG&E,Frequency Regulation,46.9,93.8,CATL,2027-01-01,56.26
+ESS_078,USA,North America,KEPCO,Peak Shaving,32.2,128.8,LGES,2023-11-01,133.72
+ESS_079,UK,Europe,Southern California Edison,Renewable Integration,33.5,67.0,LGES,2022-07-01,139.82
+ESS_080,USA,North America,Southern California Edison,Peak Shaving,63.9,255.6,LGES,2023-03-01,129.19
+ESS_081,Australia,Asia-Pacific,Southern California Edison,Peak Shaving,32.5,65.0,SAMSUNG_SDI,2027-08-01,73.02
+ESS_082,Australia,Asia-Pacific,Fluence,Frequency Regulation,16.2,64.8,SAMSUNG_SDI,2021-03-01,142.13
+ESS_083,USA,North America,Fluence,Frequency Regulation,103.8,207.6,LGES,2021-05-01,136.13
+ESS_084,UK,Europe,Florida Power & Light,Peak Shaving,45.6,182.4,LGES,2023-07-01,133.91
+ESS_085,Australia,Asia-Pacific,Vistra Energy,Renewable Integration,29.4,58.8,SAMSUNG_SDI,2026-04-01,79.38
+ESS_086,Australia,Asia-Pacific,AES Corporation,Frequency Regulation,144.3,577.2,SAMSUNG_SDI,2025-04-01,95.7
+ESS_087,USA,North America,AES Corporation,Frequency Regulation,40.1,160.4,LGES,2023-09-01,123.71
+ESS_088,UK,Europe,Terra-Gen,Peak Shaving,75.5,151.0,LGES,2027-07-01,74.19
+ESS_089,South Korea,Asia-Pacific,NextEra Energy,Frequency Regulation,126.5,253.0,LGES,2021-11-01,141.06
+ESS_090,UK,Europe,Neoen,Peak Shaving,144.5,578.0,LGES,2024-09-01,102.84
+ESS_091,USA,North America,Neoen,Peak Shaving,60.0,120.0,LGES,2021-06-01,139.58
+ESS_092,Australia,Asia-Pacific,Florida Power & Light,Peak Shaving,97.3,389.2,SAMSUNG_SDI,2022-06-01,144.26
+ESS_093,USA,North America,Florida Power & Light,Renewable Integration,118.4,473.6,BYD,2021-03-01,106.59
+ESS_094,USA,North America,KEPCO,Renewable Integration,48.5,194.0,LGES,2026-03-01,84.89
+ESS_095,China,Asia-Pacific,PG&E,Renewable Integration,45.1,90.2,CATL,2022-02-01,106.3
+ESS_096,USA,North America,AES Corporation,Frequency Regulation,120.0,480.0,LGES,2023-09-01,129.03
+ESS_097,USA,North America,NextEra Energy,Frequency Regulation,91.8,367.2,BYD,2021-05-01,108.89
+ESS_098,South Korea,Asia-Pacific,AES Corporation,Frequency Regulation,136.0,272.0,LGES,2021-04-01,143.49
+ESS_099,USA,North America,Vistra Energy,Frequency Regulation,107.6,215.2,BYD,2024-05-01,78.16
+ESS_100,South Korea,Asia-Pacific,Duke Energy,Peak Shaving,47.6,95.2,LGES,2024-02-01,113.07
+ESS_101,USA,North America,Southern California Edison,Frequency Regulation,135.6,542.4,BYD,2026-03-01,59.61
+ESS_102,USA,North America,PG&E,Renewable Integration,106.9,213.8,LGES,2024-05-01,110.15
+ESS_103,South Korea,Asia-Pacific,Duke Energy,Frequency Regulation,16.6,66.4,LGES,2021-12-01,143.12
+ESS_104,Australia,Asia-Pacific,NextEra Energy,Renewable Integration,81.0,324.0,SAMSUNG_SDI,2026-07-01,85.45
+ESS_105,South Korea,Asia-Pacific,Vistra Energy,Peak Shaving,92.6,370.4,LGES,2027-12-01,79.68
+ESS_106,South Korea,Asia-Pacific,Florida Power & Light,Frequency Regulation,104.0,208.0,LGES,2023-01-01,136.89
+ESS_107,South Korea,Asia-Pacific,Fluence,Peak Shaving,9.5,19.0,LGES,2027-11-01,78.29
+ESS_108,USA,North America,Fluence,Peak Shaving,134.4,537.6,LGES,2022-06-01,137.83
+ESS_109,USA,North America,Enel Green Power,Frequency Regulation,83.6,334.4,LGES,2026-01-01,86.89
+ESS_110,Australia,Asia-Pacific,Southern California Edison,Frequency Regulation,37.9,151.6,SAMSUNG_SDI,2022-07-01,138.52
+ESS_111,China,Asia-Pacific,Enel Green Power,Frequency Regulation,75.9,303.6,CATL,2025-02-01,71.09
+ESS_112,Germany,Europe,Terra-Gen,Peak Shaving,134.5,538.0,SAMSUNG_SDI,2023-10-01,123.21
+ESS_113,USA,North America,KEPCO,Renewable Integration,42.2,84.4,LGES,2027-06-01,79.39
+ESS_114,South Korea,Asia-Pacific,Fluence,Frequency Regulation,36.6,146.4,LGES,2022-09-01,148.9
+ESS_115,UK,Europe,Florida Power & Light,Renewable Integration,88.2,352.8,LGES,2022-12-01,151.87
+ESS_116,USA,North America,Neoen,Frequency Regulation,26.8,53.6,LGES,2023-03-01,128.8
+ESS_117,South Korea,Asia-Pacific,Neoen,Peak Shaving,74.2,148.4,LGES,2027-06-01,73.78
+ESS_118,UK,Europe,AES Corporation,Peak Shaving,67.2,134.4,LGES,2026-01-01,86.36
+ESS_119,Germany,Europe,AES Corporation,Peak Shaving,126.1,252.2,SAMSUNG_SDI,2027-11-01,78.38
+ESS_120,USA,North America,Duke Energy,Peak Shaving,148.5,297.0,LGES,2021-11-01,138.67
+ESS_121,UK,Europe,Vistra Energy,Peak Shaving,31.0,124.0,LGES,2027-07-01,79.43
+ESS_122,USA,North America,PG&E,Renewable Integration,122.1,244.2,LGES,2021-05-01,140.82
+ESS_123,USA,North America,Fluence,Frequency Regulation,113.3,226.6,LGES,2024-04-01,110.13
+ESS_124,USA,North America,Duke Energy,Renewable Integration,12.6,25.2,LGES,2023-04-01,137.47
+ESS_125,USA,North America,PG&E,Renewable Integration,130.9,261.8,LGES,2024-04-01,111.78
+ESS_126,UK,Europe,Fluence,Peak Shaving,19.3,77.2,LGES,2024-09-01,110.53
+ESS_127,Australia,Asia-Pacific,AES Corporation,Renewable Integration,87.8,351.2,SAMSUNG_SDI,2027-03-01,78.51
+ESS_128,Australia,Asia-Pacific,Enel Green Power,Renewable Integration,34.6,69.2,SAMSUNG_SDI,2026-06-01,79.89
+ESS_129,South Korea,Asia-Pacific,Southern California Edison,Renewable Integration,75.0,300.0,LGES,2022-11-01,135.97
+ESS_130,Australia,Asia-Pacific,Enel Green Power,Renewable Integration,127.0,254.0,CATL,2026-07-01,63.92
+ESS_131,USA,North America,PG&E,Peak Shaving,107.6,215.2,LGES,2027-03-01,75.95
+ESS_132,UK,Europe,Neoen,Renewable Integration,21.6,86.4,LGES,2025-02-01,92.49
+ESS_133,USA,North America,Terra-Gen,Peak Shaving,51.1,102.2,BYD,2021-08-01,99.97
+ESS_134,UK,Europe,AES Corporation,Peak Shaving,51.8,207.2,LGES,2023-03-01,135.66
+ESS_135,USA,North America,Fluence,Peak Shaving,115.5,231.0,LGES,2027-10-01,73.86
+ESS_136,USA,North America,Southern California Edison,Peak Shaving,138.4,553.6,CATL,2022-04-01,109.91
+ESS_137,South Korea,Asia-Pacific,Vistra Energy,Frequency Regulation,137.9,551.6,LGES,2025-05-01,100.36
+ESS_138,UK,Europe,PG&E,Frequency Regulation,50.3,100.6,LGES,2021-04-01,136.35
+ESS_139,UK,Europe,KEPCO,Peak Shaving,99.1,396.4,LGES,2022-05-01,151.7
+ESS_140,China,Asia-Pacific,Duke Energy,Peak Shaving,107.6,430.4,CATL,2023-05-01,100.17
+ESS_141,USA,North America,Florida Power & Light,Renewable Integration,84.1,168.2,BYD,2024-10-01,81.39
+ESS_142,USA,North America,Vistra Energy,Renewable Integration,115.1,230.2,LGES,2026-02-01,81.15
+ESS_143,USA,North America,Enel Green Power,Frequency Regulation,34.7,138.8,BYD,2025-11-01,73.0
+ESS_144,South Korea,Asia-Pacific,Florida Power & Light,Frequency Regulation,55.1,220.4,LGES,2024-03-01,113.37
+ESS_145,USA,North America,Fluence,Frequency Regulation,113.6,227.2,BYD,2024-09-01,80.18
+ESS_146,South Korea,Asia-Pacific,Fluence,Frequency Regulation,53.2,212.8,LGES,2021-12-01,143.92
+ESS_147,South Korea,Asia-Pacific,Enel Green Power,Peak Shaving,58.0,232.0,LGES,2024-01-01,108.28
+ESS_148,USA,North America,Neoen,Renewable Integration,111.2,444.8,BYD,2027-10-01,60.36
+ESS_149,South Korea,Asia-Pacific,Vistra Energy,Peak Shaving,123.3,493.2,LGES,2025-03-01,91.58
+ESS_150,USA,North America,Duke Energy,Peak Shaving,147.0,588.0,BYD,2023-10-01,91.85
+ESS_151,USA,North America,KEPCO,Renewable Integration,128.0,256.0,LGES,2026-04-01,84.86
+ESS_152,UK,Europe,Duke Energy,Peak Shaving,38.2,76.4,LGES,2026-05-01,84.17
+ESS_153,UK,Europe,Fluence,Peak Shaving,6.2,12.4,LGES,2022-11-01,140.21
+ESS_154,UK,Europe,AES Corporation,Renewable Integration,75.0,150.0,LGES,2024-10-01,108.63
+ESS_155,USA,North America,Neoen,Frequency Regulation,39.8,159.2,LGES,2025-04-01,94.75
+ESS_156,Germany,Europe,Florida Power & Light,Renewable Integration,148.2,592.8,SAMSUNG_SDI,2026-09-01,87.48
+ESS_157,USA,North America,Neoen,Peak Shaving,141.4,565.6,LGES,2025-02-01,95.44
+ESS_158,USA,North America,Enel Green Power,Frequency Regulation,69.8,279.2,BYD,2026-06-01,65.38
+ESS_159,Australia,Asia-Pacific,Enel Green Power,Frequency Regulation,114.5,229.0,SAMSUNG_SDI,2025-05-01,91.38
+ESS_160,UK,Europe,PG&E,Peak Shaving,105.3,421.2,LGES,2024-08-01,113.29
+ESS_161,Australia,Asia-Pacific,Neoen,Peak Shaving,19.2,76.8,CATL,2025-10-01,70.75
+ESS_162,USA,North America,NextEra Energy,Renewable Integration,118.8,475.2,LGES,2024-05-01,105.16
+ESS_163,USA,North America,PG&E,Renewable Integration,70.6,282.4,LGES,2026-03-01,80.91
+ESS_164,China,Asia-Pacific,Florida Power & Light,Renewable Integration,143.9,287.8,CATL,2022-11-01,101.94
+ESS_165,Australia,Asia-Pacific,PG&E,Frequency Regulation,89.4,178.8,SAMSUNG_SDI,2023-10-01,133.18
+ESS_166,UK,Europe,Enel Green Power,Renewable Integration,84.4,168.8,LGES,2025-06-01,93.78
+ESS_167,UK,Europe,AES Corporation,Renewable Integration,21.2,42.4,LGES,2026-02-01,84.69
+ESS_168,UK,Europe,Fluence,Renewable Integration,92.0,184.0,LGES,2023-02-01,134.37
+ESS_169,Australia,Asia-Pacific,Southern California Edison,Peak Shaving,83.8,167.6,SAMSUNG_SDI,2022-04-01,135.78
+ESS_170,Australia,Asia-Pacific,Vistra Energy,Renewable Integration,46.7,93.4,SAMSUNG_SDI,2024-11-01,104.03
+ESS_171,Australia,Asia-Pacific,Florida Power & Light,Frequency Regulation,131.3,525.2,SAMSUNG_SDI,2025-07-01,97.55
+ESS_172,USA,North America,Vistra Energy,Peak Shaving,28.1,112.4,BYD,2021-07-01,108.47
+ESS_173,UK,Europe,Terra-Gen,Renewable Integration,66.8,267.2,LGES,2024-07-01,103.24
+ESS_174,USA,North America,Florida Power & Light,Peak Shaving,7.7,15.4,LGES,2024-05-01,113.88
+ESS_175,USA,North America,KEPCO,Frequency Regulation,136.9,273.8,BYD,2024-11-01,79.93
+ESS_176,USA,North America,Enel Green Power,Renewable Integration,84.3,168.6,CATL,2021-06-01,107.45
+ESS_177,USA,North America,Duke Energy,Frequency Regulation,146.9,587.6,LGES,2024-04-01,102.7
+ESS_178,Germany,Europe,NextEra Energy,Peak Shaving,134.7,538.8,SAMSUNG_SDI,2024-07-01,114.88
+ESS_179,South Korea,Asia-Pacific,AES Corporation,Frequency Regulation,140.4,561.6,LGES,2026-06-01,86.14
+ESS_180,South Korea,Asia-Pacific,NextEra Energy,Renewable Integration,96.8,193.6,LGES,2027-07-01,81.38
+ESS_181,USA,North America,Vistra Energy,Peak Shaving,83.6,167.2,LGES,2021-06-01,134.13
+ESS_182,USA,North America,Fluence,Peak Shaving,79.7,318.8,LGES,2024-07-01,103.32
+ESS_183,South Korea,Asia-Pacific,Vistra Energy,Peak Shaving,123.1,246.2,LGES,2026-04-01,86.06
+ESS_184,Australia,Asia-Pacific,AES Corporation,Renewable Integration,139.7,279.4,SAMSUNG_SDI,2024-02-01,114.59
+ESS_185,China,Asia-Pacific,Neoen,Frequency Regulation,125.0,250.0,CATL,2027-02-01,56.91
+ESS_186,UK,Europe,Southern California Edison,Frequency Regulation,102.9,411.6,LGES,2022-07-01,146.49
+ESS_187,UK,Europe,Southern California Edison,Frequency Regulation,59.1,118.2,LGES,2022-05-01,151.79
+ESS_188,South Korea,Asia-Pacific,Southern California Edison,Peak Shaving,80.9,323.6,LGES,2025-04-01,90.68
+ESS_189,USA,North America,Enel Green Power,Renewable Integration,76.0,152.0,LGES,2025-05-01,98.71
+ESS_190,South Korea,Asia-Pacific,AES Corporation,Frequency Regulation,57.7,115.4,LGES,2026-11-01,84.82
+ESS_191,South Korea,Asia-Pacific,Florida Power & Light,Peak Shaving,84.8,169.6,LGES,2023-02-01,134.81
+ESS_192,USA,North America,Enel Green Power,Renewable Integration,33.9,135.6,LGES,2023-12-01,132.6
+ESS_193,UK,Europe,NextEra Energy,Frequency Regulation,14.7,58.8,LGES,2022-10-01,136.01
+ESS_194,USA,North America,NextEra Energy,Frequency Regulation,132.1,528.4,BYD,2025-01-01,68.63
+ESS_195,USA,North America,NextEra Energy,Renewable Integration,39.5,158.0,BYD,2022-06-01,103.53
+ESS_196,UK,Europe,Duke Energy,Renewable Integration,79.1,158.2,LGES,2022-08-01,139.33
+ESS_197,UK,Europe,Fluence,Frequency Regulation,17.5,70.0,LGES,2023-03-01,127.83
+ESS_198,UK,Europe,Neoen,Peak Shaving,7.5,15.0,LGES,2022-03-01,150.66
+ESS_199,South Korea,Asia-Pacific,KEPCO,Frequency Regulation,78.1,156.2,LGES,2022-06-01,137.38
+ESS_200,USA,North America,Florida Power & Light,Frequency Regulation,23.0,92.0,LGES,2025-09-01,94.92
+ESS_201,UK,Europe,AES Corporation,Peak Shaving,28.7,57.4,LGES,2022-07-01,136.09
+ESS_202,South Korea,Asia-Pacific,Neoen,Frequency Regulation,118.7,237.4,LGES,2027-09-01,73.75
+ESS_203,UK,Europe,KEPCO,Frequency Regulation,115.3,461.2,LGES,2026-07-01,79.52
+ESS_204,USA,North America,Neoen,Peak Shaving,147.3,589.2,LGES,2027-04-01,75.44
+ESS_205,USA,North America,Duke Energy,Frequency Regulation,144.9,579.6,BYD,2022-08-01,104.34
+ESS_206,South Korea,Asia-Pacific,KEPCO,Peak Shaving,107.3,214.6,LGES,2024-04-01,109.47
+ESS_207,USA,North America,Neoen,Frequency Regulation,44.8,179.2,LGES,2025-04-01,95.61
+ESS_208,South Korea,Asia-Pacific,Vistra Energy,Frequency Regulation,115.2,230.4,LGES,2021-04-01,139.24
+ESS_209,USA,North America,Florida Power & Light,Peak Shaving,103.5,414.0,LGES,2022-03-01,136.12
+ESS_210,UK,Europe,KEPCO,Renewable Integration,120.6,482.4,LGES,2024-05-01,107.48
+ESS_211,Australia,Asia-Pacific,Enel Green Power,Peak Shaving,8.0,32.0,CATL,2027-04-01,58.88
+ESS_212,UK,Europe,Terra-Gen,Renewable Integration,142.8,285.6,LGES,2024-06-01,115.52
+ESS_213,China,Asia-Pacific,PG&E,Renewable Integration,120.8,483.2,CATL,2022-12-01,108.49
+ESS_214,China,Asia-Pacific,Florida Power & Light,Peak Shaving,106.9,213.8,CATL,2024-03-01,78.47
+ESS_215,UK,Europe,NextEra Energy,Peak Shaving,107.9,215.8,LGES,2024-07-01,108.51
+ESS_216,USA,North America,AES Corporation,Peak Shaving,133.4,266.8,LGES,2024-03-01,109.23
+ESS_217,UK,Europe,NextEra Energy,Peak Shaving,41.6,83.2,LGES,2026-02-01,84.91
+ESS_218,South Korea,Asia-Pacific,AES Corporation,Frequency Regulation,44.1,176.4,LGES,2027-06-01,73.65
+ESS_219,Australia,Asia-Pacific,KEPCO,Frequency Regulation,15.3,30.6,SAMSUNG_SDI,2022-05-01,136.56
+ESS_220,UK,Europe,Terra-Gen,Peak Shaving,73.5,294.0,LGES,2022-05-01,141.33
+ESS_221,USA,North America,NextEra Energy,Frequency Regulation,87.0,174.0,LGES,2023-05-01,127.51
+ESS_222,USA,North America,Florida Power & Light,Frequency Regulation,143.8,287.6,BYD,2022-12-01,105.01
+ESS_223,South Korea,Asia-Pacific,PG&E,Renewable Integration,97.5,195.0,LGES,2024-04-01,106.16
+ESS_224,USA,North America,Vistra Energy,Frequency Regulation,133.5,267.0,LGES,2021-09-01,138.28
+ESS_225,South Korea,Asia-Pacific,NextEra Energy,Frequency Regulation,51.1,204.4,LGES,2027-07-01,73.58
+ESS_226,Germany,Europe,Fluence,Frequency Regulation,80.2,160.4,SAMSUNG_SDI,2023-05-01,127.48
+ESS_227,UK,Europe,KEPCO,Renewable Integration,110.3,441.2,LGES,2023-12-01,122.8
+ESS_228,UK,Europe,AES Corporation,Frequency Regulation,45.0,90.0,LGES,2027-08-01,75.68
+ESS_229,South Korea,Asia-Pacific,Florida Power & Light,Peak Shaving,81.1,162.2,LGES,2021-11-01,145.65
+ESS_230,South Korea,Asia-Pacific,Neoen,Peak Shaving,135.0,270.0,LGES,2024-04-01,111.59
+ESS_231,USA,North America,Duke Energy,Renewable Integration,9.2,18.4,LGES,2027-02-01,75.38
+ESS_232,USA,North America,NextEra Energy,Peak Shaving,117.6,470.4,LGES,2025-05-01,97.9
+ESS_233,South Korea,Asia-Pacific,Fluence,Peak Shaving,101.5,203.0,LGES,2022-08-01,149.07
+ESS_234,South Korea,Asia-Pacific,Southern California Edison,Renewable Integration,97.1,194.2,LGES,2021-07-01,140.09
+ESS_235,Australia,Asia-Pacific,Neoen,Frequency Regulation,49.4,98.8,SAMSUNG_SDI,2027-04-01,74.75
+ESS_236,USA,North America,Fluence,Renewable Integration,142.5,285.0,BYD,2026-10-01,65.39
+ESS_237,Australia,Asia-Pacific,AES Corporation,Renewable Integration,16.7,33.4,SAMSUNG_SDI,2023-12-01,130.73
+ESS_238,USA,North America,Florida Power & Light,Peak Shaving,133.3,266.6,LGES,2026-12-01,80.29
+ESS_239,Australia,Asia-Pacific,Duke Energy,Renewable Integration,18.6,37.2,SAMSUNG_SDI,2021-06-01,141.06
+ESS_240,UK,Europe,Terra-Gen,Renewable Integration,46.5,186.0,LGES,2027-07-01,76.3
+ESS_241,UK,Europe,Fluence,Peak Shaving,77.2,308.8,LGES,2023-04-01,124.7
+ESS_242,Australia,Asia-Pacific,PG&E,Peak Shaving,148.1,592.4,CATL,2024-05-01,79.33
+ESS_243,South Korea,Asia-Pacific,Enel Green Power,Frequency Regulation,9.7,38.8,LGES,2024-12-01,108.31
+ESS_244,USA,North America,KEPCO,Renewable Integration,16.8,67.2,LGES,2026-02-01,85.98
+ESS_245,USA,North America,Florida Power & Light,Peak Shaving,129.0,258.0,LGES,2026-01-01,79.56
+ESS_246,Australia,Asia-Pacific,Terra-Gen,Frequency Regulation,98.4,393.6,SAMSUNG_SDI,2027-11-01,76.95
+ESS_247,Germany,Europe,NextEra Energy,Peak Shaving,121.8,243.6,SAMSUNG_SDI,2027-12-01,77.63
+ESS_248,South Korea,Asia-Pacific,Florida Power & Light,Renewable Integration,7.2,14.4,LGES,2024-05-01,114.77
+ESS_249,Australia,Asia-Pacific,Vistra Energy,Peak Shaving,146.4,292.8,SAMSUNG_SDI,2024-03-01,106.64
+ESS_250,UK,Europe,Southern California Edison,Frequency Regulation,71.7,286.8,LGES,2026-05-01,83.73
+ESS_251,Australia,Asia-Pacific,Neoen,Frequency Regulation,18.0,72.0,SAMSUNG_SDI,2026-04-01,85.27
+ESS_252,USA,North America,NextEra Energy,Renewable Integration,52.7,210.8,LGES,2026-05-01,79.69
+ESS_253,South Korea,Asia-Pacific,Vistra Energy,Peak Shaving,124.9,499.6,LGES,2026-08-01,86.76
+ESS_254,South Korea,Asia-Pacific,Neoen,Frequency Regulation,81.8,163.6,LGES,2027-01-01,78.09
+ESS_255,USA,North America,Terra-Gen,Renewable Integration,112.7,225.4,LGES,2022-07-01,141.19
+ESS_256,Australia,Asia-Pacific,Vistra Energy,Renewable Integration,143.5,574.0,SAMSUNG_SDI,2022-04-01,138.79
+ESS_257,USA,North America,Vistra Energy,Renewable Integration,21.5,43.0,LGES,2026-04-01,81.68
+ESS_258,South Korea,Asia-Pacific,AES Corporation,Peak Shaving,103.9,415.6,LGES,2023-11-01,133.46
+ESS_259,UK,Europe,KEPCO,Frequency Regulation,114.4,228.8,LGES,2024-05-01,109.47
+ESS_260,UK,Europe,Neoen,Peak Shaving,142.2,284.4,LGES,2021-10-01,141.82
+ESS_261,Germany,Europe,Neoen,Frequency Regulation,107.3,214.6,SAMSUNG_SDI,2021-11-01,138.87
+ESS_262,South Korea,Asia-Pacific,Fluence,Renewable Integration,42.0,168.0,LGES,2026-08-01,81.08
+ESS_263,South Korea,Asia-Pacific,Neoen,Peak Shaving,122.2,488.8,LGES,2021-01-01,146.0
+ESS_264,Australia,Asia-Pacific,Duke Energy,Frequency Regulation,96.0,192.0,SAMSUNG_SDI,2021-06-01,135.18
+ESS_265,South Korea,Asia-Pacific,Duke Energy,Renewable Integration,65.6,262.4,LGES,2025-05-01,100.59
+ESS_266,USA,North America,AES Corporation,Renewable Integration,43.0,86.0,LGES,2026-01-01,85.08
+ESS_267,Australia,Asia-Pacific,Terra-Gen,Renewable Integration,100.8,201.6,SAMSUNG_SDI,2025-01-01,91.14
+ESS_268,USA,North America,PG&E,Renewable Integration,112.1,448.4,LGES,2023-05-01,128.32
+ESS_269,USA,North America,Neoen,Renewable Integration,121.0,484.0,LGES,2025-01-01,91.28
+ESS_270,USA,North America,AES Corporation,Renewable Integration,108.6,434.4,BYD,2022-09-01,106.96
+ESS_271,Australia,Asia-Pacific,PG&E,Peak Shaving,58.5,234.0,SAMSUNG_SDI,2021-07-01,145.36
+ESS_272,UK,Europe,Terra-Gen,Peak Shaving,140.1,560.4,LGES,2021-02-01,138.84
+ESS_273,UK,Europe,Fluence,Frequency Regulation,106.0,424.0,LGES,2022-03-01,135.59
+ESS_274,USA,North America,Neoen,Renewable Integration,69.3,138.6,CATL,2027-03-01,60.58
+ESS_275,USA,North America,KEPCO,Renewable Integration,76.6,153.2,LGES,2023-11-01,124.56
+ESS_276,UK,Europe,AES Corporation,Renewable Integration,28.7,114.8,LGES,2025-11-01,92.44
+ESS_277,South Korea,Asia-Pacific,PG&E,Frequency Regulation,81.6,163.2,LGES,2024-02-01,103.86
+ESS_278,UK,Europe,Neoen,Peak Shaving,147.9,295.8,LGES,2021-04-01,148.18
+ESS_279,USA,North America,Duke Energy,Peak Shaving,88.4,353.6,LGES,2026-07-01,81.4
+ESS_280,USA,North America,Southern California Edison,Peak Shaving,34.1,68.2,LGES,2026-05-01,84.58
+ESS_281,USA,North America,Vistra Energy,Renewable Integration,102.7,205.4,LGES,2025-10-01,98.77
+ESS_282,UK,Europe,Terra-Gen,Peak Shaving,128.2,512.8,LGES,2026-12-01,85.99
+ESS_283,USA,North America,KEPCO,Renewable Integration,72.4,289.6,LGES,2021-06-01,135.34
+ESS_284,South Korea,Asia-Pacific,Vistra Energy,Frequency Regulation,54.8,219.2,LGES,2022-12-01,150.19
+ESS_285,UK,Europe,NextEra Energy,Renewable Integration,17.2,68.8,LGES,2025-09-01,93.37
+ESS_286,UK,Europe,Vistra Energy,Renewable Integration,137.7,550.8,LGES,2023-06-01,128.95
+ESS_287,USA,North America,NextEra Energy,Renewable Integration,29.0,116.0,LGES,2026-01-01,84.29
+ESS_288,USA,North America,Enel Green Power,Peak Shaving,56.8,113.6,LGES,2027-03-01,75.21
+ESS_289,USA,North America,Enel Green Power,Renewable Integration,66.5,266.0,LGES,2023-02-01,123.8
+ESS_290,Australia,Asia-Pacific,Fluence,Frequency Regulation,137.3,274.6,SAMSUNG_SDI,2022-02-01,136.3
+ESS_291,USA,North America,Vistra Energy,Peak Shaving,19.9,39.8,LGES,2027-08-01,78.22
+ESS_292,UK,Europe,Fluence,Peak Shaving,90.1,180.2,LGES,2021-09-01,145.54
+ESS_293,USA,North America,Terra-Gen,Renewable Integration,85.9,343.6,LGES,2022-10-01,146.83
+ESS_294,USA,North America,KEPCO,Renewable Integration,136.1,544.4,LGES,2022-11-01,140.78
+ESS_295,South Korea,Asia-Pacific,Neoen,Frequency Regulation,137.7,550.8,LGES,2025-02-01,98.23
+ESS_296,Australia,Asia-Pacific,Florida Power & Light,Peak Shaving,87.8,175.6,SAMSUNG_SDI,2022-12-01,147.26
+ESS_297,Australia,Asia-Pacific,Fluence,Peak Shaving,130.0,260.0,SAMSUNG_SDI,2021-04-01,147.84
+ESS_298,USA,North America,Fluence,Peak Shaving,66.0,264.0,BYD,2027-04-01,59.1
+ESS_299,USA,North America,Fluence,Renewable Integration,69.3,138.6,LGES,2021-05-01,133.66
+ESS_300,UK,Europe,Terra-Gen,Frequency Regulation,67.4,269.6,LGES,2021-11-01,134.81
+ESS_301,USA,North America,KEPCO,Renewable Integration,36.9,73.8,LGES,2022-12-01,144.29
+ESS_302,USA,North America,Terra-Gen,Peak Shaving,109.1,436.4,LGES,2023-11-01,128.3
+ESS_303,USA,North America,PG&E,Renewable Integration,13.5,27.0,LGES,2024-05-01,110.2
+ESS_304,South Korea,Asia-Pacific,Terra-Gen,Peak Shaving,51.2,204.8,LGES,2021-03-01,144.3
+ESS_305,China,Asia-Pacific,AES Corporation,Frequency Regulation,61.0,244.0,CATL,2027-08-01,54.61
+ESS_306,South Korea,Asia-Pacific,Terra-Gen,Peak Shaving,149.9,299.8,LGES,2027-05-01,78.46
+ESS_307,South Korea,Asia-Pacific,KEPCO,Renewable Integration,94.7,378.8,LGES,2024-05-01,109.2
+ESS_308,USA,North America,NextEra Energy,Frequency Regulation,119.3,238.6,LGES,2026-05-01,80.73
+ESS_309,UK,Europe,AES Corporation,Peak Shaving,133.8,535.2,LGES,2023-09-01,125.2
+ESS_310,USA,North America,AES Corporation,Renewable Integration,93.3,373.2,LGES,2027-07-01,73.56
+ESS_311,UK,Europe,Neoen,Frequency Regulation,142.1,568.4,LGES,2023-09-01,127.34
+ESS_312,UK,Europe,AES Corporation,Peak Shaving,6.3,25.2,LGES,2021-06-01,138.28
+ESS_313,UK,Europe,PG&E,Renewable Integration,75.6,302.4,LGES,2023-02-01,126.22
+ESS_314,South Korea,Asia-Pacific,Southern California Edison,Frequency Regulation,5.2,20.8,LGES,2024-07-01,105.31
+ESS_315,South Korea,Asia-Pacific,AES Corporation,Renewable Integration,36.4,72.8,LGES,2024-10-01,108.31
+ESS_316,USA,North America,Neoen,Peak Shaving,86.8,347.2,BYD,2023-03-01,98.82
+ESS_317,UK,Europe,AES Corporation,Peak Shaving,20.3,81.2,LGES,2025-06-01,98.78
+ESS_318,South Korea,Asia-Pacific,PG&E,Peak Shaving,146.9,587.6,LGES,2021-11-01,146.87
+ESS_319,UK,Europe,Duke Energy,Frequency Regulation,120.8,241.6,LGES,2024-05-01,114.21
+ESS_320,Australia,Asia-Pacific,KEPCO,Frequency Regulation,65.3,261.2,SAMSUNG_SDI,2027-10-01,72.97
+ESS_321,Germany,Europe,Enel Green Power,Peak Shaving,126.1,252.2,SAMSUNG_SDI,2025-12-01,93.9
+ESS_322,USA,North America,Florida Power & Light,Frequency Regulation,130.8,523.2,CATL,2024-12-01,77.82
+ESS_323,USA,North America,PG&E,Frequency Regulation,12.8,51.2,LGES,2025-05-01,89.74
+ESS_324,UK,Europe,Southern California Edison,Peak Shaving,62.7,125.4,LGES,2023-05-01,137.82
+ESS_325,USA,North America,Fluence,Renewable Integration,72.9,145.8,LGES,2025-09-01,99.47
+ESS_326,China,Asia-Pacific,Duke Energy,Frequency Regulation,110.3,441.2,CATL,2026-01-01,63.19
+ESS_327,USA,North America,Terra-Gen,Renewable Integration,18.0,36.0,BYD,2025-03-01,74.12
+ESS_328,Australia,Asia-Pacific,PG&E,Renewable Integration,83.2,332.8,SAMSUNG_SDI,2022-08-01,144.0
+ESS_329,Australia,Asia-Pacific,Duke Energy,Frequency Regulation,33.5,67.0,SAMSUNG_SDI,2027-04-01,80.45
+ESS_330,South Korea,Asia-Pacific,KEPCO,Frequency Regulation,5.4,21.6,LGES,2026-01-01,88.82
+ESS_331,South Korea,Asia-Pacific,Southern California Edison,Frequency Regulation,60.7,121.4,LGES,2026-10-01,87.21
+ESS_332,Australia,Asia-Pacific,Duke Energy,Peak Shaving,133.6,534.4,SAMSUNG_SDI,2025-05-01,100.12
+ESS_333,USA,North America,Fluence,Peak Shaving,119.1,238.2,LGES,2025-10-01,98.76
+ESS_334,USA,North America,Vistra Energy,Renewable Integration,50.7,202.8,LGES,2023-12-01,131.82
+ESS_335,China,Asia-Pacific,AES Corporation,Peak Shaving,54.3,217.2,CATL,2023-07-01,92.9
+ESS_336,South Korea,Asia-Pacific,PG&E,Peak Shaving,72.3,289.2,LGES,2026-09-01,85.03
+ESS_337,USA,North America,Southern California Edison,Frequency Regulation,42.1,168.4,LGES,2023-11-01,133.08
+ESS_338,USA,North America,Southern California Edison,Peak Shaving,132.7,530.8,LGES,2027-09-01,79.24
+ESS_339,USA,North America,PG&E,Peak Shaving,84.0,168.0,LGES,2021-07-01,137.48
+ESS_340,Australia,Asia-Pacific,Neoen,Peak Shaving,46.1,92.2,SAMSUNG_SDI,2026-12-01,82.42
+ESS_341,UK,Europe,Terra-Gen,Frequency Regulation,67.6,270.4,LGES,2026-09-01,80.75
+ESS_342,UK,Europe,NextEra Energy,Peak Shaving,34.5,69.0,LGES,2023-03-01,129.47
+ESS_343,Australia,Asia-Pacific,Duke Energy,Frequency Regulation,12.0,24.0,SAMSUNG_SDI,2025-03-01,100.46
+ESS_344,UK,Europe,NextEra Energy,Renewable Integration,44.2,88.4,LGES,2023-06-01,123.04
+ESS_345,USA,North America,Terra-Gen,Peak Shaving,80.0,320.0,LGES,2025-04-01,90.15
+ESS_346,USA,North America,AES Corporation,Frequency Regulation,136.8,547.2,LGES,2022-07-01,136.83
+ESS_347,South Korea,Asia-Pacific,NextEra Energy,Renewable Integration,134.6,538.4,LGES,2021-04-01,146.23
+ESS_348,USA,North America,PG&E,Frequency Regulation,144.6,289.2,LGES,2022-02-01,137.38
+ESS_349,USA,North America,AES Corporation,Frequency Regulation,119.9,239.8,LGES,2024-10-01,112.97
+ESS_350,USA,North America,NextEra Energy,Frequency Regulation,77.9,155.8,LGES,2024-10-01,104.67
+ESS_351,South Korea,Asia-Pacific,Terra-Gen,Renewable Integration,37.7,75.4,LGES,2024-02-01,104.47
+ESS_352,UK,Europe,PG&E,Frequency Regulation,106.2,424.8,LGES,2024-08-01,103.14
+ESS_353,USA,North America,PG&E,Renewable Integration,39.3,78.6,BYD,2021-01-01,104.49
+ESS_354,USA,North America,Southern California Edison,Peak Shaving,38.4,153.6,LGES,2027-10-01,73.92
+ESS_355,USA,North America,PG&E,Frequency Regulation,132.5,530.0,BYD,2025-12-01,71.7
+ESS_356,USA,North America,Neoen,Renewable Integration,82.3,164.6,BYD,2023-10-01,100.65
+ESS_357,Australia,Asia-Pacific,Fluence,Renewable Integration,96.9,193.8,SAMSUNG_SDI,2022-06-01,138.35
+ESS_358,Australia,Asia-Pacific,Fluence,Renewable Integration,72.8,291.2,SAMSUNG_SDI,2027-12-01,78.36
+ESS_359,UK,Europe,Duke Energy,Frequency Regulation,139.0,278.0,LGES,2022-09-01,147.9
+ESS_360,Australia,Asia-Pacific,Vistra Energy,Frequency Regulation,33.6,134.4,SAMSUNG_SDI,2023-09-01,132.79
+ESS_361,USA,North America,Vistra Energy,Renewable Integration,11.3,22.6,LGES,2026-02-01,84.2
+ESS_362,USA,North America,Vistra Energy,Frequency Regulation,122.8,491.2,LGES,2026-01-01,87.49
+ESS_363,USA,North America,KEPCO,Renewable Integration,30.7,122.8,LGES,2026-03-01,83.37
+ESS_364,USA,North America,Southern California Edison,Peak Shaving,57.7,230.8,BYD,2021-09-01,107.92
+ESS_365,USA,North America,NextEra Energy,Frequency Regulation,103.6,207.2,LGES,2021-07-01,144.5
+ESS_366,South Korea,Asia-Pacific,Enel Green Power,Frequency Regulation,66.1,132.2,LGES,2024-01-01,102.86
+ESS_367,USA,North America,Duke Energy,Peak Shaving,109.6,438.4,BYD,2022-03-01,109.79
+ESS_368,South Korea,Asia-Pacific,KEPCO,Frequency Regulation,48.5,194.0,LGES,2023-01-01,129.7
+ESS_369,USA,North America,Neoen,Peak Shaving,17.4,34.8,LGES,2026-07-01,85.98
+ESS_370,South Korea,Asia-Pacific,Florida Power & Light,Renewable Integration,26.0,52.0,LGES,2022-08-01,139.49
+ESS_371,USA,North America,Florida Power & Light,Peak Shaving,77.7,155.4,LGES,2024-11-01,103.77
+ESS_372,South Korea,Asia-Pacific,Florida Power & Light,Frequency Regulation,83.3,333.2,LGES,2026-12-01,86.78
+ESS_373,South Korea,Asia-Pacific,PG&E,Renewable Integration,14.3,57.2,LGES,2021-11-01,141.66
+ESS_374,Australia,Asia-Pacific,NextEra Energy,Renewable Integration,77.4,309.6,SAMSUNG_SDI,2023-07-01,123.19
+ESS_375,USA,North America,AES Corporation,Frequency Regulation,81.4,325.6,LGES,2027-07-01,77.3
+ESS_376,South Korea,Asia-Pacific,KEPCO,Peak Shaving,95.8,383.2,LGES,2026-10-01,81.93
+ESS_377,USA,North America,Neoen,Renewable Integration,134.9,539.6,LGES,2021-09-01,140.37
+ESS_378,UK,Europe,Neoen,Renewable Integration,134.4,537.6,LGES,2021-08-01,148.28
+ESS_379,USA,North America,Duke Energy,Renewable Integration,125.1,500.4,LGES,2026-11-01,79.16
+ESS_380,China,Asia-Pacific,Duke Energy,Frequency Regulation,114.5,229.0,CATL,2021-09-01,110.27
+ESS_381,USA,North America,Terra-Gen,Peak Shaving,20.9,83.6,LGES,2024-01-01,109.3
+ESS_382,South Korea,Asia-Pacific,AES Corporation,Renewable Integration,95.5,382.0,LGES,2026-04-01,88.81
+ESS_383,China,Asia-Pacific,Fluence,Peak Shaving,131.7,263.4,CATL,2024-02-01,82.13
+ESS_384,South Korea,Asia-Pacific,Fluence,Renewable Integration,138.2,276.4,LGES,2021-12-01,136.26
+ESS_385,USA,North America,Fluence,Renewable Integration,74.9,149.8,LGES,2025-11-01,94.66
+ESS_386,UK,Europe,Vistra Energy,Frequency Regulation,65.6,131.2,LGES,2027-09-01,79.29
+ESS_387,USA,North America,Terra-Gen,Frequency Regulation,18.7,37.4,LGES,2026-03-01,81.1
+ESS_388,USA,North America,NextEra Energy,Peak Shaving,88.9,355.6,LGES,2025-06-01,100.18
+ESS_389,South Korea,Asia-Pacific,Southern California Edison,Peak Shaving,105.8,211.6,LGES,2023-04-01,129.72
+ESS_390,Australia,Asia-Pacific,Neoen,Frequency Regulation,59.1,118.2,SAMSUNG_SDI,2025-02-01,93.07
+ESS_391,USA,North America,AES Corporation,Renewable Integration,22.3,89.2,LGES,2024-07-01,110.32
+ESS_392,South Korea,Asia-Pacific,NextEra Energy,Renewable Integration,111.6,446.4,LGES,2024-05-01,107.87
+ESS_393,Germany,Europe,Vistra Energy,Frequency Regulation,32.4,129.6,SAMSUNG_SDI,2023-12-01,137.02
+ESS_394,South Korea,Asia-Pacific,KEPCO,Peak Shaving,53.5,107.0,LGES,2025-11-01,96.02
+ESS_395,USA,North America,Florida Power & Light,Peak Shaving,79.0,316.0,LGES,2023-06-01,123.76
+ESS_396,Australia,Asia-Pacific,AES Corporation,Renewable Integration,26.8,107.2,SAMSUNG_SDI,2026-03-01,87.99
+ESS_397,USA,North America,Enel Green Power,Frequency Regulation,127.0,508.0,LGES,2025-12-01,98.9
+ESS_398,USA,North America,Terra-Gen,Renewable Integration,46.8,93.6,LGES,2024-07-01,105.25
+ESS_399,South Korea,Asia-Pacific,Duke Energy,Peak Shaving,52.4,104.8,LGES,2026-11-01,83.98
+ESS_400,UK,Europe,AES Corporation,Frequency Regulation,16.7,33.4,LGES,2021-05-01,145.7
+ESS_401,UK,Europe,Duke Energy,Peak Shaving,146.7,293.4,LGES,2022-07-01,148.18
+ESS_402,USA,North America,Southern California Edison,Peak Shaving,133.0,532.0,LGES,2024-06-01,106.67
+ESS_403,South Korea,Asia-Pacific,Florida Power & Light,Frequency Regulation,107.7,215.4,LGES,2026-03-01,80.02
+ESS_404,USA,North America,Vistra Energy,Frequency Regulation,99.5,199.0,LGES,2025-09-01,89.62
+ESS_405,UK,Europe,Neoen,Peak Shaving,74.8,299.2,LGES,2024-04-01,109.48
+ESS_406,USA,North America,Enel Green Power,Peak Shaving,87.0,348.0,LGES,2025-10-01,94.38
+ESS_407,UK,Europe,PG&E,Renewable Integration,64.0,256.0,LGES,2023-03-01,128.03
+ESS_408,USA,North America,Terra-Gen,Peak Shaving,5.2,20.8,LGES,2021-03-01,141.12
+ESS_409,USA,North America,KEPCO,Renewable Integration,102.2,408.8,LGES,2023-03-01,126.11
+ESS_410,South Korea,Asia-Pacific,Southern California Edison,Peak Shaving,104.2,208.4,LGES,2027-10-01,81.45
+ESS_411,USA,North America,Terra-Gen,Peak Shaving,79.3,158.6,BYD,2027-03-01,58.48
+ESS_412,USA,North America,Enel Green Power,Peak Shaving,73.4,146.8,BYD,2026-07-01,66.49
+ESS_413,USA,North America,Terra-Gen,Renewable Integration,96.5,193.0,LGES,2024-01-01,105.46
+ESS_414,USA,North America,Southern California Edison,Frequency Regulation,149.6,598.4,LGES,2021-07-01,132.48
+ESS_415,USA,North America,Southern California Edison,Frequency Regulation,38.4,76.8,CATL,2024-12-01,82.34
+ESS_416,UK,Europe,Enel Green Power,Peak Shaving,50.9,101.8,LGES,2023-04-01,134.94
+ESS_417,South Korea,Asia-Pacific,PG&E,Renewable Integration,8.7,34.8,LGES,2022-12-01,151.43
+ESS_418,USA,North America,Duke Energy,Peak Shaving,92.5,185.0,LGES,2024-05-01,115.31
+ESS_419,Germany,Europe,Florida Power & Light,Peak Shaving,31.8,63.6,SAMSUNG_SDI,2023-06-01,132.41
+ESS_420,Australia,Asia-Pacific,Florida Power & Light,Frequency Regulation,104.2,208.4,SAMSUNG_SDI,2023-10-01,129.35
+ESS_421,Australia,Asia-Pacific,Florida Power & Light,Renewable Integration,132.1,264.2,SAMSUNG_SDI,2021-05-01,147.72
+ESS_422,South Korea,Asia-Pacific,Southern California Edison,Renewable Integration,83.8,335.2,LGES,2026-07-01,87.82
+ESS_423,South Korea,Asia-Pacific,Neoen,Peak Shaving,128.9,257.8,LGES,2026-10-01,85.16
+ESS_424,UK,Europe,Enel Green Power,Frequency Regulation,77.8,311.2,LGES,2027-01-01,80.17
+ESS_425,South Korea,Asia-Pacific,Fluence,Peak Shaving,116.0,232.0,LGES,2022-10-01,141.38
+ESS_426,UK,Europe,KEPCO,Peak Shaving,122.6,490.4,LGES,2021-12-01,145.17
+ESS_427,UK,Europe,Florida Power & Light,Frequency Regulation,103.6,414.4,LGES,2022-04-01,152.51
+ESS_428,USA,North America,Vistra Energy,Frequency Regulation,116.8,233.6,LGES,2022-01-01,140.92
+ESS_429,USA,North America,Florida Power & Light,Peak Shaving,117.1,468.4,LGES,2024-01-01,105.67
+ESS_430,Australia,Asia-Pacific,NextEra Energy,Frequency Regulation,105.1,210.2,CATL,2023-05-01,94.41
+ESS_431,USA,North America,Duke Energy,Frequency Regulation,53.1,212.4,BYD,2024-11-01,80.1
+ESS_432,USA,North America,NextEra Energy,Frequency Regulation,54.5,218.0,LGES,2026-01-01,88.5
+ESS_433,USA,North America,KEPCO,Renewable Integration,50.2,100.4,LGES,2024-05-01,109.12
+ESS_434,South Korea,Asia-Pacific,KEPCO,Renewable Integration,124.0,496.0,LGES,2027-11-01,76.2
+ESS_435,Australia,Asia-Pacific,Enel Green Power,Frequency Regulation,138.1,552.4,SAMSUNG_SDI,2023-05-01,133.98
+ESS_436,South Korea,Asia-Pacific,AES Corporation,Peak Shaving,15.0,60.0,LGES,2026-12-01,85.41
+ESS_437,UK,Europe,Fluence,Peak Shaving,104.4,417.6,LGES,2024-06-01,114.52
+ESS_438,UK,Europe,Duke Energy,Renewable Integration,36.7,73.4,LGES,2024-03-01,103.45
+ESS_439,USA,North America,NextEra Energy,Frequency Regulation,103.0,206.0,LGES,2022-12-01,145.32
+ESS_440,UK,Europe,Enel Green Power,Peak Shaving,117.1,468.4,LGES,2025-09-01,100.42
+ESS_441,UK,Europe,Enel Green Power,Frequency Regulation,43.0,172.0,LGES,2024-05-01,115.04
+ESS_442,USA,North America,Southern California Edison,Frequency Regulation,117.0,468.0,BYD,2026-09-01,60.28
+ESS_443,USA,North America,AES Corporation,Renewable Integration,120.3,240.6,LGES,2023-11-01,133.58
+ESS_444,South Korea,Asia-Pacific,Terra-Gen,Peak Shaving,137.5,550.0,LGES,2025-07-01,93.99
+ESS_445,South Korea,Asia-Pacific,NextEra Energy,Renewable Integration,84.9,339.6,LGES,2026-09-01,79.06
+ESS_446,South Korea,Asia-Pacific,Duke Energy,Peak Shaving,139.0,556.0,LGES,2025-01-01,99.2
+ESS_447,USA,North America,AES Corporation,Renewable Integration,130.5,522.0,LGES,2027-06-01,76.73
+ESS_448,Germany,Europe,Terra-Gen,Peak Shaving,73.2,146.4,SAMSUNG_SDI,2022-11-01,141.23
+ESS_449,USA,North America,Neoen,Renewable Integration,54.3,108.6,CATL,2024-02-01,78.78
+ESS_450,Australia,Asia-Pacific,Fluence,Renewable Integration,145.8,291.6,SAMSUNG_SDI,2021-02-01,140.54
+ESS_451,USA,North America,Terra-Gen,Frequency Regulation,96.3,385.2,LGES,2025-07-01,95.38
+ESS_452,South Korea,Asia-Pacific,AES Corporation,Peak Shaving,10.4,41.6,LGES,2021-04-01,140.67
+ESS_453,USA,North America,KEPCO,Peak Shaving,86.2,344.8,LGES,2021-01-01,145.72
+ESS_454,Germany,Europe,NextEra Energy,Renewable Integration,41.2,82.4,SAMSUNG_SDI,2023-02-01,130.21
+ESS_455,Australia,Asia-Pacific,KEPCO,Renewable Integration,26.2,52.4,SAMSUNG_SDI,2026-11-01,80.1
+ESS_456,Australia,Asia-Pacific,Fluence,Frequency Regulation,12.0,48.0,SAMSUNG_SDI,2026-07-01,88.4
+ESS_457,USA,North America,Enel Green Power,Frequency Regulation,11.6,46.4,LGES,2023-01-01,129.94
+ESS_458,USA,North America,Vistra Energy,Renewable Integration,31.4,62.8,BYD,2026-07-01,59.43
+ESS_459,Germany,Europe,PG&E,Frequency Regulation,31.5,63.0,SAMSUNG_SDI,2026-12-01,88.62
+ESS_460,USA,North America,KEPCO,Peak Shaving,63.8,127.6,LGES,2025-01-01,96.42
+ESS_461,USA,North America,Neoen,Renewable Integration,11.5,23.0,LGES,2026-02-01,80.33
+ESS_462,Australia,Asia-Pacific,AES Corporation,Renewable Integration,13.5,54.0,CATL,2027-08-01,57.79
+ESS_463,UK,Europe,Southern California Edison,Frequency Regulation,50.9,101.8,LGES,2021-08-01,135.28
+ESS_464,USA,North America,Fluence,Peak Shaving,126.7,506.8,LGES,2021-09-01,135.04
+ESS_465,USA,North America,Neoen,Renewable Integration,71.9,143.8,LGES,2026-08-01,81.02
+ESS_466,USA,North America,NextEra Energy,Renewable Integration,56.9,113.8,CATL,2026-04-01,66.37
+ESS_467,South Korea,Asia-Pacific,Duke Energy,Renewable Integration,17.4,69.6,LGES,2025-07-01,90.97
+ESS_468,USA,North America,Duke Energy,Frequency Regulation,119.8,479.2,BYD,2027-03-01,55.41
+ESS_469,USA,North America,Enel Green Power,Peak Shaving,41.2,164.8,LGES,2025-05-01,91.96
+ESS_470,UK,Europe,NextEra Energy,Frequency Regulation,134.4,268.8,LGES,2025-03-01,94.34
+ESS_471,UK,Europe,Duke Energy,Renewable Integration,108.3,216.6,LGES,2024-04-01,105.73
+ESS_472,UK,Europe,Southern California Edison,Frequency Regulation,98.8,197.6,LGES,2021-08-01,145.19
+ESS_473,UK,Europe,PG&E,Peak Shaving,37.0,74.0,LGES,2021-09-01,140.98
+ESS_474,USA,North America,Florida Power & Light,Renewable Integration,67.7,270.8,LGES,2024-10-01,111.05
+ESS_475,USA,North America,Fluence,Peak Shaving,36.4,145.6,LGES,2021-11-01,138.87
+ESS_476,USA,North America,Duke Energy,Renewable Integration,145.8,291.6,LGES,2025-09-01,93.62
+ESS_477,UK,Europe,KEPCO,Frequency Regulation,68.2,272.8,LGES,2023-12-01,136.35
+ESS_478,USA,North America,Neoen,Renewable Integration,32.3,129.2,LGES,2024-07-01,115.05
+ESS_479,South Korea,Asia-Pacific,Terra-Gen,Renewable Integration,40.7,81.4,LGES,2026-12-01,88.26
+ESS_480,Australia,Asia-Pacific,PG&E,Peak Shaving,17.1,68.4,SAMSUNG_SDI,2025-04-01,89.81
+ESS_481,Australia,Asia-Pacific,Fluence,Renewable Integration,21.4,42.8,SAMSUNG_SDI,2021-08-01,132.61
+ESS_482,USA,North America,KEPCO,Renewable Integration,72.8,145.6,BYD,2027-07-01,56.7
+ESS_483,USA,North America,Southern California Edison,Renewable Integration,26.6,106.4,LGES,2021-02-01,139.26
+ESS_484,Germany,Europe,Southern California Edison,Peak Shaving,40.2,160.8,SAMSUNG_SDI,2022-02-01,146.89
+ESS_485,USA,North America,Florida Power & Light,Frequency Regulation,100.4,200.8,LGES,2027-07-01,75.81
+ESS_486,UK,Europe,AES Corporation,Renewable Integration,129.3,258.6,LGES,2023-02-01,131.1
+ESS_487,USA,North America,PG&E,Renewable Integration,116.3,465.2,LGES,2027-03-01,72.53
+ESS_488,South Korea,Asia-Pacific,Vistra Energy,Peak Shaving,142.5,570.0,LGES,2022-05-01,139.51
+ESS_489,UK,Europe,KEPCO,Renewable Integration,143.2,286.4,LGES,2022-09-01,140.9
+ESS_490,Australia,Asia-Pacific,Terra-Gen,Frequency Regulation,47.4,94.8,SAMSUNG_SDI,2021-05-01,140.24
+ESS_491,USA,North America,PG&E,Peak Shaving,30.2,60.4,LGES,2024-08-01,113.51
+ESS_492,UK,Europe,Duke Energy,Frequency Regulation,69.5,139.0,LGES,2021-04-01,146.14
+ESS_493,USA,North America,AES Corporation,Renewable Integration,29.5,59.0,CATL,2023-03-01,97.77
+ESS_494,Australia,Asia-Pacific,Vistra Energy,Peak Shaving,31.5,63.0,SAMSUNG_SDI,2027-09-01,74.21
+ESS_495,South Korea,Asia-Pacific,Southern California Edison,Renewable Integration,94.5,189.0,LGES,2024-06-01,104.66
+ESS_496,UK,Europe,AES Corporation,Frequency Regulation,18.8,75.2,LGES,2023-09-01,136.02
+ESS_497,USA,North America,PG&E,Frequency Regulation,23.2,92.8,LGES,2025-12-01,98.8
+ESS_498,USA,North America,Terra-Gen,Frequency Regulation,112.6,450.4,LGES,2021-02-01,142.67
+ESS_499,UK,Europe,Terra-Gen,Frequency Regulation,99.0,396.0,LGES,2027-12-01,80.27
+ESS_500,USA,North America,Terra-Gen,Peak Shaving,6.8,27.2,LGES,2023-04-01,137.72
+ESS_501,Australia,Asia-Pacific,Florida Power & Light,Frequency Regulation,50.5,101.0,SAMSUNG_SDI,2026-01-01,80.14
+ESS_502,USA,North America,AES Corporation,Frequency Regulation,103.0,206.0,LGES,2027-12-01,74.76
+ESS_503,Australia,Asia-Pacific,PG&E,Frequency Regulation,79.9,319.6,CATL,2022-04-01,104.3
+ESS_504,UK,Europe,Neoen,Frequency Regulation,131.7,263.4,LGES,2027-03-01,77.51
+ESS_505,UK,Europe,Vistra Energy,Renewable Integration,122.7,490.8,LGES,2027-10-01,78.62
+ESS_506,South Korea,Asia-Pacific,KEPCO,Frequency Regulation,140.0,560.0,LGES,2022-07-01,146.02
+ESS_507,South Korea,Asia-Pacific,Duke Energy,Renewable Integration,21.9,87.6,LGES,2026-10-01,86.28
+ESS_508,UK,Europe,Southern California Edison,Frequency Regulation,124.1,248.2,LGES,2022-07-01,139.08
+ESS_509,South Korea,Asia-Pacific,Neoen,Frequency Regulation,6.8,13.6,LGES,2021-02-01,131.76
+ESS_510,South Korea,Asia-Pacific,Southern California Edison,Renewable Integration,131.8,527.2,LGES,2026-11-01,81.0
+ESS_511,Australia,Asia-Pacific,AES Corporation,Frequency Regulation,108.8,217.6,SAMSUNG_SDI,2025-03-01,90.73
+ESS_512,South Korea,Asia-Pacific,Vistra Energy,Frequency Regulation,112.6,450.4,LGES,2024-11-01,111.1
+ESS_513,South Korea,Asia-Pacific,Terra-Gen,Frequency Regulation,39.8,159.2,LGES,2023-08-01,129.57
+ESS_514,USA,North America,Enel Green Power,Frequency Regulation,118.0,236.0,BYD,2023-05-01,97.1
+ESS_515,USA,North America,PG&E,Peak Shaving,9.3,37.2,BYD,2024-03-01,81.37
+ESS_516,South Korea,Asia-Pacific,Vistra Energy,Peak Shaving,45.3,181.2,LGES,2026-04-01,79.98
+ESS_517,UK,Europe,Southern California Edison,Peak Shaving,47.7,190.8,LGES,2023-10-01,123.86
+ESS_518,USA,North America,PG&E,Peak Shaving,9.1,36.4,LGES,2025-10-01,100.78
+ESS_519,Australia,Asia-Pacific,NextEra Energy,Peak Shaving,67.4,269.6,SAMSUNG_SDI,2027-06-01,78.69
+ESS_520,South Korea,Asia-Pacific,Florida Power & Light,Peak Shaving,17.8,35.6,LGES,2025-12-01,93.22
+ESS_521,UK,Europe,Florida Power & Light,Renewable Integration,40.2,80.4,LGES,2024-02-01,104.22
+ESS_522,USA,North America,KEPCO,Peak Shaving,9.1,18.2,LGES,2026-02-01,79.98
+ESS_523,South Korea,Asia-Pacific,Terra-Gen,Renewable Integration,46.0,184.0,LGES,2021-10-01,137.5
+ESS_524,USA,North America,Fluence,Frequency Regulation,18.1,36.2,LGES,2026-03-01,82.89
+ESS_525,USA,North America,PG&E,Renewable Integration,124.3,497.2,LGES,2022-09-01,136.37
+ESS_526,South Korea,Asia-Pacific,Duke Energy,Peak Shaving,63.8,127.6,LGES,2022-02-01,144.08
+ESS_527,UK,Europe,Terra-Gen,Frequency Regulation,145.1,580.4,LGES,2025-03-01,96.41
+ESS_528,UK,Europe,Southern California Edison,Peak Shaving,52.0,208.0,LGES,2027-01-01,76.78
+ESS_529,USA,North America,NextEra Energy,Peak Shaving,30.2,120.8,CATL,2022-12-01,113.01
+ESS_530,USA,North America,Fluence,Renewable Integration,132.1,264.2,LGES,2027-10-01,75.11
+ESS_531,USA,North America,PG&E,Frequency Regulation,7.0,28.0,LGES,2027-10-01,77.83
+ESS_532,South Korea,Asia-Pacific,Vistra Energy,Renewable Integration,68.7,137.4,LGES,2022-07-01,139.94
+ESS_533,UK,Europe,Duke Energy,Frequency Regulation,109.3,218.6,LGES,2027-04-01,80.63
+ESS_534,USA,North America,Florida Power & Light,Frequency Regulation,115.4,230.8,LGES,2021-06-01,145.47
+ESS_535,USA,North America,Duke Energy,Peak Shaving,147.7,295.4,LGES,2026-08-01,83.67
+ESS_536,USA,North America,Neoen,Peak Shaving,70.8,283.2,BYD,2021-02-01,105.69
+ESS_537,USA,North America,Terra-Gen,Renewable Integration,89.2,178.4,LGES,2026-05-01,81.0
+ESS_538,South Korea,Asia-Pacific,Neoen,Frequency Regulation,46.5,186.0,LGES,2027-06-01,73.79
+ESS_539,USA,North America,Duke Energy,Peak Shaving,93.0,186.0,LGES,2026-06-01,79.7
+ESS_540,USA,North America,KEPCO,Frequency Regulation,60.1,120.2,CATL,2027-02-01,60.09
+ESS_541,Australia,Asia-Pacific,Neoen,Frequency Regulation,83.9,335.6,SAMSUNG_SDI,2025-07-01,92.12
+ESS_542,UK,Europe,Neoen,Peak Shaving,14.8,29.6,LGES,2025-01-01,94.41
+ESS_543,Australia,Asia-Pacific,AES Corporation,Peak Shaving,138.6,554.4,SAMSUNG_SDI,2027-11-01,72.74
+ESS_544,UK,Europe,Southern California Edison,Frequency Regulation,142.8,571.2,LGES,2022-02-01,138.53
+ESS_545,USA,North America,Fluence,Peak Shaving,75.9,303.6,LGES,2026-07-01,82.52
+ESS_546,UK,Europe,Enel Green Power,Peak Shaving,10.8,21.6,LGES,2025-05-01,94.33
+ESS_547,Australia,Asia-Pacific,Enel Green Power,Frequency Regulation,54.6,109.2,SAMSUNG_SDI,2027-12-01,74.88
+ESS_548,South Korea,Asia-Pacific,Neoen,Renewable Integration,118.2,472.8,LGES,2023-01-01,124.59
+ESS_549,Germany,Europe,Duke Energy,Renewable Integration,21.4,42.8,SAMSUNG_SDI,2026-07-01,85.41
+ESS_550,USA,North America,NextEra Energy,Peak Shaving,82.2,328.8,LGES,2026-04-01,84.18
+ESS_551,UK,Europe,KEPCO,Renewable Integration,128.7,257.4,LGES,2026-06-01,80.35
+ESS_552,USA,North America,KEPCO,Peak Shaving,57.4,229.6,BYD,2022-12-01,112.52
+ESS_553,USA,North America,PG&E,Frequency Regulation,38.4,76.8,BYD,2021-02-01,101.2
+ESS_554,South Korea,Asia-Pacific,Duke Energy,Frequency Regulation,28.7,114.8,LGES,2022-12-01,144.72
+ESS_555,South Korea,Asia-Pacific,Fluence,Renewable Integration,11.1,22.2,LGES,2023-05-01,132.23
+ESS_556,Australia,Asia-Pacific,Terra-Gen,Frequency Regulation,46.3,185.2,SAMSUNG_SDI,2023-12-01,124.13
+ESS_557,UK,Europe,Neoen,Peak Shaving,46.0,92.0,LGES,2026-05-01,80.84
+ESS_558,UK,Europe,KEPCO,Renewable Integration,128.9,257.8,LGES,2027-11-01,75.34
+ESS_559,Australia,Asia-Pacific,Neoen,Renewable Integration,59.5,238.0,SAMSUNG_SDI,2022-01-01,137.12
+ESS_560,USA,North America,Neoen,Renewable Integration,124.9,249.8,LGES,2024-06-01,114.56
+ESS_561,USA,North America,NextEra Energy,Frequency Regulation,34.0,136.0,BYD,2022-08-01,110.39
+ESS_562,UK,Europe,AES Corporation,Peak Shaving,105.3,421.2,LGES,2026-02-01,84.87
+ESS_563,Australia,Asia-Pacific,Vistra Energy,Frequency Regulation,65.5,131.0,SAMSUNG_SDI,2022-06-01,143.4
+ESS_564,South Korea,Asia-Pacific,NextEra Energy,Peak Shaving,145.1,290.2,LGES,2025-03-01,95.35
+ESS_565,South Korea,Asia-Pacific,Fluence,Renewable Integration,139.6,558.4,LGES,2024-06-01,108.67
+ESS_566,China,Asia-Pacific,Enel Green Power,Frequency Regulation,73.8,295.2,CATL,2024-05-01,80.32
+ESS_567,USA,North America,Enel Green Power,Renewable Integration,50.4,201.6,BYD,2021-08-01,100.53
+ESS_568,Australia,Asia-Pacific,Terra-Gen,Frequency Regulation,91.5,183.0,CATL,2023-05-01,99.49
+ESS_569,USA,North America,Vistra Energy,Frequency Regulation,57.6,115.2,LGES,2025-06-01,90.31
+ESS_570,South Korea,Asia-Pacific,Neoen,Renewable Integration,141.9,283.8,LGES,2025-07-01,99.97
+ESS_571,UK,Europe,PG&E,Frequency Regulation,56.2,112.4,LGES,2025-07-01,97.28
+ESS_572,USA,North America,NextEra Energy,Peak Shaving,64.2,128.4,LGES,2022-03-01,152.14
+ESS_573,USA,North America,Terra-Gen,Frequency Regulation,27.6,55.2,LGES,2022-04-01,138.31
+ESS_574,South Korea,Asia-Pacific,Terra-Gen,Renewable Integration,123.0,246.0,LGES,2027-01-01,76.56
+ESS_575,South Korea,Asia-Pacific,AES Corporation,Renewable Integration,16.4,32.8,LGES,2024-02-01,104.24
+ESS_576,Australia,Asia-Pacific,Duke Energy,Frequency Regulation,53.8,107.6,SAMSUNG_SDI,2025-12-01,96.92
+ESS_577,South Korea,Asia-Pacific,Terra-Gen,Frequency Regulation,140.2,280.4,LGES,2027-10-01,74.23
+ESS_578,Germany,Europe,Enel Green Power,Peak Shaving,31.6,63.2,SAMSUNG_SDI,2027-02-01,72.42
+ESS_579,South Korea,Asia-Pacific,Fluence,Renewable Integration,140.0,560.0,LGES,2022-04-01,146.83
+ESS_580,South Korea,Asia-Pacific,NextEra Energy,Frequency Regulation,33.0,66.0,LGES,2021-10-01,144.9
+ESS_581,South Korea,Asia-Pacific,KEPCO,Peak Shaving,56.7,226.8,LGES,2022-12-01,144.3
+ESS_582,South Korea,Asia-Pacific,Terra-Gen,Peak Shaving,64.4,128.8,LGES,2027-12-01,81.01
+ESS_583,USA,North America,Enel Green Power,Renewable Integration,68.8,275.2,LGES,2025-07-01,98.36
+ESS_584,China,Asia-Pacific,Southern California Edison,Renewable Integration,68.2,136.4,CATL,2023-11-01,95.73
+ESS_585,USA,North America,Terra-Gen,Peak Shaving,18.9,37.8,LGES,2023-11-01,134.12
+ESS_586,USA,North America,Neoen,Renewable Integration,75.5,151.0,LGES,2023-07-01,127.02
+ESS_587,South Korea,Asia-Pacific,Vistra Energy,Frequency Regulation,65.4,130.8,LGES,2025-08-01,93.11
+ESS_588,South Korea,Asia-Pacific,PG&E,Frequency Regulation,123.3,246.6,LGES,2022-09-01,136.69
+ESS_589,South Korea,Asia-Pacific,KEPCO,Frequency Regulation,90.5,362.0,LGES,2021-12-01,139.87
+ESS_590,USA,North America,Florida Power & Light,Frequency Regulation,108.8,435.2,LGES,2027-03-01,74.86
+ESS_591,Australia,Asia-Pacific,Enel Green Power,Peak Shaving,59.0,118.0,SAMSUNG_SDI,2026-01-01,86.22
+ESS_592,South Korea,Asia-Pacific,Vistra Energy,Renewable Integration,54.4,108.8,LGES,2022-12-01,150.43
+ESS_593,UK,Europe,KEPCO,Frequency Regulation,13.3,53.2,LGES,2025-06-01,95.45
+ESS_594,South Korea,Asia-Pacific,Florida Power & Light,Renewable Integration,122.8,491.2,LGES,2024-05-01,108.64
+ESS_595,South Korea,Asia-Pacific,Terra-Gen,Peak Shaving,100.4,401.6,LGES,2024-10-01,104.05
+ESS_596,USA,North America,Enel Green Power,Peak Shaving,58.5,234.0,BYD,2027-12-01,59.69
+ESS_597,USA,North America,PG&E,Renewable Integration,13.3,53.2,BYD,2022-10-01,106.02
+ESS_598,UK,Europe,Neoen,Peak Shaving,41.7,166.8,LGES,2027-05-01,73.87
+ESS_599,South Korea,Asia-Pacific,KEPCO,Peak Shaving,15.9,31.8,LGES,2026-11-01,88.81
+ESS_600,Australia,Asia-Pacific,Terra-Gen,Frequency Regulation,76.5,306.0,SAMSUNG_SDI,2022-01-01,147.12
+ESS_601,USA,North America,KEPCO,Frequency Regulation,133.5,534.0,LGES,2026-10-01,83.32
+ESS_602,South Korea,Asia-Pacific,Fluence,Peak Shaving,112.5,450.0,LGES,2024-08-01,115.54
+ESS_603,South Korea,Asia-Pacific,Terra-Gen,Renewable Integration,118.2,472.8,LGES,2026-01-01,83.19
+ESS_604,USA,North America,Vistra Energy,Peak Shaving,42.1,84.2,LGES,2023-09-01,124.38
+ESS_605,South Korea,Asia-Pacific,Terra-Gen,Peak Shaving,6.0,24.0,LGES,2021-12-01,132.96
+ESS_606,USA,North America,PG&E,Frequency Regulation,98.0,392.0,LGES,2023-10-01,125.99
+ESS_607,UK,Europe,Terra-Gen,Peak Shaving,101.5,203.0,LGES,2022-08-01,144.02
+ESS_608,South Korea,Asia-Pacific,PG&E,Peak Shaving,32.2,128.8,LGES,2026-09-01,86.58
+ESS_609,China,Asia-Pacific,KEPCO,Frequency Regulation,73.8,295.2,CATL,2024-11-01,83.86
+ESS_610,UK,Europe,NextEra Energy,Frequency Regulation,59.7,238.8,LGES,2027-02-01,81.53
+ESS_611,UK,Europe,AES Corporation,Renewable Integration,144.7,289.4,LGES,2025-06-01,96.61
+ESS_612,Germany,Europe,Duke Energy,Peak Shaving,103.8,207.6,SAMSUNG_SDI,2022-03-01,137.65
+ESS_613,USA,North America,NextEra Energy,Frequency Regulation,61.3,245.2,LGES,2021-06-01,140.88
+ESS_614,USA,North America,NextEra Energy,Peak Shaving,69.0,138.0,BYD,2024-04-01,77.14
+ESS_615,South Korea,Asia-Pacific,Enel Green Power,Renewable Integration,49.6,99.2,LGES,2027-09-01,77.49
+ESS_616,Australia,Asia-Pacific,Enel Green Power,Renewable Integration,99.7,199.4,SAMSUNG_SDI,2026-06-01,83.69
+ESS_617,China,Asia-Pacific,Duke Energy,Renewable Integration,32.8,131.2,CATL,2026-08-01,61.39
+ESS_618,USA,North America,Vistra Energy,Peak Shaving,97.5,195.0,LGES,2023-08-01,135.29
+ESS_619,Australia,Asia-Pacific,Neoen,Peak Shaving,75.2,300.8,CATL,2027-10-01,55.68
+ESS_620,USA,North America,Duke Energy,Peak Shaving,23.0,92.0,LGES,2021-04-01,133.05
+ESS_621,USA,North America,Duke Energy,Frequency Regulation,50.8,101.6,LGES,2021-07-01,138.54
+ESS_622,Australia,Asia-Pacific,Neoen,Peak Shaving,58.6,234.4,SAMSUNG_SDI,2026-04-01,86.43
+ESS_623,South Korea,Asia-Pacific,AES Corporation,Renewable Integration,40.4,161.6,LGES,2023-05-01,136.35
+ESS_624,USA,North America,PG&E,Renewable Integration,16.1,64.4,LGES,2026-02-01,88.26
+ESS_625,Australia,Asia-Pacific,Vistra Energy,Renewable Integration,140.6,281.2,SAMSUNG_SDI,2026-11-01,79.56
+ESS_626,USA,North America,NextEra Energy,Renewable Integration,52.7,210.8,LGES,2023-08-01,135.52
+ESS_627,USA,North America,Florida Power & Light,Frequency Regulation,38.0,152.0,LGES,2027-02-01,75.5
+ESS_628,USA,North America,Neoen,Renewable Integration,122.9,245.8,LGES,2026-12-01,88.33
+ESS_629,Germany,Europe,NextEra Energy,Frequency Regulation,79.0,316.0,SAMSUNG_SDI,2021-04-01,137.87
+ESS_630,USA,North America,Terra-Gen,Frequency Regulation,68.0,136.0,LGES,2027-01-01,72.44
+ESS_631,South Korea,Asia-Pacific,Fluence,Renewable Integration,68.5,274.0,LGES,2025-02-01,97.59
+ESS_632,Australia,Asia-Pacific,PG&E,Frequency Regulation,141.1,282.2,SAMSUNG_SDI,2026-07-01,84.06
+ESS_633,UK,Europe,Florida Power & Light,Renewable Integration,48.8,97.6,LGES,2022-11-01,145.44
+ESS_634,UK,Europe,AES Corporation,Frequency Regulation,138.2,276.4,LGES,2026-10-01,87.15
+ESS_635,USA,North America,NextEra Energy,Frequency Regulation,65.6,131.2,BYD,2022-02-01,105.66
+ESS_636,Australia,Asia-Pacific,Fluence,Frequency Regulation,67.2,134.4,SAMSUNG_SDI,2024-03-01,107.05
+ESS_637,Australia,Asia-Pacific,Duke Energy,Renewable Integration,121.4,485.6,SAMSUNG_SDI,2024-04-01,112.8
+ESS_638,South Korea,Asia-Pacific,AES Corporation,Frequency Regulation,104.5,418.0,LGES,2024-01-01,104.2
+ESS_639,South Korea,Asia-Pacific,Enel Green Power,Peak Shaving,45.3,90.6,LGES,2023-08-01,123.52
+ESS_640,USA,North America,AES Corporation,Renewable Integration,143.9,287.8,LGES,2024-02-01,114.75
+ESS_641,USA,North America,Southern California Edison,Frequency Regulation,87.0,174.0,BYD,2027-01-01,54.63
+ESS_642,USA,North America,Neoen,Renewable Integration,94.9,379.6,LGES,2027-07-01,73.23
+ESS_643,USA,North America,Neoen,Renewable Integration,19.6,78.4,BYD,2022-10-01,105.32
+ESS_644,South Korea,Asia-Pacific,Fluence,Frequency Regulation,119.0,238.0,LGES,2022-05-01,139.47
+ESS_645,South Korea,Asia-Pacific,PG&E,Peak Shaving,32.4,129.6,LGES,2021-06-01,147.93
+ESS_646,USA,North America,AES Corporation,Renewable Integration,81.1,324.4,LGES,2027-03-01,73.46
+ESS_647,USA,North America,Neoen,Renewable Integration,136.1,272.2,LGES,2026-02-01,81.24
+ESS_648,South Korea,Asia-Pacific,Florida Power & Light,Renewable Integration,71.8,143.6,LGES,2021-08-01,137.46
+ESS_649,USA,North America,KEPCO,Renewable Integration,47.3,189.2,CATL,2026-04-01,66.43
+ESS_650,Germany,Europe,Florida Power & Light,Peak Shaving,33.9,67.8,SAMSUNG_SDI,2025-01-01,97.45
+ESS_651,South Korea,Asia-Pacific,AES Corporation,Peak Shaving,145.8,291.6,LGES,2026-11-01,79.12
+ESS_652,Australia,Asia-Pacific,Southern California Edison,Renewable Integration,144.8,579.2,CATL,2022-07-01,112.84
+ESS_653,USA,North America,Duke Energy,Peak Shaving,66.3,132.6,LGES,2025-06-01,99.39
+ESS_654,South Korea,Asia-Pacific,Southern California Edison,Renewable Integration,21.4,42.8,LGES,2025-10-01,97.52
+ESS_655,Australia,Asia-Pacific,Florida Power & Light,Frequency Regulation,114.8,229.6,CATL,2024-03-01,79.89
+ESS_656,Australia,Asia-Pacific,KEPCO,Frequency Regulation,128.6,257.2,CATL,2022-05-01,107.53
+ESS_657,USA,North America,Duke Energy,Frequency Regulation,123.1,492.4,LGES,2022-10-01,144.81
+ESS_658,USA,North America,AES Corporation,Renewable Integration,76.4,152.8,LGES,2027-11-01,75.37
+ESS_659,USA,North America,PG&E,Peak Shaving,14.6,29.2,LGES,2025-04-01,94.29
+ESS_660,USA,North America,Duke Energy,Frequency Regulation,20.7,41.4,LGES,2027-08-01,74.39
+ESS_661,USA,North America,Duke Energy,Renewable Integration,123.4,246.8,LGES,2025-06-01,95.03
+ESS_662,UK,Europe,KEPCO,Renewable Integration,19.8,79.2,LGES,2024-08-01,103.67
+ESS_663,UK,Europe,Duke Energy,Renewable Integration,53.5,107.0,LGES,2025-06-01,99.75
+ESS_664,Australia,Asia-Pacific,Vistra Energy,Frequency Regulation,61.2,122.4,SAMSUNG_SDI,2022-12-01,142.71
+ESS_665,USA,North America,Duke Energy,Frequency Regulation,125.4,250.8,BYD,2027-09-01,54.84
+ESS_666,Australia,Asia-Pacific,Florida Power & Light,Peak Shaving,84.6,338.4,SAMSUNG_SDI,2027-04-01,75.31
+ESS_667,South Korea,Asia-Pacific,Southern California Edison,Renewable Integration,8.6,34.4,LGES,2021-11-01,140.15
+ESS_668,UK,Europe,Southern California Edison,Peak Shaving,24.4,48.8,LGES,2026-01-01,87.19
+ESS_669,UK,Europe,Vistra Energy,Renewable Integration,57.6,115.2,LGES,2023-03-01,124.49
+ESS_670,USA,North America,Duke Energy,Renewable Integration,95.0,380.0,LGES,2024-08-01,108.96
+ESS_671,USA,North America,Terra-Gen,Frequency Regulation,60.6,121.2,LGES,2021-09-01,133.04
+ESS_672,South Korea,Asia-Pacific,Southern California Edison,Peak Shaving,64.6,258.4,LGES,2027-06-01,77.98
+ESS_673,South Korea,Asia-Pacific,PG&E,Renewable Integration,95.5,382.0,LGES,2021-01-01,148.19
+ESS_674,UK,Europe,Duke Energy,Peak Shaving,98.8,395.2,LGES,2025-09-01,94.23
+ESS_675,USA,North America,Neoen,Frequency Regulation,8.4,33.6,BYD,2022-12-01,102.42
+ESS_676,South Korea,Asia-Pacific,Neoen,Renewable Integration,147.2,588.8,LGES,2024-09-01,113.95
+ESS_677,South Korea,Asia-Pacific,KEPCO,Renewable Integration,103.6,207.2,LGES,2026-01-01,84.4
+ESS_678,UK,Europe,Southern California Edison,Peak Shaving,84.9,169.8,LGES,2027-10-01,75.75
+ESS_679,South Korea,Asia-Pacific,Enel Green Power,Renewable Integration,88.3,353.2,LGES,2023-11-01,124.74
+ESS_680,USA,North America,Southern California Edison,Renewable Integration,125.3,501.2,BYD,2023-10-01,102.63
+ESS_681,USA,North America,Vistra Energy,Frequency Regulation,15.8,63.2,LGES,2025-02-01,98.29
+ESS_682,UK,Europe,Southern California Edison,Peak Shaving,58.3,116.6,LGES,2024-11-01,106.56
+ESS_683,China,Asia-Pacific,Terra-Gen,Peak Shaving,94.2,188.4,CATL,2022-03-01,108.68
+ESS_684,China,Asia-Pacific,Fluence,Renewable Integration,78.2,156.4,CATL,2024-06-01,84.17
+ESS_685,South Korea,Asia-Pacific,Neoen,Peak Shaving,71.1,142.2,LGES,2021-05-01,136.98
+ESS_686,USA,North America,Southern California Edison,Renewable Integration,117.6,470.4,LGES,2025-10-01,93.51
+ESS_687,UK,Europe,Southern California Edison,Renewable Integration,58.4,233.6,LGES,2024-02-01,104.68
+ESS_688,USA,North America,Southern California Edison,Frequency Regulation,23.7,47.4,BYD,2027-09-01,59.2
+ESS_689,USA,North America,NextEra Energy,Renewable Integration,21.3,42.6,LGES,2021-10-01,143.13
+ESS_690,South Korea,Asia-Pacific,Enel Green Power,Peak Shaving,99.9,199.8,LGES,2025-07-01,94.25
+ESS_691,USA,North America,Fluence,Peak Shaving,26.3,105.2,LGES,2025-10-01,94.5
+ESS_692,Australia,Asia-Pacific,KEPCO,Renewable Integration,61.0,122.0,SAMSUNG_SDI,2025-06-01,99.72
+ESS_693,USA,North America,Southern California Edison,Renewable Integration,59.0,236.0,BYD,2027-12-01,57.13
+ESS_694,USA,North America,Neoen,Renewable Integration,85.7,171.4,LGES,2027-08-01,75.86
+ESS_695,Australia,Asia-Pacific,Duke Energy,Renewable Integration,139.0,556.0,SAMSUNG_SDI,2022-02-01,150.84
+ESS_696,USA,North America,Terra-Gen,Peak Shaving,112.2,224.4,LGES,2026-01-01,80.49
+ESS_697,UK,Europe,KEPCO,Frequency Regulation,53.2,106.4,LGES,2022-07-01,140.43
+ESS_698,Germany,Europe,Neoen,Peak Shaving,92.1,184.2,SAMSUNG_SDI,2027-03-01,74.58
+ESS_699,USA,North America,Duke Energy,Frequency Regulation,64.7,129.4,CATL,2021-09-01,105.04
+ESS_700,Australia,Asia-Pacific,Vistra Energy,Frequency Regulation,104.3,208.6,SAMSUNG_SDI,2021-06-01,144.45
+ESS_701,UK,Europe,PG&E,Renewable Integration,145.7,291.4,LGES,2024-11-01,111.25
+ESS_702,USA,North America,Duke Energy,Peak Shaving,66.1,264.4,BYD,2024-02-01,81.67
+ESS_703,UK,Europe,KEPCO,Frequency Regulation,61.4,122.8,LGES,2021-08-01,140.84
+ESS_704,South Korea,Asia-Pacific,Terra-Gen,Peak Shaving,135.9,271.8,LGES,2023-10-01,128.83
+ESS_705,South Korea,Asia-Pacific,Neoen,Frequency Regulation,71.2,142.4,LGES,2023-07-01,135.82
+ESS_706,UK,Europe,Vistra Energy,Renewable Integration,110.8,443.2,LGES,2021-11-01,146.16
+ESS_707,USA,North America,Florida Power & Light,Renewable Integration,134.6,269.2,BYD,2022-12-01,113.98
+ESS_708,USA,North America,Enel Green Power,Renewable Integration,5.5,22.0,LGES,2026-09-01,79.52
+ESS_709,UK,Europe,Fluence,Frequency Regulation,30.4,121.6,LGES,2026-02-01,86.02
+ESS_710,Australia,Asia-Pacific,KEPCO,Peak Shaving,39.1,156.4,SAMSUNG_SDI,2026-05-01,86.05
+ESS_711,South Korea,Asia-Pacific,Florida Power & Light,Frequency Regulation,52.5,210.0,LGES,2022-08-01,140.15
+ESS_712,UK,Europe,Enel Green Power,Renewable Integration,132.9,531.6,LGES,2023-03-01,123.42
+ESS_713,UK,Europe,NextEra Energy,Frequency Regulation,138.7,277.4,LGES,2025-05-01,98.82
+ESS_714,Australia,Asia-Pacific,Southern California Edison,Frequency Regulation,98.0,196.0,SAMSUNG_SDI,2026-10-01,87.32
+ESS_715,UK,Europe,Enel Green Power,Frequency Regulation,33.8,67.6,LGES,2026-01-01,85.0
+ESS_716,South Korea,Asia-Pacific,Southern California Edison,Renewable Integration,136.3,272.6,LGES,2025-09-01,98.39
+ESS_717,South Korea,Asia-Pacific,Fluence,Renewable Integration,41.1,82.2,LGES,2023-08-01,131.15
+ESS_718,South Korea,Asia-Pacific,NextEra Energy,Frequency Regulation,6.9,27.6,LGES,2022-04-01,135.65
+ESS_719,USA,North America,Fluence,Renewable Integration,84.3,168.6,LGES,2021-06-01,138.78
+ESS_720,South Korea,Asia-Pacific,Duke Energy,Frequency Regulation,28.1,112.4,LGES,2026-04-01,87.13
+ESS_721,South Korea,Asia-Pacific,Vistra Energy,Renewable Integration,73.2,146.4,LGES,2027-06-01,74.59
+ESS_722,China,Asia-Pacific,Southern California Edison,Frequency Regulation,54.1,108.2,CATL,2022-10-01,104.92
+ESS_723,Australia,Asia-Pacific,NextEra Energy,Renewable Integration,21.3,85.2,SAMSUNG_SDI,2024-02-01,109.34
+ESS_724,USA,North America,Terra-Gen,Peak Shaving,119.1,476.4,CATL,2025-07-01,68.28
+ESS_725,USA,North America,Vistra Energy,Peak Shaving,61.8,123.6,LGES,2027-11-01,75.86
+ESS_726,USA,North America,Vistra Energy,Frequency Regulation,7.5,15.0,CATL,2021-08-01,110.18
+ESS_727,USA,North America,Vistra Energy,Renewable Integration,70.3,140.6,LGES,2021-02-01,138.3
+ESS_728,South Korea,Asia-Pacific,NextEra Energy,Frequency Regulation,80.9,323.6,LGES,2021-05-01,146.96
+ESS_729,USA,North America,PG&E,Renewable Integration,28.9,115.6,BYD,2024-02-01,83.14
+ESS_730,South Korea,Asia-Pacific,AES Corporation,Peak Shaving,136.1,272.2,LGES,2022-11-01,141.87
+ESS_731,South Korea,Asia-Pacific,NextEra Energy,Renewable Integration,116.7,233.4,LGES,2027-11-01,75.91
+ESS_732,South Korea,Asia-Pacific,Neoen,Peak Shaving,54.6,109.2,LGES,2023-02-01,123.84
+ESS_733,USA,North America,Vistra Energy,Renewable Integration,55.0,110.0,LGES,2026-05-01,80.3
+ESS_734,USA,North America,Terra-Gen,Frequency Regulation,32.0,128.0,LGES,2027-06-01,76.27
+ESS_735,UK,Europe,Neoen,Renewable Integration,13.0,52.0,LGES,2025-08-01,90.89
+ESS_736,USA,North America,NextEra Energy,Peak Shaving,144.7,578.8,LGES,2027-09-01,79.45
+ESS_737,USA,North America,Enel Green Power,Frequency Regulation,88.5,177.0,LGES,2021-11-01,139.52
+ESS_738,UK,Europe,PG&E,Renewable Integration,67.3,134.6,LGES,2022-09-01,139.38
+ESS_739,USA,North America,Terra-Gen,Renewable Integration,68.2,136.4,LGES,2027-06-01,80.7
+ESS_740,USA,North America,Terra-Gen,Renewable Integration,87.7,175.4,LGES,2026-07-01,80.39
+ESS_741,USA,North America,KEPCO,Renewable Integration,17.5,35.0,BYD,2021-02-01,103.33
+ESS_742,USA,North America,NextEra Energy,Renewable Integration,93.8,187.6,LGES,2023-06-01,129.51
+ESS_743,UK,Europe,Enel Green Power,Renewable Integration,42.5,85.0,LGES,2024-09-01,111.28
+ESS_744,UK,Europe,Vistra Energy,Renewable Integration,149.2,298.4,LGES,2025-05-01,95.09
+ESS_745,USA,North America,NextEra Energy,Renewable Integration,51.3,102.6,LGES,2023-05-01,133.36
+ESS_746,USA,North America,NextEra Energy,Renewable Integration,49.3,197.2,LGES,2025-04-01,90.25
+ESS_747,USA,North America,Fluence,Frequency Regulation,31.2,124.8,LGES,2021-05-01,135.99
+ESS_748,South Korea,Asia-Pacific,PG&E,Peak Shaving,47.9,95.8,LGES,2023-03-01,135.96
+ESS_749,USA,North America,Terra-Gen,Peak Shaving,121.8,487.2,LGES,2024-10-01,103.31
+ESS_750,USA,North America,Vistra Energy,Frequency Regulation,101.5,406.0,BYD,2027-02-01,58.25
+ESS_751,China,Asia-Pacific,NextEra Energy,Frequency Regulation,22.8,45.6,CATL,2024-11-01,82.27
+ESS_752,USA,North America,Terra-Gen,Renewable Integration,84.4,168.8,LGES,2022-01-01,149.94
+ESS_753,UK,Europe,Florida Power & Light,Renewable Integration,53.7,214.8,LGES,2021-04-01,148.3
+ESS_754,South Korea,Asia-Pacific,Neoen,Frequency Regulation,53.1,212.4,LGES,2021-04-01,133.85
+ESS_755,USA,North America,Vistra Energy,Peak Shaving,71.9,287.6,BYD,2023-07-01,99.99
+ESS_756,Australia,Asia-Pacific,Fluence,Peak Shaving,14.0,56.0,SAMSUNG_SDI,2025-08-01,94.53
+ESS_757,USA,North America,Florida Power & Light,Renewable Integration,58.0,232.0,LGES,2022-12-01,139.41
+ESS_758,South Korea,Asia-Pacific,NextEra Energy,Renewable Integration,100.3,200.6,LGES,2024-11-01,104.08
+ESS_759,USA,North America,NextEra Energy,Renewable Integration,38.6,77.2,LGES,2025-05-01,93.48
+ESS_760,USA,North America,Florida Power & Light,Frequency Regulation,38.2,152.8,BYD,2024-07-01,83.54
+ESS_761,Australia,Asia-Pacific,Florida Power & Light,Frequency Regulation,57.1,114.2,SAMSUNG_SDI,2023-10-01,135.01
+ESS_762,UK,Europe,Florida Power & Light,Peak Shaving,74.6,149.2,LGES,2025-05-01,91.32
+ESS_763,USA,North America,Southern California Edison,Frequency Regulation,49.7,198.8,BYD,2021-02-01,106.28
+ESS_764,UK,Europe,Neoen,Renewable Integration,44.5,178.0,LGES,2023-01-01,127.21
+ESS_765,China,Asia-Pacific,Enel Green Power,Frequency Regulation,86.3,345.2,CATL,2022-08-01,107.49
+ESS_766,UK,Europe,Fluence,Frequency Regulation,12.5,50.0,LGES,2024-12-01,104.46
+ESS_767,USA,North America,Florida Power & Light,Peak Shaving,42.2,84.4,LGES,2022-07-01,137.07
+ESS_768,UK,Europe,Southern California Edison,Peak Shaving,120.5,241.0,LGES,2021-09-01,137.64
+ESS_769,USA,North America,Terra-Gen,Peak Shaving,17.1,68.4,CATL,2024-08-01,79.41
+ESS_770,South Korea,Asia-Pacific,Neoen,Peak Shaving,71.8,143.6,LGES,2022-09-01,142.02
+ESS_771,UK,Europe,Vistra Energy,Frequency Regulation,38.9,77.8,LGES,2027-07-01,73.36
+ESS_772,USA,North America,Terra-Gen,Frequency Regulation,51.9,207.6,LGES,2022-05-01,139.55
+ESS_773,South Korea,Asia-Pacific,Enel Green Power,Renewable Integration,87.4,349.6,LGES,2023-05-01,132.83
+ESS_774,USA,North America,Duke Energy,Renewable Integration,113.4,226.8,BYD,2024-10-01,78.38
+ESS_775,USA,North America,PG&E,Frequency Regulation,70.4,140.8,LGES,2027-05-01,77.65
+ESS_776,USA,North America,AES Corporation,Peak Shaving,34.6,138.4,BYD,2021-05-01,106.14
+ESS_777,UK,Europe,PG&E,Peak Shaving,50.1,200.4,LGES,2025-06-01,94.87
+ESS_778,UK,Europe,KEPCO,Renewable Integration,140.6,281.2,LGES,2024-07-01,104.08
+ESS_779,China,Asia-Pacific,Enel Green Power,Peak Shaving,113.5,454.0,CATL,2024-05-01,85.02
+ESS_780,South Korea,Asia-Pacific,Enel Green Power,Peak Shaving,106.1,424.4,LGES,2027-10-01,73.54
+ESS_781,UK,Europe,AES Corporation,Renewable Integration,103.6,414.4,LGES,2025-06-01,92.58
+ESS_782,South Korea,Asia-Pacific,Enel Green Power,Peak Shaving,122.5,245.0,LGES,2027-09-01,76.49
+ESS_783,USA,North America,Florida Power & Light,Renewable Integration,54.9,109.8,LGES,2027-09-01,80.89
+ESS_784,Germany,Europe,Southern California Edison,Renewable Integration,12.2,24.4,SAMSUNG_SDI,2026-01-01,84.88
+ESS_785,Australia,Asia-Pacific,AES Corporation,Renewable Integration,55.5,111.0,SAMSUNG_SDI,2027-11-01,77.34
+ESS_786,South Korea,Asia-Pacific,Duke Energy,Renewable Integration,68.3,273.2,LGES,2025-01-01,94.77
+ESS_787,South Korea,Asia-Pacific,KEPCO,Frequency Regulation,46.3,92.6,LGES,2024-12-01,109.59
+ESS_788,China,Asia-Pacific,Southern California Edison,Frequency Regulation,39.2,78.4,CATL,2027-07-01,57.64
+ESS_789,USA,North America,NextEra Energy,Frequency Regulation,127.7,255.4,LGES,2022-11-01,147.18
+ESS_790,China,Asia-Pacific,Terra-Gen,Peak Shaving,123.1,246.2,CATL,2025-08-01,71.65
+ESS_791,USA,North America,PG&E,Peak Shaving,92.5,370.0,LGES,2023-12-01,134.48
+ESS_792,UK,Europe,AES Corporation,Frequency Regulation,146.2,584.8,LGES,2022-09-01,148.84
+ESS_793,UK,Europe,Neoen,Peak Shaving,137.9,275.8,LGES,2024-01-01,107.15
+ESS_794,USA,North America,NextEra Energy,Peak Shaving,89.0,356.0,LGES,2022-09-01,139.37
+ESS_795,USA,North America,NextEra Energy,Renewable Integration,60.5,242.0,LGES,2025-05-01,91.58
+ESS_796,UK,Europe,Duke Energy,Renewable Integration,141.9,283.8,LGES,2026-06-01,88.29
+ESS_797,USA,North America,Southern California Edison,Frequency Regulation,122.7,245.4,LGES,2023-05-01,128.46
+ESS_798,South Korea,Asia-Pacific,AES Corporation,Renewable Integration,137.3,274.6,LGES,2026-06-01,82.26
+ESS_799,Australia,Asia-Pacific,NextEra Energy,Renewable Integration,33.1,132.4,SAMSUNG_SDI,2027-04-01,76.48
+ESS_800,Australia,Asia-Pacific,NextEra Energy,Renewable Integration,83.0,332.0,SAMSUNG_SDI,2024-09-01,115.69
+ESS_801,South Korea,Asia-Pacific,Fluence,Frequency Regulation,10.0,40.0,LGES,2024-08-01,110.16
+ESS_802,South Korea,Asia-Pacific,Duke Energy,Peak Shaving,48.0,96.0,LGES,2021-05-01,148.17
+ESS_803,USA,North America,Fluence,Renewable Integration,48.5,97.0,LGES,2021-11-01,144.73
+ESS_804,South Korea,Asia-Pacific,Florida Power & Light,Frequency Regulation,23.2,46.4,LGES,2025-01-01,91.93
+ESS_805,USA,North America,PG&E,Renewable Integration,58.2,232.8,LGES,2024-05-01,111.15
+ESS_806,USA,North America,KEPCO,Frequency Regulation,100.0,200.0,LGES,2023-09-01,131.57
+ESS_807,USA,North America,AES Corporation,Frequency Regulation,9.2,36.8,BYD,2021-05-01,106.62
+ESS_808,Australia,Asia-Pacific,Duke Energy,Frequency Regulation,5.3,10.6,SAMSUNG_SDI,2021-06-01,142.94
+ESS_809,USA,North America,KEPCO,Peak Shaving,103.3,206.6,LGES,2026-11-01,81.66
+ESS_810,Germany,Europe,KEPCO,Frequency Regulation,27.6,55.2,SAMSUNG_SDI,2025-09-01,94.59
+ESS_811,South Korea,Asia-Pacific,Southern California Edison,Peak Shaving,59.2,118.4,LGES,2026-11-01,79.36
+ESS_812,USA,North America,PG&E,Peak Shaving,21.8,43.6,LGES,2024-08-01,107.83
+ESS_813,South Korea,Asia-Pacific,AES Corporation,Renewable Integration,126.2,252.4,LGES,2021-08-01,142.96
+ESS_814,South Korea,Asia-Pacific,PG&E,Renewable Integration,68.6,274.4,LGES,2021-09-01,134.38
+ESS_815,USA,North America,Vistra Energy,Frequency Regulation,142.6,570.4,BYD,2025-09-01,71.49
+ESS_816,Australia,Asia-Pacific,Duke Energy,Renewable Integration,35.9,143.6,CATL,2022-12-01,106.76
+ESS_817,UK,Europe,NextEra Energy,Renewable Integration,58.8,235.2,LGES,2025-04-01,90.8
+ESS_818,South Korea,Asia-Pacific,Duke Energy,Frequency Regulation,123.5,494.0,LGES,2021-03-01,131.6
+ESS_819,USA,North America,KEPCO,Renewable Integration,43.2,172.8,LGES,2022-12-01,148.36
+ESS_820,USA,North America,Duke Energy,Frequency Regulation,29.7,59.4,LGES,2022-04-01,150.69
+ESS_821,Australia,Asia-Pacific,AES Corporation,Peak Shaving,23.8,95.2,SAMSUNG_SDI,2021-04-01,139.93
+ESS_822,South Korea,Asia-Pacific,Southern California Edison,Frequency Regulation,122.9,245.8,LGES,2023-07-01,134.35
+ESS_823,USA,North America,PG&E,Peak Shaving,83.1,332.4,LGES,2022-05-01,143.53
+ESS_824,USA,North America,KEPCO,Peak Shaving,128.8,515.2,LGES,2022-01-01,139.7
+ESS_825,South Korea,Asia-Pacific,KEPCO,Renewable Integration,25.9,103.6,LGES,2022-07-01,151.32
+ESS_826,USA,North America,Fluence,Peak Shaving,109.0,436.0,LGES,2024-07-01,111.59
+ESS_827,USA,North America,Southern California Edison,Frequency Regulation,131.8,527.2,LGES,2022-04-01,150.69
+ESS_828,UK,Europe,Fluence,Renewable Integration,74.0,296.0,LGES,2026-11-01,85.79
+ESS_829,South Korea,Asia-Pacific,Fluence,Renewable Integration,14.2,28.4,LGES,2023-10-01,128.51
+ESS_830,Australia,Asia-Pacific,Florida Power & Light,Frequency Regulation,113.3,453.2,CATL,2023-11-01,98.54
+ESS_831,Australia,Asia-Pacific,Florida Power & Light,Frequency Regulation,9.5,38.0,SAMSUNG_SDI,2022-03-01,136.44
+ESS_832,USA,North America,NextEra Energy,Renewable Integration,54.0,216.0,LGES,2027-09-01,80.0
+ESS_833,China,Asia-Pacific,PG&E,Frequency Regulation,86.2,344.8,CATL,2021-12-01,110.45
+ESS_834,UK,Europe,Southern California Edison,Frequency Regulation,145.4,581.6,LGES,2026-01-01,85.78
+ESS_835,USA,North America,Duke Energy,Frequency Regulation,44.1,176.4,LGES,2025-05-01,100.7
+ESS_836,USA,North America,Neoen,Renewable Integration,85.2,170.4,LGES,2023-12-01,127.27
+ESS_837,USA,North America,Enel Green Power,Frequency Regulation,22.0,88.0,LGES,2027-05-01,76.67
+ESS_838,USA,North America,Enel Green Power,Peak Shaving,69.9,139.8,CATL,2027-01-01,59.52
+ESS_839,USA,North America,Fluence,Peak Shaving,67.0,268.0,BYD,2027-10-01,55.55
+ESS_840,USA,North America,AES Corporation,Renewable Integration,55.8,111.6,CATL,2026-10-01,64.83
+ESS_841,USA,North America,Terra-Gen,Renewable Integration,107.5,430.0,BYD,2025-10-01,75.13
+ESS_842,USA,North America,KEPCO,Peak Shaving,147.7,590.8,LGES,2025-05-01,95.19
+ESS_843,South Korea,Asia-Pacific,Florida Power & Light,Renewable Integration,10.6,21.2,LGES,2026-12-01,81.43
+ESS_844,Australia,Asia-Pacific,Vistra Energy,Peak Shaving,19.1,38.2,SAMSUNG_SDI,2023-07-01,132.8
+ESS_845,UK,Europe,Florida Power & Light,Renewable Integration,113.9,227.8,LGES,2024-01-01,115.46
+ESS_846,China,Asia-Pacific,Fluence,Frequency Regulation,73.3,293.2,CATL,2026-04-01,66.3
+ESS_847,South Korea,Asia-Pacific,AES Corporation,Renewable Integration,116.2,464.8,LGES,2026-04-01,87.26
+ESS_848,Australia,Asia-Pacific,AES Corporation,Peak Shaving,98.0,196.0,SAMSUNG_SDI,2023-08-01,125.35
+ESS_849,Australia,Asia-Pacific,Vistra Energy,Peak Shaving,72.7,145.4,SAMSUNG_SDI,2024-04-01,105.44
+ESS_850,USA,North America,Florida Power & Light,Peak Shaving,80.9,323.6,LGES,2026-02-01,79.18
+ESS_851,South Korea,Asia-Pacific,Vistra Energy,Renewable Integration,27.8,55.6,LGES,2027-10-01,76.18
+ESS_852,USA,North America,PG&E,Frequency Regulation,118.5,237.0,BYD,2025-04-01,73.4
+ESS_853,USA,North America,AES Corporation,Renewable Integration,9.7,19.4,LGES,2024-10-01,108.6
+ESS_854,Australia,Asia-Pacific,KEPCO,Renewable Integration,74.8,299.2,SAMSUNG_SDI,2025-02-01,90.82
+ESS_855,South Korea,Asia-Pacific,Enel Green Power,Peak Shaving,134.2,536.8,LGES,2027-11-01,76.22
+ESS_856,USA,North America,PG&E,Peak Shaving,83.8,167.6,LGES,2025-12-01,90.7
+ESS_857,China,Asia-Pacific,Terra-Gen,Peak Shaving,149.1,596.4,CATL,2023-02-01,102.83
+ESS_858,Australia,Asia-Pacific,Vistra Energy,Peak Shaving,122.1,244.2,SAMSUNG_SDI,2025-03-01,96.86
+ESS_859,USA,North America,Terra-Gen,Peak Shaving,109.1,218.2,LGES,2025-07-01,95.76
+ESS_860,USA,North America,Vistra Energy,Renewable Integration,20.6,41.2,LGES,2027-01-01,79.71
+ESS_861,South Korea,Asia-Pacific,Terra-Gen,Peak Shaving,89.1,356.4,LGES,2024-06-01,111.94
+ESS_862,China,Asia-Pacific,AES Corporation,Renewable Integration,34.5,138.0,CATL,2026-03-01,61.88
+ESS_863,USA,North America,Fluence,Peak Shaving,10.2,20.4,CATL,2024-04-01,81.07
+ESS_864,UK,Europe,Southern California Edison,Renewable Integration,129.5,518.0,LGES,2026-08-01,81.33
+ESS_865,USA,North America,NextEra Energy,Frequency Regulation,145.0,290.0,LGES,2026-03-01,79.68
+ESS_866,South Korea,Asia-Pacific,AES Corporation,Renewable Integration,101.3,405.2,LGES,2027-12-01,78.36
+ESS_867,USA,North America,KEPCO,Peak Shaving,110.0,220.0,LGES,2027-06-01,77.76
+ESS_868,UK,Europe,Neoen,Frequency Regulation,131.5,263.0,LGES,2022-06-01,148.99
+ESS_869,USA,North America,PG&E,Renewable Integration,29.2,58.4,LGES,2021-03-01,133.97
+ESS_870,USA,North America,KEPCO,Renewable Integration,101.8,203.6,LGES,2024-07-01,105.7
+ESS_871,UK,Europe,Terra-Gen,Frequency Regulation,99.1,198.2,LGES,2025-02-01,94.12
+ESS_872,Australia,Asia-Pacific,KEPCO,Peak Shaving,6.0,12.0,SAMSUNG_SDI,2025-07-01,99.61
+ESS_873,UK,Europe,KEPCO,Peak Shaving,50.1,100.2,LGES,2025-12-01,100.41
+ESS_874,USA,North America,Fluence,Peak Shaving,58.2,116.4,LGES,2027-04-01,77.73
+ESS_875,USA,North America,NextEra Energy,Renewable Integration,19.0,38.0,LGES,2024-11-01,106.21
+ESS_876,South Korea,Asia-Pacific,NextEra Energy,Renewable Integration,61.4,122.8,LGES,2027-11-01,75.64
+ESS_877,USA,North America,KEPCO,Renewable Integration,111.6,223.2,LGES,2021-10-01,134.62
+ESS_878,Australia,Asia-Pacific,Fluence,Frequency Regulation,146.0,584.0,SAMSUNG_SDI,2022-12-01,147.35
+ESS_879,Australia,Asia-Pacific,Terra-Gen,Peak Shaving,53.6,107.2,SAMSUNG_SDI,2025-06-01,91.27
+ESS_880,USA,North America,Enel Green Power,Renewable Integration,117.3,469.2,LGES,2025-09-01,99.36
+ESS_881,South Korea,Asia-Pacific,Southern California Edison,Peak Shaving,9.3,37.2,LGES,2027-12-01,77.15
+ESS_882,USA,North America,Southern California Edison,Peak Shaving,101.4,405.6,LGES,2023-06-01,125.88
+ESS_883,South Korea,Asia-Pacific,Neoen,Frequency Regulation,40.0,80.0,LGES,2027-06-01,74.53
+ESS_884,USA,North America,Duke Energy,Renewable Integration,126.0,504.0,LGES,2025-05-01,100.75
+ESS_885,UK,Europe,KEPCO,Renewable Integration,33.7,134.8,LGES,2026-04-01,80.16
+ESS_886,USA,North America,Neoen,Peak Shaving,70.3,140.6,LGES,2024-11-01,114.96
+ESS_887,Australia,Asia-Pacific,Vistra Energy,Peak Shaving,123.6,247.2,SAMSUNG_SDI,2022-05-01,152.58
+ESS_888,USA,North America,Neoen,Peak Shaving,43.1,172.4,LGES,2021-08-01,140.0
+ESS_889,USA,North America,NextEra Energy,Renewable Integration,93.6,374.4,LGES,2025-02-01,95.56
+ESS_890,USA,North America,Terra-Gen,Frequency Regulation,27.6,55.2,BYD,2021-05-01,109.85
+ESS_891,South Korea,Asia-Pacific,Vistra Energy,Peak Shaving,6.7,13.4,LGES,2023-02-01,129.38
+ESS_892,China,Asia-Pacific,Florida Power & Light,Peak Shaving,139.0,556.0,CATL,2021-06-01,110.25
+ESS_893,Australia,Asia-Pacific,NextEra Energy,Renewable Integration,114.0,228.0,SAMSUNG_SDI,2024-05-01,112.94
+ESS_894,Germany,Europe,Florida Power & Light,Renewable Integration,31.8,127.2,SAMSUNG_SDI,2026-12-01,83.23
+ESS_895,Australia,Asia-Pacific,Vistra Energy,Renewable Integration,144.6,289.2,SAMSUNG_SDI,2024-06-01,112.21
+ESS_896,USA,North America,Southern California Edison,Frequency Regulation,50.8,101.6,BYD,2022-12-01,111.47
+ESS_897,USA,North America,Duke Energy,Renewable Integration,42.7,85.4,LGES,2026-02-01,85.01
+ESS_898,USA,North America,KEPCO,Peak Shaving,31.9,63.8,LGES,2027-02-01,81.26
+ESS_899,USA,North America,PG&E,Peak Shaving,92.0,368.0,LGES,2025-07-01,100.71
+ESS_900,South Korea,Asia-Pacific,Duke Energy,Renewable Integration,146.6,293.2,LGES,2025-08-01,94.11
+ESS_901,South Korea,Asia-Pacific,Florida Power & Light,Renewable Integration,112.7,450.8,LGES,2022-02-01,141.77
+ESS_902,USA,North America,Fluence,Renewable Integration,88.6,177.2,LGES,2023-12-01,128.93
+ESS_903,South Korea,Asia-Pacific,Fluence,Peak Shaving,20.8,41.6,LGES,2023-12-01,122.42
+ESS_904,UK,Europe,NextEra Energy,Peak Shaving,110.6,442.4,LGES,2021-05-01,141.64
+ESS_905,UK,Europe,PG&E,Peak Shaving,143.9,287.8,LGES,2027-12-01,72.98
+ESS_906,USA,North America,Neoen,Frequency Regulation,46.3,185.2,LGES,2026-06-01,85.71
+ESS_907,UK,Europe,Enel Green Power,Frequency Regulation,142.0,284.0,LGES,2022-03-01,146.67
+ESS_908,Australia,Asia-Pacific,Duke Energy,Frequency Regulation,60.4,241.6,SAMSUNG_SDI,2021-09-01,146.1
+ESS_909,UK,Europe,PG&E,Frequency Regulation,141.9,283.8,LGES,2025-07-01,100.03
+ESS_910,South Korea,Asia-Pacific,Terra-Gen,Frequency Regulation,46.9,93.8,LGES,2021-03-01,137.85
+ESS_911,USA,North America,Terra-Gen,Peak Shaving,103.6,414.4,LGES,2023-02-01,136.18
+ESS_912,China,Asia-Pacific,Southern California Edison,Frequency Regulation,117.9,235.8,CATL,2024-05-01,86.04
+ESS_913,Australia,Asia-Pacific,Florida Power & Light,Frequency Regulation,19.1,38.2,SAMSUNG_SDI,2022-07-01,148.99
+ESS_914,China,Asia-Pacific,Duke Energy,Peak Shaving,145.4,290.8,CATL,2025-02-01,70.61
+ESS_915,USA,North America,NextEra Energy,Renewable Integration,147.4,589.6,LGES,2021-09-01,138.73
+ESS_916,UK,Europe,Fluence,Frequency Regulation,38.6,77.2,LGES,2025-07-01,89.8
+ESS_917,USA,North America,Florida Power & Light,Frequency Regulation,17.2,68.8,BYD,2021-06-01,108.09
+ESS_918,UK,Europe,Enel Green Power,Peak Shaving,16.3,32.6,LGES,2022-10-01,135.67
+ESS_919,South Korea,Asia-Pacific,NextEra Energy,Frequency Regulation,21.8,43.6,LGES,2025-03-01,93.01
+ESS_920,Australia,Asia-Pacific,NextEra Energy,Peak Shaving,70.0,140.0,SAMSUNG_SDI,2023-04-01,129.0
+ESS_921,USA,North America,AES Corporation,Renewable Integration,77.1,154.2,LGES,2026-10-01,83.69
+ESS_922,China,Asia-Pacific,Neoen,Renewable Integration,78.5,314.0,CATL,2025-07-01,68.25
+ESS_923,Australia,Asia-Pacific,Southern California Edison,Renewable Integration,98.1,196.2,SAMSUNG_SDI,2024-11-01,106.6
+ESS_924,South Korea,Asia-Pacific,Enel Green Power,Peak Shaving,93.5,374.0,LGES,2021-03-01,137.44
+ESS_925,South Korea,Asia-Pacific,Vistra Energy,Peak Shaving,42.5,170.0,LGES,2026-09-01,82.19
+ESS_926,USA,North America,Southern California Edison,Peak Shaving,67.4,269.6,LGES,2021-05-01,139.55
+ESS_927,South Korea,Asia-Pacific,KEPCO,Peak Shaving,10.1,20.2,LGES,2021-06-01,131.84
+ESS_928,USA,North America,Vistra Energy,Peak Shaving,87.2,174.4,BYD,2025-01-01,69.56
+ESS_929,South Korea,Asia-Pacific,Duke Energy,Frequency Regulation,8.5,34.0,LGES,2025-04-01,90.43
+ESS_930,USA,North America,Duke Energy,Frequency Regulation,73.9,295.6,BYD,2025-01-01,71.93
+ESS_931,South Korea,Asia-Pacific,Florida Power & Light,Frequency Regulation,81.2,162.4,LGES,2026-09-01,83.31
+ESS_932,USA,North America,Terra-Gen,Renewable Integration,55.9,223.6,LGES,2025-01-01,97.91
+ESS_933,USA,North America,AES Corporation,Frequency Regulation,20.0,40.0,LGES,2022-12-01,144.49
+ESS_934,USA,North America,Duke Energy,Peak Shaving,57.0,114.0,LGES,2021-09-01,140.45
+ESS_935,UK,Europe,Duke Energy,Frequency Regulation,120.0,480.0,LGES,2025-08-01,94.84
+ESS_936,Germany,Europe,Florida Power & Light,Frequency Regulation,35.0,140.0,SAMSUNG_SDI,2026-05-01,86.8
+ESS_937,UK,Europe,Enel Green Power,Peak Shaving,64.2,256.8,LGES,2023-03-01,136.1
+ESS_938,Australia,Asia-Pacific,Duke Energy,Peak Shaving,130.7,522.8,SAMSUNG_SDI,2021-04-01,142.92
+ESS_939,UK,Europe,Enel Green Power,Frequency Regulation,75.7,302.8,LGES,2025-01-01,100.89
+ESS_940,China,Asia-Pacific,Fluence,Renewable Integration,61.1,122.2,CATL,2026-10-01,63.28
+ESS_941,Australia,Asia-Pacific,Vistra Energy,Renewable Integration,137.9,551.6,SAMSUNG_SDI,2024-09-01,103.53
+ESS_942,South Korea,Asia-Pacific,AES Corporation,Renewable Integration,63.1,126.2,LGES,2021-04-01,143.34
+ESS_943,USA,North America,Vistra Energy,Peak Shaving,79.5,159.0,LGES,2022-02-01,149.55
+ESS_944,South Korea,Asia-Pacific,Florida Power & Light,Frequency Regulation,125.2,250.4,LGES,2026-08-01,79.96
+ESS_945,Australia,Asia-Pacific,Fluence,Frequency Regulation,146.6,293.2,SAMSUNG_SDI,2021-07-01,140.99
+ESS_946,USA,North America,Neoen,Frequency Regulation,92.6,185.2,BYD,2023-10-01,93.95
+ESS_947,Australia,Asia-Pacific,PG&E,Peak Shaving,90.5,362.0,SAMSUNG_SDI,2024-10-01,111.69
+ESS_948,UK,Europe,Terra-Gen,Renewable Integration,44.1,176.4,LGES,2023-08-01,127.03
+ESS_949,South Korea,Asia-Pacific,Vistra Energy,Renewable Integration,68.9,275.6,LGES,2025-08-01,100.12
+ESS_950,Germany,Europe,PG&E,Frequency Regulation,149.3,597.2,SAMSUNG_SDI,2022-12-01,147.56
+ESS_951,Australia,Asia-Pacific,Neoen,Renewable Integration,118.5,237.0,SAMSUNG_SDI,2024-01-01,112.72
+ESS_952,UK,Europe,Terra-Gen,Peak Shaving,13.3,26.6,LGES,2024-06-01,108.59
+ESS_953,USA,North America,NextEra Energy,Renewable Integration,127.6,255.2,LGES,2023-05-01,130.5
+ESS_954,USA,North America,AES Corporation,Frequency Regulation,142.1,284.2,LGES,2025-06-01,91.66
+ESS_955,Australia,Asia-Pacific,KEPCO,Peak Shaving,11.7,46.8,SAMSUNG_SDI,2027-09-01,80.2
+ESS_956,South Korea,Asia-Pacific,AES Corporation,Frequency Regulation,11.4,22.8,LGES,2022-06-01,144.45
+ESS_957,Australia,Asia-Pacific,NextEra Energy,Frequency Regulation,55.0,110.0,CATL,2027-09-01,61.07
+ESS_958,South Korea,Asia-Pacific,Terra-Gen,Peak Shaving,58.4,116.8,LGES,2024-04-01,110.04
+ESS_959,USA,North America,Vistra Energy,Frequency Regulation,51.6,103.2,LGES,2023-01-01,128.76
+ESS_960,China,Asia-Pacific,Southern California Edison,Peak Shaving,76.7,153.4,CATL,2024-03-01,84.76
+ESS_961,USA,North America,Vistra Energy,Peak Shaving,15.9,63.6,LGES,2027-03-01,80.99
+ESS_962,Germany,Europe,NextEra Energy,Frequency Regulation,93.4,373.6,SAMSUNG_SDI,2027-01-01,76.83
+ESS_963,Australia,Asia-Pacific,Florida Power & Light,Renewable Integration,9.4,18.8,SAMSUNG_SDI,2022-08-01,142.35
+ESS_964,USA,North America,Duke Energy,Frequency Regulation,98.2,196.4,BYD,2021-06-01,101.17
+ESS_965,China,Asia-Pacific,KEPCO,Frequency Regulation,35.4,70.8,CATL,2026-12-01,59.84
+ESS_966,UK,Europe,Enel Green Power,Peak Shaving,141.2,282.4,LGES,2021-12-01,146.29
+ESS_967,China,Asia-Pacific,KEPCO,Frequency Regulation,19.9,39.8,CATL,2025-07-01,70.58
+ESS_968,Australia,Asia-Pacific,KEPCO,Peak Shaving,138.1,276.2,SAMSUNG_SDI,2025-05-01,94.11
+ESS_969,UK,Europe,KEPCO,Renewable Integration,116.0,232.0,LGES,2027-11-01,73.61
+ESS_970,USA,North America,Florida Power & Light,Peak Shaving,103.9,415.6,LGES,2022-07-01,146.97
+ESS_971,UK,Europe,Enel Green Power,Frequency Regulation,122.8,245.6,LGES,2021-01-01,132.76
+ESS_972,USA,North America,Fluence,Renewable Integration,132.2,264.4,LGES,2024-11-01,110.4
+ESS_973,Australia,Asia-Pacific,Neoen,Frequency Regulation,67.5,270.0,SAMSUNG_SDI,2027-10-01,77.57
+ESS_974,USA,North America,AES Corporation,Renewable Integration,32.5,130.0,LGES,2027-01-01,80.67
+ESS_975,UK,Europe,Southern California Edison,Renewable Integration,63.8,127.6,LGES,2021-01-01,141.07
+ESS_976,UK,Europe,Enel Green Power,Renewable Integration,48.1,96.2,LGES,2023-08-01,137.23
+ESS_977,Australia,Asia-Pacific,Neoen,Frequency Regulation,94.0,188.0,SAMSUNG_SDI,2023-12-01,131.92
+ESS_978,USA,North America,Enel Green Power,Peak Shaving,147.6,590.4,LGES,2023-01-01,137.83
+ESS_979,USA,North America,Enel Green Power,Renewable Integration,118.0,472.0,LGES,2024-06-01,114.21
+ESS_980,UK,Europe,PG&E,Frequency Regulation,23.3,46.6,LGES,2026-02-01,88.3
+ESS_981,UK,Europe,Neoen,Frequency Regulation,119.3,238.6,LGES,2021-03-01,144.58
+ESS_982,UK,Europe,AES Corporation,Peak Shaving,77.5,155.0,LGES,2026-11-01,79.8
+ESS_983,USA,North America,Fluence,Peak Shaving,83.7,334.8,LGES,2024-08-01,111.11
+ESS_984,Australia,Asia-Pacific,Terra-Gen,Renewable Integration,81.3,162.6,SAMSUNG_SDI,2026-12-01,81.14
+ESS_985,South Korea,Asia-Pacific,NextEra Energy,Peak Shaving,56.0,112.0,LGES,2023-11-01,122.89
+ESS_986,South Korea,Asia-Pacific,Florida Power & Light,Renewable Integration,64.1,256.4,LGES,2022-09-01,150.48
+ESS_987,Australia,Asia-Pacific,PG&E,Renewable Integration,134.6,538.4,SAMSUNG_SDI,2023-06-01,136.76
+ESS_988,Australia,Asia-Pacific,Florida Power & Light,Peak Shaving,146.7,293.4,SAMSUNG_SDI,2025-08-01,90.59
+ESS_989,UK,Europe,Terra-Gen,Renewable Integration,146.5,586.0,LGES,2026-03-01,81.09
+ESS_990,China,Asia-Pacific,NextEra Energy,Renewable Integration,145.0,580.0,CATL,2022-03-01,111.64
+ESS_991,South Korea,Asia-Pacific,AES Corporation,Renewable Integration,130.7,261.4,LGES,2025-09-01,90.14
+ESS_992,UK,Europe,AES Corporation,Peak Shaving,5.5,11.0,LGES,2021-05-01,146.57
+ESS_993,USA,North America,Southern California Edison,Peak Shaving,77.4,309.6,LGES,2025-10-01,93.73
+ESS_994,South Korea,Asia-Pacific,Southern California Edison,Peak Shaving,64.2,256.8,LGES,2023-04-01,134.45
+ESS_995,USA,North America,Neoen,Peak Shaving,144.7,578.8,BYD,2024-05-01,80.18
+ESS_996,UK,Europe,Terra-Gen,Frequency Regulation,33.3,133.2,LGES,2024-11-01,104.33
+ESS_997,South Korea,Asia-Pacific,AES Corporation,Renewable Integration,141.0,282.0,LGES,2023-09-01,130.05
+ESS_998,UK,Europe,Neoen,Peak Shaving,16.1,32.2,LGES,2027-12-01,81.54
+ESS_999,Australia,Asia-Pacific,Florida Power & Light,Renewable Integration,145.0,580.0,SAMSUNG_SDI,2025-12-01,90.11
+ESS_1000,Australia,Asia-Pacific,Neoen,Renewable Integration,23.4,46.8,CATL,2023-12-01,99.38
+ESS_1001,USA,North America,NextEra Energy,Renewable Integration,106.4,212.8,LGES,2023-04-01,137.6
+ESS_1002,South Korea,Asia-Pacific,KEPCO,Renewable Integration,112.7,450.8,LGES,2021-01-01,144.2
+ESS_1003,South Korea,Asia-Pacific,KEPCO,Frequency Regulation,72.6,145.2,LGES,2026-05-01,84.7
+ESS_1004,South Korea,Asia-Pacific,KEPCO,Frequency Regulation,75.0,150.0,LGES,2027-12-01,78.5
+ESS_1005,USA,North America,Florida Power & Light,Renewable Integration,13.9,55.6,LGES,2023-08-01,125.78
+ESS_1006,USA,North America,Florida Power & Light,Renewable Integration,107.7,215.4,CATL,2025-05-01,71.52
+ESS_1007,South Korea,Asia-Pacific,NextEra Energy,Peak Shaving,55.0,220.0,LGES,2024-04-01,113.36
+ESS_1008,USA,North America,KEPCO,Peak Shaving,75.7,151.4,LGES,2024-02-01,103.57
+ESS_1009,UK,Europe,KEPCO,Frequency Regulation,88.6,177.2,LGES,2024-05-01,113.76
+ESS_1010,UK,Europe,AES Corporation,Renewable Integration,148.9,595.6,LGES,2026-12-01,82.73
+ESS_1011,Australia,Asia-Pacific,Fluence,Peak Shaving,91.5,183.0,SAMSUNG_SDI,2027-10-01,73.67
+ESS_1012,UK,Europe,Terra-Gen,Peak Shaving,34.0,136.0,LGES,2022-12-01,147.53
+ESS_1013,UK,Europe,Vistra Energy,Frequency Regulation,129.7,518.8,LGES,2026-01-01,88.51
+ESS_1014,South Korea,Asia-Pacific,PG&E,Peak Shaving,103.8,207.6,LGES,2026-02-01,82.4
+ESS_1015,USA,North America,KEPCO,Renewable Integration,133.0,532.0,LGES,2021-01-01,146.12
+ESS_1016,Australia,Asia-Pacific,Florida Power & Light,Renewable Integration,126.4,252.8,SAMSUNG_SDI,2024-02-01,115.37
+ESS_1017,South Korea,Asia-Pacific,KEPCO,Renewable Integration,67.6,135.2,LGES,2023-12-01,130.68
+ESS_1018,UK,Europe,Neoen,Frequency Regulation,31.3,62.6,LGES,2022-03-01,136.99
+ESS_1019,Australia,Asia-Pacific,Enel Green Power,Frequency Regulation,60.9,121.8,SAMSUNG_SDI,2026-09-01,86.21
+ESS_1020,South Korea,Asia-Pacific,Florida Power & Light,Renewable Integration,133.3,533.2,LGES,2022-07-01,151.01
+ESS_1021,Australia,Asia-Pacific,Vistra Energy,Peak Shaving,22.5,45.0,SAMSUNG_SDI,2021-05-01,142.57
+ESS_1022,Australia,Asia-Pacific,Duke Energy,Peak Shaving,27.4,54.8,CATL,2024-05-01,78.56
+ESS_1023,South Korea,Asia-Pacific,Florida Power & Light,Peak Shaving,132.3,529.2,LGES,2021-07-01,148.3
+ESS_1024,USA,North America,PG&E,Peak Shaving,97.4,389.6,BYD,2024-04-01,82.19
+ESS_1025,USA,North America,KEPCO,Peak Shaving,85.6,342.4,LGES,2027-04-01,77.38
+ESS_1026,USA,North America,NextEra Energy,Frequency Regulation,137.0,548.0,LGES,2027-04-01,80.75
+ESS_1027,USA,North America,Enel Green Power,Peak Shaving,102.6,410.4,LGES,2021-02-01,134.67
+ESS_1028,UK,Europe,Fluence,Renewable Integration,34.0,136.0,LGES,2027-06-01,77.69
+ESS_1029,USA,North America,Enel Green Power,Frequency Regulation,118.7,474.8,LGES,2026-03-01,84.09
+ESS_1030,South Korea,Asia-Pacific,NextEra Energy,Peak Shaving,49.9,99.8,LGES,2021-06-01,139.43
+ESS_1031,South Korea,Asia-Pacific,Duke Energy,Frequency Regulation,129.3,517.2,LGES,2022-01-01,140.23
+ESS_1032,USA,North America,Fluence,Renewable Integration,24.6,49.2,LGES,2023-12-01,122.57
+ESS_1033,USA,North America,PG&E,Peak Shaving,101.9,203.8,LGES,2027-02-01,76.41
+ESS_1034,USA,North America,KEPCO,Frequency Regulation,45.9,183.6,BYD,2027-06-01,55.52
+ESS_1035,USA,North America,Neoen,Peak Shaving,47.9,191.6,BYD,2024-01-01,84.93
+ESS_1036,South Korea,Asia-Pacific,Neoen,Frequency Regulation,135.8,271.6,LGES,2021-09-01,144.34
+ESS_1037,USA,North America,Vistra Energy,Frequency Regulation,17.6,35.2,LGES,2023-04-01,125.51
+ESS_1038,USA,North America,Fluence,Renewable Integration,17.3,34.6,LGES,2023-09-01,124.47
+ESS_1039,USA,North America,Vistra Energy,Frequency Regulation,37.0,148.0,BYD,2022-09-01,105.93
+ESS_1040,USA,North America,Terra-Gen,Frequency Regulation,126.8,253.6,LGES,2023-02-01,136.58
+ESS_1041,UK,Europe,PG&E,Frequency Regulation,114.0,456.0,LGES,2026-10-01,87.32
+ESS_1042,USA,North America,KEPCO,Renewable Integration,38.9,155.6,LGES,2026-09-01,88.95
+ESS_1043,South Korea,Asia-Pacific,Terra-Gen,Peak Shaving,138.6,277.2,LGES,2024-07-01,110.15
+ESS_1044,Australia,Asia-Pacific,Vistra Energy,Frequency Regulation,94.8,189.6,SAMSUNG_SDI,2024-07-01,109.11
+ESS_1045,UK,Europe,Fluence,Renewable Integration,112.3,224.6,LGES,2025-08-01,96.88
+ESS_1046,USA,North America,Neoen,Renewable Integration,58.7,117.4,LGES,2026-03-01,88.46
+ESS_1047,USA,North America,Terra-Gen,Frequency Regulation,136.7,546.8,LGES,2023-10-01,130.64
+ESS_1048,USA,North America,Duke Energy,Renewable Integration,112.2,448.8,LGES,2027-03-01,80.83
+ESS_1049,USA,North America,Southern California Edison,Renewable Integration,81.8,327.2,BYD,2025-04-01,72.09
+ESS_1050,UK,Europe,NextEra Energy,Renewable Integration,141.4,565.6,LGES,2025-04-01,99.4
+ESS_1051,USA,North America,Duke Energy,Frequency Regulation,118.6,237.2,LGES,2026-01-01,80.32
+ESS_1052,China,Asia-Pacific,Southern California Edison,Renewable Integration,38.0,76.0,CATL,2024-02-01,80.59
+ESS_1053,USA,North America,Duke Energy,Peak Shaving,29.0,58.0,LGES,2021-04-01,141.84
+ESS_1054,Australia,Asia-Pacific,Vistra Energy,Peak Shaving,141.9,567.6,SAMSUNG_SDI,2023-03-01,135.85
+ESS_1055,Australia,Asia-Pacific,Vistra Energy,Frequency Regulation,117.3,234.6,SAMSUNG_SDI,2024-01-01,111.49
+ESS_1056,UK,Europe,Vistra Energy,Peak Shaving,14.7,58.8,LGES,2025-07-01,92.76
+ESS_1057,Germany,Europe,Neoen,Peak Shaving,124.5,498.0,SAMSUNG_SDI,2022-05-01,139.36
+ESS_1058,Australia,Asia-Pacific,Florida Power & Light,Renewable Integration,103.9,415.6,SAMSUNG_SDI,2023-03-01,127.26
+ESS_1059,South Korea,Asia-Pacific,PG&E,Frequency Regulation,143.9,575.6,LGES,2023-06-01,132.79
+ESS_1060,South Korea,Asia-Pacific,Duke Energy,Renewable Integration,26.6,53.2,LGES,2024-04-01,113.37
+ESS_1061,USA,North America,NextEra Energy,Peak Shaving,88.8,177.6,BYD,2025-08-01,73.72
+ESS_1062,South Korea,Asia-Pacific,PG&E,Peak Shaving,102.7,205.4,LGES,2025-01-01,90.28
+ESS_1063,Australia,Asia-Pacific,Vistra Energy,Frequency Regulation,125.7,251.4,SAMSUNG_SDI,2027-06-01,74.69
+ESS_1064,USA,North America,Southern California Edison,Frequency Regulation,32.5,65.0,LGES,2025-09-01,92.54
+ESS_1065,China,Asia-Pacific,Terra-Gen,Peak Shaving,28.4,113.6,CATL,2025-12-01,74.06
+ESS_1066,UK,Europe,Florida Power & Light,Renewable Integration,60.6,242.4,LGES,2024-05-01,108.01
+ESS_1067,USA,North America,AES Corporation,Frequency Regulation,142.4,569.6,LGES,2021-10-01,138.98
+ESS_1068,South Korea,Asia-Pacific,PG&E,Renewable Integration,145.6,291.2,LGES,2024-05-01,113.33
+ESS_1069,UK,Europe,KEPCO,Peak Shaving,27.3,54.6,LGES,2021-07-01,146.45
+ESS_1070,USA,North America,Enel Green Power,Frequency Regulation,123.1,246.2,LGES,2021-07-01,141.8
+ESS_1071,Australia,Asia-Pacific,Terra-Gen,Frequency Regulation,68.8,137.6,SAMSUNG_SDI,2022-07-01,148.16
+ESS_1072,USA,North America,Enel Green Power,Frequency Regulation,140.2,280.4,LGES,2026-08-01,83.31
+ESS_1073,Australia,Asia-Pacific,NextEra Energy,Renewable Integration,32.0,64.0,SAMSUNG_SDI,2027-09-01,81.46
+ESS_1074,South Korea,Asia-Pacific,Terra-Gen,Frequency Regulation,35.2,140.8,LGES,2021-12-01,138.31
+ESS_1075,China,Asia-Pacific,Fluence,Frequency Regulation,109.8,439.2,CATL,2021-01-01,109.86
+ESS_1076,South Korea,Asia-Pacific,Neoen,Renewable Integration,124.4,248.8,LGES,2027-11-01,78.67
+ESS_1077,USA,North America,Duke Energy,Frequency Regulation,124.7,498.8,LGES,2022-03-01,142.56
+ESS_1078,UK,Europe,PG&E,Renewable Integration,143.5,574.0,LGES,2024-01-01,107.73
+ESS_1079,South Korea,Asia-Pacific,Southern California Edison,Renewable Integration,53.5,214.0,LGES,2021-12-01,132.44
+ESS_1080,South Korea,Asia-Pacific,NextEra Energy,Renewable Integration,95.6,382.4,LGES,2025-05-01,93.49
+ESS_1081,USA,North America,Florida Power & Light,Frequency Regulation,78.1,312.4,BYD,2025-07-01,70.62
+ESS_1082,Australia,Asia-Pacific,Fluence,Frequency Regulation,99.2,198.4,CATL,2021-01-01,99.05
+ESS_1083,South Korea,Asia-Pacific,NextEra Energy,Renewable Integration,81.0,324.0,LGES,2026-11-01,88.11
+ESS_1084,UK,Europe,NextEra Energy,Frequency Regulation,29.0,58.0,LGES,2024-09-01,111.21
+ESS_1085,Germany,Europe,Terra-Gen,Frequency Regulation,17.4,34.8,SAMSUNG_SDI,2021-10-01,133.4
+ESS_1086,South Korea,Asia-Pacific,Neoen,Frequency Regulation,20.6,41.2,LGES,2025-10-01,95.35
+ESS_1087,USA,North America,Florida Power & Light,Frequency Regulation,24.8,49.6,BYD,2024-09-01,86.32
+ESS_1088,Australia,Asia-Pacific,Neoen,Peak Shaving,43.8,87.6,SAMSUNG_SDI,2026-09-01,82.99
+ESS_1089,Australia,Asia-Pacific,Southern California Edison,Renewable Integration,73.6,147.2,SAMSUNG_SDI,2021-04-01,141.63
+ESS_1090,South Korea,Asia-Pacific,Neoen,Peak Shaving,26.5,106.0,LGES,2027-10-01,77.32
+ESS_1091,USA,North America,Southern California Edison,Renewable Integration,137.2,274.4,LGES,2024-11-01,106.67
+ESS_1092,USA,North America,Vistra Energy,Frequency Regulation,24.5,98.0,BYD,2024-10-01,85.01
+ESS_1093,Australia,Asia-Pacific,Florida Power & Light,Peak Shaving,121.8,243.6,SAMSUNG_SDI,2025-08-01,92.06
+ESS_1094,South Korea,Asia-Pacific,AES Corporation,Peak Shaving,63.1,252.4,LGES,2025-09-01,89.94
+ESS_1095,UK,Europe,PG&E,Renewable Integration,21.3,85.2,LGES,2024-02-01,103.79
+ESS_1096,USA,North America,AES Corporation,Peak Shaving,68.2,136.4,LGES,2024-09-01,104.19
+ESS_1097,UK,Europe,Enel Green Power,Renewable Integration,119.0,238.0,LGES,2026-07-01,88.95
+ESS_1098,Australia,Asia-Pacific,Vistra Energy,Frequency Regulation,64.1,128.2,SAMSUNG_SDI,2025-03-01,98.8
+ESS_1099,Australia,Asia-Pacific,Vistra Energy,Frequency Regulation,60.8,243.2,SAMSUNG_SDI,2021-06-01,135.55
+ESS_1100,South Korea,Asia-Pacific,Neoen,Renewable Integration,104.4,208.8,LGES,2022-08-01,148.27
+ESS_1101,UK,Europe,Florida Power & Light,Renewable Integration,10.4,41.6,LGES,2022-05-01,141.87
+ESS_1102,South Korea,Asia-Pacific,KEPCO,Frequency Regulation,144.2,576.8,LGES,2022-01-01,149.23
+ESS_1103,South Korea,Asia-Pacific,KEPCO,Peak Shaving,58.9,117.8,LGES,2025-02-01,93.49
+ESS_1104,South Korea,Asia-Pacific,Southern California Edison,Renewable Integration,110.6,442.4,LGES,2024-02-01,113.29
+ESS_1105,USA,North America,Terra-Gen,Renewable Integration,48.9,195.6,LGES,2027-10-01,72.85
+ESS_1106,South Korea,Asia-Pacific,Vistra Energy,Frequency Regulation,12.5,50.0,LGES,2027-02-01,74.13
+ESS_1107,South Korea,Asia-Pacific,KEPCO,Peak Shaving,29.3,58.6,LGES,2023-08-01,133.01
+ESS_1108,USA,North America,Southern California Edison,Renewable Integration,49.9,99.8,BYD,2023-11-01,103.2
+ESS_1109,South Korea,Asia-Pacific,Duke Energy,Peak Shaving,119.4,477.6,LGES,2026-10-01,86.2
+ESS_1110,UK,Europe,PG&E,Renewable Integration,18.2,36.4,LGES,2026-05-01,81.03
+ESS_1111,USA,North America,KEPCO,Peak Shaving,60.0,240.0,BYD,2021-06-01,110.6
+ESS_1112,China,Asia-Pacific,Enel Green Power,Renewable Integration,141.0,564.0,CATL,2024-08-01,85.46
+ESS_1113,UK,Europe,Enel Green Power,Renewable Integration,67.0,268.0,LGES,2027-04-01,74.57
+ESS_1114,Australia,Asia-Pacific,Duke Energy,Peak Shaving,45.0,180.0,SAMSUNG_SDI,2027-08-01,78.29
+ESS_1115,South Korea,Asia-Pacific,Terra-Gen,Peak Shaving,146.0,584.0,LGES,2025-02-01,99.78
+ESS_1116,South Korea,Asia-Pacific,Neoen,Peak Shaving,58.3,233.2,LGES,2022-12-01,146.67
+ESS_1117,South Korea,Asia-Pacific,Southern California Edison,Frequency Regulation,112.9,451.6,LGES,2026-07-01,82.49
+ESS_1118,South Korea,Asia-Pacific,NextEra Energy,Renewable Integration,104.6,209.2,LGES,2026-05-01,88.27
+ESS_1119,USA,North America,KEPCO,Frequency Regulation,19.7,39.4,LGES,2023-02-01,127.9
+ESS_1120,Australia,Asia-Pacific,Duke Energy,Renewable Integration,53.9,215.6,SAMSUNG_SDI,2023-10-01,136.68
+ESS_1121,South Korea,Asia-Pacific,KEPCO,Peak Shaving,148.4,593.6,LGES,2022-07-01,151.81
+ESS_1122,UK,Europe,Vistra Energy,Frequency Regulation,108.5,217.0,LGES,2022-01-01,142.79
+ESS_1123,USA,North America,Enel Green Power,Renewable Integration,74.4,297.6,LGES,2021-08-01,131.71
+ESS_1124,UK,Europe,KEPCO,Renewable Integration,88.7,177.4,LGES,2023-08-01,131.62
+ESS_1125,Germany,Europe,KEPCO,Peak Shaving,124.1,496.4,SAMSUNG_SDI,2024-06-01,109.63
+ESS_1126,USA,North America,KEPCO,Renewable Integration,22.6,45.2,LGES,2022-06-01,143.63
+ESS_1127,South Korea,Asia-Pacific,Neoen,Frequency Regulation,46.9,93.8,LGES,2022-03-01,144.38
+ESS_1128,UK,Europe,Fluence,Renewable Integration,22.2,88.8,LGES,2024-09-01,110.85
+ESS_1129,South Korea,Asia-Pacific,KEPCO,Renewable Integration,145.8,291.6,LGES,2021-06-01,142.46
+ESS_1130,USA,North America,Neoen,Renewable Integration,115.4,461.6,LGES,2027-11-01,76.67
+ESS_1131,Australia,Asia-Pacific,Terra-Gen,Renewable Integration,145.3,581.2,CATL,2022-01-01,112.3
+ESS_1132,Germany,Europe,Florida Power & Light,Peak Shaving,33.7,134.8,SAMSUNG_SDI,2024-04-01,113.89
+ESS_1133,UK,Europe,Neoen,Renewable Integration,57.5,115.0,LGES,2024-11-01,106.65
+ESS_1134,South Korea,Asia-Pacific,Vistra Energy,Peak Shaving,11.1,44.4,LGES,2022-07-01,144.77
+ESS_1135,USA,North America,Duke Energy,Peak Shaving,88.0,352.0,LGES,2025-07-01,95.21
+ESS_1136,USA,North America,Fluence,Renewable Integration,66.9,133.8,BYD,2023-04-01,93.0
+ESS_1137,USA,North America,NextEra Energy,Frequency Regulation,39.9,159.6,BYD,2022-11-01,108.9
+ESS_1138,Australia,Asia-Pacific,Fluence,Renewable Integration,78.2,312.8,SAMSUNG_SDI,2023-06-01,135.42
+ESS_1139,USA,North America,Vistra Energy,Renewable Integration,143.9,287.8,LGES,2026-07-01,88.3
+ESS_1140,Australia,Asia-Pacific,Southern California Edison,Frequency Regulation,116.5,233.0,SAMSUNG_SDI,2026-01-01,83.89
+ESS_1141,USA,North America,NextEra Energy,Peak Shaving,53.4,213.6,LGES,2027-01-01,78.85
+ESS_1142,UK,Europe,Vistra Energy,Frequency Regulation,135.5,542.0,LGES,2024-02-01,111.87
+ESS_1143,USA,North America,Southern California Edison,Renewable Integration,109.5,438.0,LGES,2026-03-01,88.47
+ESS_1144,Australia,Asia-Pacific,Terra-Gen,Renewable Integration,26.1,52.2,SAMSUNG_SDI,2025-08-01,91.35
+ESS_1145,USA,North America,Neoen,Frequency Regulation,44.1,176.4,LGES,2023-12-01,125.3
+ESS_1146,UK,Europe,AES Corporation,Frequency Regulation,68.4,273.6,LGES,2027-12-01,81.53
+ESS_1147,USA,North America,Fluence,Renewable Integration,95.9,383.6,BYD,2021-11-01,108.33
+ESS_1148,USA,North America,NextEra Energy,Frequency Regulation,80.8,161.6,LGES,2021-11-01,145.75
+ESS_1149,USA,North America,Terra-Gen,Frequency Regulation,97.6,390.4,LGES,2025-06-01,90.45
+ESS_1150,South Korea,Asia-Pacific,KEPCO,Peak Shaving,127.5,255.0,LGES,2025-09-01,98.87
+ESS_1151,UK,Europe,PG&E,Renewable Integration,145.4,290.8,LGES,2024-04-01,114.01
+ESS_1152,Australia,Asia-Pacific,Enel Green Power,Peak Shaving,142.5,570.0,SAMSUNG_SDI,2027-06-01,80.99
+ESS_1153,China,Asia-Pacific,Neoen,Peak Shaving,31.3,125.2,CATL,2027-03-01,56.74
+ESS_1154,UK,Europe,Duke Energy,Peak Shaving,20.0,40.0,LGES,2021-12-01,143.91
+ESS_1155,USA,North America,Fluence,Frequency Regulation,148.8,595.2,LGES,2024-07-01,113.74
+ESS_1156,USA,North America,Florida Power & Light,Frequency Regulation,48.7,194.8,LGES,2026-05-01,79.75
+ESS_1157,USA,North America,NextEra Energy,Renewable Integration,94.9,189.8,LGES,2026-10-01,84.45
+ESS_1158,USA,North America,Florida Power & Light,Frequency Regulation,46.4,92.8,LGES,2025-01-01,96.87
+ESS_1159,Australia,Asia-Pacific,NextEra Energy,Frequency Regulation,126.9,507.6,SAMSUNG_SDI,2026-06-01,82.39
+ESS_1160,UK,Europe,KEPCO,Renewable Integration,11.4,22.8,LGES,2022-10-01,138.49
+ESS_1161,USA,North America,KEPCO,Peak Shaving,48.0,96.0,LGES,2024-07-01,111.67
+ESS_1162,USA,North America,Terra-Gen,Frequency Regulation,148.4,593.6,LGES,2023-11-01,131.41
+ESS_1163,South Korea,Asia-Pacific,AES Corporation,Peak Shaving,72.0,144.0,LGES,2024-07-01,113.14
+ESS_1164,South Korea,Asia-Pacific,Fluence,Peak Shaving,90.6,181.2,LGES,2021-05-01,134.7
+ESS_1165,USA,North America,AES Corporation,Peak Shaving,144.7,578.8,LGES,2023-08-01,122.73
+ESS_1166,USA,North America,Duke Energy,Peak Shaving,21.7,86.8,BYD,2022-02-01,103.02
+ESS_1167,South Korea,Asia-Pacific,AES Corporation,Peak Shaving,47.9,191.6,LGES,2021-02-01,137.71
+ESS_1168,UK,Europe,NextEra Energy,Renewable Integration,121.3,485.2,LGES,2025-01-01,98.18
+ESS_1169,USA,North America,AES Corporation,Frequency Regulation,144.9,579.6,LGES,2021-01-01,142.01
+ESS_1170,USA,North America,Vistra Energy,Frequency Regulation,129.3,517.2,LGES,2023-02-01,136.27
+ESS_1171,Australia,Asia-Pacific,KEPCO,Renewable Integration,11.9,47.6,SAMSUNG_SDI,2025-05-01,97.88
+ESS_1172,USA,North America,Florida Power & Light,Renewable Integration,136.9,547.6,LGES,2024-10-01,110.5
+ESS_1173,USA,North America,AES Corporation,Frequency Regulation,45.9,91.8,LGES,2026-02-01,88.49
+ESS_1174,South Korea,Asia-Pacific,Vistra Energy,Renewable Integration,28.7,57.4,LGES,2024-03-01,109.57
+ESS_1175,Australia,Asia-Pacific,Southern California Edison,Peak Shaving,106.3,212.6,SAMSUNG_SDI,2027-01-01,72.63
+ESS_1176,UK,Europe,NextEra Energy,Renewable Integration,33.3,133.2,LGES,2024-08-01,113.23
+ESS_1177,USA,North America,Southern California Edison,Renewable Integration,130.1,520.4,LGES,2024-04-01,110.02
+ESS_1178,Australia,Asia-Pacific,Duke Energy,Peak Shaving,126.8,253.6,SAMSUNG_SDI,2022-07-01,147.65
+ESS_1179,South Korea,Asia-Pacific,NextEra Energy,Peak Shaving,95.2,190.4,LGES,2024-07-01,115.61
+ESS_1180,Australia,Asia-Pacific,Southern California Edison,Peak Shaving,66.8,133.6,SAMSUNG_SDI,2023-11-01,137.56
+ESS_1181,South Korea,Asia-Pacific,Duke Energy,Peak Shaving,9.5,38.0,LGES,2022-12-01,138.84
+ESS_1182,USA,North America,Duke Energy,Renewable Integration,29.9,119.6,LGES,2023-09-01,124.77
+ESS_1183,South Korea,Asia-Pacific,NextEra Energy,Peak Shaving,39.6,79.2,LGES,2024-09-01,108.35
+ESS_1184,UK,Europe,Fluence,Renewable Integration,112.6,225.2,LGES,2021-11-01,132.89
+ESS_1185,Germany,Europe,Southern California Edison,Frequency Regulation,77.0,308.0,SAMSUNG_SDI,2021-10-01,140.37
+ESS_1186,UK,Europe,Neoen,Frequency Regulation,99.5,199.0,LGES,2025-07-01,90.35
+ESS_1187,South Korea,Asia-Pacific,Southern California Edison,Renewable Integration,135.9,543.6,LGES,2021-06-01,136.01
+ESS_1188,China,Asia-Pacific,Duke Energy,Frequency Regulation,109.4,218.8,CATL,2024-10-01,77.68
+ESS_1189,South Korea,Asia-Pacific,AES Corporation,Renewable Integration,111.9,223.8,LGES,2025-02-01,98.96
+ESS_1190,Australia,Asia-Pacific,Terra-Gen,Peak Shaving,146.9,293.8,SAMSUNG_SDI,2024-12-01,102.84
+ESS_1191,South Korea,Asia-Pacific,Enel Green Power,Peak Shaving,97.2,194.4,LGES,2021-02-01,142.45
+ESS_1192,UK,Europe,Vistra Energy,Frequency Regulation,96.6,386.4,LGES,2025-12-01,96.0
+ESS_1193,USA,North America,Terra-Gen,Peak Shaving,103.9,415.6,LGES,2025-03-01,89.76
+ESS_1194,USA,North America,Enel Green Power,Renewable Integration,106.5,426.0,LGES,2021-07-01,139.17
+ESS_1195,USA,North America,Fluence,Peak Shaving,51.0,102.0,LGES,2022-01-01,135.87
+ESS_1196,USA,North America,PG&E,Peak Shaving,51.5,103.0,LGES,2027-12-01,76.24
+ESS_1197,Australia,Asia-Pacific,AES Corporation,Peak Shaving,51.8,103.6,SAMSUNG_SDI,2027-12-01,79.86
+ESS_1198,UK,Europe,KEPCO,Peak Shaving,81.0,162.0,LGES,2022-09-01,149.04
+ESS_1199,USA,North America,Neoen,Frequency Regulation,100.8,201.6,LGES,2024-08-01,105.99
+ESS_1200,USA,North America,Florida Power & Light,Frequency Regulation,100.9,201.8,LGES,2024-06-01,110.43
+ESS_1201,Australia,Asia-Pacific,KEPCO,Frequency Regulation,148.6,594.4,SAMSUNG_SDI,2027-09-01,79.98
+ESS_1202,South Korea,Asia-Pacific,Southern California Edison,Frequency Regulation,119.7,478.8,LGES,2023-10-01,128.46
+ESS_1203,USA,North America,Florida Power & Light,Renewable Integration,34.8,69.6,LGES,2027-11-01,78.22
+ESS_1204,USA,North America,Fluence,Renewable Integration,10.5,42.0,LGES,2023-06-01,137.46
+ESS_1205,Australia,Asia-Pacific,PG&E,Peak Shaving,134.6,538.4,SAMSUNG_SDI,2027-06-01,76.02
+ESS_1206,Australia,Asia-Pacific,AES Corporation,Renewable Integration,29.0,58.0,SAMSUNG_SDI,2022-02-01,142.07
+ESS_1207,USA,North America,KEPCO,Peak Shaving,80.6,322.4,LGES,2025-07-01,97.99
+ESS_1208,UK,Europe,NextEra Energy,Renewable Integration,64.0,256.0,LGES,2022-06-01,144.68
+ESS_1209,South Korea,Asia-Pacific,Neoen,Renewable Integration,133.4,266.8,LGES,2024-05-01,108.62
+ESS_1210,South Korea,Asia-Pacific,Fluence,Renewable Integration,90.2,360.8,LGES,2026-01-01,82.04
+ESS_1211,USA,North America,Fluence,Frequency Regulation,6.3,12.6,BYD,2025-01-01,68.74
+ESS_1212,Australia,Asia-Pacific,Vistra Energy,Peak Shaving,27.5,55.0,SAMSUNG_SDI,2023-10-01,127.0
+ESS_1213,South Korea,Asia-Pacific,Vistra Energy,Frequency Regulation,131.5,526.0,LGES,2027-02-01,80.69
+ESS_1214,USA,North America,Vistra Energy,Peak Shaving,134.2,268.4,LGES,2026-01-01,80.36
+ESS_1215,Germany,Europe,Enel Green Power,Renewable Integration,22.1,44.2,SAMSUNG_SDI,2024-04-01,103.28
+ESS_1216,China,Asia-Pacific,Enel Green Power,Peak Shaving,142.4,284.8,CATL,2026-12-01,60.92
+ESS_1217,Germany,Europe,Vistra Energy,Peak Shaving,25.0,50.0,SAMSUNG_SDI,2027-11-01,75.77
+ESS_1218,UK,Europe,Florida Power & Light,Frequency Regulation,11.1,22.2,LGES,2023-01-01,128.34
+ESS_1219,Australia,Asia-Pacific,Terra-Gen,Renewable Integration,119.3,477.2,SAMSUNG_SDI,2025-07-01,89.94
+ESS_1220,South Korea,Asia-Pacific,AES Corporation,Renewable Integration,49.7,99.4,LGES,2027-03-01,72.4
+ESS_1221,UK,Europe,Terra-Gen,Frequency Regulation,105.3,421.2,LGES,2022-01-01,150.83
+ESS_1222,China,Asia-Pacific,KEPCO,Peak Shaving,30.5,122.0,CATL,2021-11-01,99.24
+ESS_1223,USA,North America,Neoen,Renewable Integration,100.8,403.2,LGES,2027-07-01,73.77
+ESS_1224,USA,North America,NextEra Energy,Peak Shaving,7.0,14.0,LGES,2027-03-01,80.0
+ESS_1225,USA,North America,Duke Energy,Frequency Regulation,97.3,389.2,LGES,2021-06-01,144.61
+ESS_1226,UK,Europe,AES Corporation,Frequency Regulation,58.8,117.6,LGES,2024-01-01,111.32
+ESS_1227,USA,North America,Neoen,Renewable Integration,149.5,598.0,LGES,2021-05-01,133.04
+ESS_1228,USA,North America,NextEra Energy,Renewable Integration,32.9,131.6,LGES,2022-08-01,136.88
+ESS_1229,USA,North America,KEPCO,Frequency Regulation,61.3,245.2,LGES,2023-03-01,126.78
+ESS_1230,USA,North America,Duke Energy,Renewable Integration,70.8,141.6,LGES,2027-08-01,80.12
+ESS_1231,Australia,Asia-Pacific,Neoen,Renewable Integration,118.0,236.0,SAMSUNG_SDI,2021-01-01,146.38
+ESS_1232,USA,North America,Fluence,Renewable Integration,10.6,42.4,LGES,2026-03-01,87.59
+ESS_1233,USA,North America,Enel Green Power,Frequency Regulation,24.2,48.4,LGES,2024-03-01,113.64
+ESS_1234,South Korea,Asia-Pacific,Terra-Gen,Peak Shaving,83.4,333.6,LGES,2026-09-01,82.07
+ESS_1235,South Korea,Asia-Pacific,AES Corporation,Peak Shaving,39.8,159.2,LGES,2023-03-01,124.79
+ESS_1236,USA,North America,Florida Power & Light,Renewable Integration,143.0,286.0,BYD,2021-07-01,99.19
+ESS_1237,UK,Europe,Fluence,Renewable Integration,41.9,83.8,LGES,2026-05-01,80.13
+ESS_1238,Australia,Asia-Pacific,AES Corporation,Renewable Integration,76.8,153.6,SAMSUNG_SDI,2027-11-01,74.94
+ESS_1239,USA,North America,Terra-Gen,Renewable Integration,147.2,588.8,BYD,2021-09-01,98.83
+ESS_1240,South Korea,Asia-Pacific,Terra-Gen,Frequency Regulation,139.6,558.4,LGES,2025-07-01,90.08
+ESS_1241,USA,North America,KEPCO,Peak Shaving,112.7,450.8,BYD,2027-12-01,59.02
+ESS_1242,USA,North America,Neoen,Peak Shaving,115.9,463.6,LGES,2026-07-01,79.64
+ESS_1243,UK,Europe,AES Corporation,Peak Shaving,28.2,56.4,LGES,2026-05-01,79.0
+ESS_1244,USA,North America,NextEra Energy,Frequency Regulation,38.5,77.0,LGES,2022-06-01,136.75
+ESS_1245,UK,Europe,NextEra Energy,Peak Shaving,21.9,43.8,LGES,2022-01-01,152.83
+ESS_1246,Australia,Asia-Pacific,Terra-Gen,Renewable Integration,97.5,195.0,SAMSUNG_SDI,2025-06-01,97.25
+ESS_1247,UK,Europe,Vistra Energy,Frequency Regulation,65.7,262.8,LGES,2025-10-01,96.61
+ESS_1248,South Korea,Asia-Pacific,AES Corporation,Peak Shaving,87.8,175.6,LGES,2023-01-01,131.73
+ESS_1249,USA,North America,Terra-Gen,Frequency Regulation,87.6,350.4,LGES,2025-12-01,93.54
+ESS_1250,USA,North America,PG&E,Peak Shaving,140.6,281.2,LGES,2025-08-01,99.61
+ESS_1251,USA,North America,AES Corporation,Renewable Integration,66.3,132.6,CATL,2021-02-01,110.77
+ESS_1252,USA,North America,PG&E,Frequency Regulation,122.2,488.8,LGES,2024-06-01,107.79
+ESS_1253,USA,North America,Enel Green Power,Renewable Integration,66.8,133.6,LGES,2022-07-01,151.66
+ESS_1254,South Korea,Asia-Pacific,NextEra Energy,Peak Shaving,75.6,151.2,LGES,2021-01-01,147.27
+ESS_1255,USA,North America,Fluence,Peak Shaving,22.5,45.0,LGES,2024-07-01,107.0
+ESS_1256,UK,Europe,Fluence,Peak Shaving,88.3,353.2,LGES,2023-09-01,134.94
+ESS_1257,USA,North America,NextEra Energy,Peak Shaving,9.0,18.0,LGES,2021-07-01,143.11
+ESS_1258,South Korea,Asia-Pacific,Fluence,Peak Shaving,7.9,31.6,LGES,2026-11-01,86.32
+ESS_1259,Australia,Asia-Pacific,Vistra Energy,Peak Shaving,68.3,273.2,SAMSUNG_SDI,2027-02-01,72.6
+ESS_1260,South Korea,Asia-Pacific,Florida Power & Light,Renewable Integration,52.3,209.2,LGES,2021-09-01,139.1
+ESS_1261,South Korea,Asia-Pacific,Southern California Edison,Peak Shaving,79.1,316.4,LGES,2026-09-01,86.56
+ESS_1262,USA,North America,Florida Power & Light,Frequency Regulation,40.1,80.2,LGES,2021-07-01,138.57
+ESS_1263,South Korea,Asia-Pacific,KEPCO,Peak Shaving,43.3,173.2,LGES,2027-12-01,73.31
+ESS_1264,Germany,Europe,AES Corporation,Peak Shaving,31.1,62.2,SAMSUNG_SDI,2024-09-01,112.87
+ESS_1265,South Korea,Asia-Pacific,NextEra Energy,Peak Shaving,19.8,39.6,LGES,2024-11-01,115.22
+ESS_1266,USA,North America,Neoen,Renewable Integration,139.3,278.6,LGES,2025-09-01,99.54
+ESS_1267,South Korea,Asia-Pacific,Fluence,Peak Shaving,39.9,79.8,LGES,2024-06-01,110.54
+ESS_1268,USA,North America,Neoen,Renewable Integration,21.0,84.0,BYD,2025-04-01,70.26
+ESS_1269,South Korea,Asia-Pacific,Vistra Energy,Renewable Integration,7.4,14.8,LGES,2024-12-01,105.33
+ESS_1270,Germany,Europe,Vistra Energy,Renewable Integration,49.8,99.6,SAMSUNG_SDI,2021-10-01,134.61
+ESS_1271,China,Asia-Pacific,KEPCO,Frequency Regulation,45.5,91.0,CATL,2027-07-01,60.1
+ESS_1272,USA,North America,Fluence,Frequency Regulation,81.7,163.4,LGES,2026-04-01,83.9
+ESS_1273,USA,North America,Terra-Gen,Renewable Integration,100.3,200.6,LGES,2024-09-01,105.94
+ESS_1274,USA,North America,PG&E,Renewable Integration,23.7,47.4,LGES,2021-08-01,141.28
+ESS_1275,Australia,Asia-Pacific,Enel Green Power,Frequency Regulation,98.0,196.0,CATL,2023-11-01,96.1
+ESS_1276,Australia,Asia-Pacific,Southern California Edison,Renewable Integration,75.6,302.4,CATL,2025-02-01,68.29
+ESS_1277,UK,Europe,Florida Power & Light,Frequency Regulation,24.3,97.2,LGES,2024-03-01,114.62
+ESS_1278,Australia,Asia-Pacific,Duke Energy,Renewable Integration,26.9,53.8,SAMSUNG_SDI,2026-01-01,82.55
+ESS_1279,USA,North America,Southern California Edison,Renewable Integration,104.9,419.6,LGES,2021-01-01,138.38
+ESS_1280,UK,Europe,Southern California Edison,Peak Shaving,65.6,262.4,LGES,2025-05-01,93.9
+ESS_1281,USA,North America,Enel Green Power,Frequency Regulation,110.4,441.6,LGES,2022-03-01,143.98
+ESS_1282,USA,North America,Terra-Gen,Frequency Regulation,81.0,324.0,LGES,2023-09-01,134.61
+ESS_1283,South Korea,Asia-Pacific,Fluence,Frequency Regulation,55.2,220.8,LGES,2021-05-01,134.83
+ESS_1284,USA,North America,Duke Energy,Renewable Integration,118.1,236.2,LGES,2023-07-01,124.89
+ESS_1285,China,Asia-Pacific,Vistra Energy,Frequency Regulation,18.6,37.2,CATL,2024-08-01,82.51
+ESS_1286,USA,North America,KEPCO,Peak Shaving,58.0,232.0,LGES,2021-10-01,139.1
+ESS_1287,USA,North America,Vistra Energy,Frequency Regulation,145.9,291.8,LGES,2022-04-01,136.09
+ESS_1288,USA,North America,AES Corporation,Peak Shaving,48.4,96.8,BYD,2024-09-01,80.43
+ESS_1289,Germany,Europe,Vistra Energy,Peak Shaving,64.3,128.6,SAMSUNG_SDI,2021-11-01,146.9
+ESS_1290,Australia,Asia-Pacific,Duke Energy,Peak Shaving,95.9,383.6,SAMSUNG_SDI,2022-01-01,150.19
+ESS_1291,Australia,Asia-Pacific,Vistra Energy,Peak Shaving,38.3,153.2,SAMSUNG_SDI,2025-03-01,96.68
+ESS_1292,USA,North America,Florida Power & Light,Renewable Integration,75.1,150.2,LGES,2021-05-01,133.4
+ESS_1293,UK,Europe,Vistra Energy,Renewable Integration,6.4,12.8,LGES,2027-07-01,80.89
+ESS_1294,USA,North America,PG&E,Frequency Regulation,135.2,540.8,LGES,2026-09-01,87.11
+ESS_1295,Australia,Asia-Pacific,Neoen,Frequency Regulation,14.0,56.0,SAMSUNG_SDI,2026-01-01,82.24
+ESS_1296,South Korea,Asia-Pacific,Fluence,Peak Shaving,109.2,218.4,LGES,2025-02-01,89.62
+ESS_1297,South Korea,Asia-Pacific,Fluence,Peak Shaving,27.6,55.2,LGES,2026-02-01,86.05
+ESS_1298,USA,North America,Fluence,Renewable Integration,144.2,576.8,LGES,2023-09-01,137.09
+ESS_1299,Australia,Asia-Pacific,NextEra Energy,Frequency Regulation,13.0,26.0,SAMSUNG_SDI,2023-03-01,127.02
+ESS_1300,USA,North America,NextEra Energy,Frequency Regulation,113.7,227.4,LGES,2027-03-01,75.05
+ESS_1301,South Korea,Asia-Pacific,Enel Green Power,Peak Shaving,33.1,66.2,LGES,2024-02-01,108.29
+ESS_1302,USA,North America,KEPCO,Frequency Regulation,85.0,170.0,LGES,2026-11-01,85.02
+ESS_1303,UK,Europe,Fluence,Frequency Regulation,52.8,105.6,LGES,2025-05-01,92.42
+ESS_1304,USA,North America,Terra-Gen,Frequency Regulation,85.4,341.6,LGES,2027-04-01,73.54
+ESS_1305,South Korea,Asia-Pacific,Vistra Energy,Renewable Integration,24.1,48.2,LGES,2023-10-01,128.23
+ESS_1306,South Korea,Asia-Pacific,Terra-Gen,Peak Shaving,54.9,109.8,LGES,2021-04-01,134.94
+ESS_1307,USA,North America,PG&E,Frequency Regulation,48.7,194.8,LGES,2022-09-01,138.97
+ESS_1308,South Korea,Asia-Pacific,Enel Green Power,Renewable Integration,89.3,357.2,LGES,2026-08-01,80.38
+ESS_1309,USA,North America,KEPCO,Renewable Integration,91.5,366.0,LGES,2021-05-01,139.93
+ESS_1310,USA,North America,Florida Power & Light,Renewable Integration,125.3,250.6,CATL,2024-06-01,77.52
+ESS_1311,Australia,Asia-Pacific,PG&E,Renewable Integration,23.0,46.0,SAMSUNG_SDI,2026-04-01,87.98
+ESS_1312,Australia,Asia-Pacific,Duke Energy,Frequency Regulation,58.0,116.0,SAMSUNG_SDI,2022-02-01,147.59
+ESS_1313,Australia,Asia-Pacific,KEPCO,Frequency Regulation,10.8,21.6,SAMSUNG_SDI,2025-10-01,91.54
+ESS_1314,USA,North America,Fluence,Renewable Integration,130.3,260.6,LGES,2026-01-01,87.31
+ESS_1315,UK,Europe,KEPCO,Frequency Regulation,68.0,136.0,LGES,2027-08-01,81.14
+ESS_1316,Australia,Asia-Pacific,KEPCO,Renewable Integration,35.7,142.8,CATL,2026-12-01,64.63
+ESS_1317,UK,Europe,KEPCO,Frequency Regulation,87.6,350.4,LGES,2026-04-01,79.9
+ESS_1318,Australia,Asia-Pacific,PG&E,Frequency Regulation,101.8,407.2,SAMSUNG_SDI,2027-12-01,78.11
+ESS_1319,South Korea,Asia-Pacific,NextEra Energy,Frequency Regulation,114.1,228.2,LGES,2025-06-01,89.72
+ESS_1320,USA,North America,KEPCO,Frequency Regulation,22.4,89.6,LGES,2023-08-01,127.82
+ESS_1321,China,Asia-Pacific,Neoen,Peak Shaving,117.5,235.0,CATL,2024-11-01,78.12
+ESS_1322,USA,North America,KEPCO,Renewable Integration,131.3,262.6,LGES,2024-12-01,108.31
+ESS_1323,UK,Europe,Neoen,Frequency Regulation,84.6,169.2,LGES,2022-01-01,148.88
+ESS_1324,USA,North America,PG&E,Renewable Integration,60.5,242.0,LGES,2021-10-01,135.93
+ESS_1325,South Korea,Asia-Pacific,NextEra Energy,Peak Shaving,23.2,92.8,LGES,2027-03-01,79.68
+ESS_1326,USA,North America,NextEra Energy,Frequency Regulation,67.6,270.4,LGES,2023-11-01,126.35
+ESS_1327,UK,Europe,AES Corporation,Renewable Integration,26.4,105.6,LGES,2025-06-01,98.46
+ESS_1328,USA,North America,PG&E,Renewable Integration,148.7,297.4,CATL,2024-05-01,85.39
+ESS_1329,USA,North America,KEPCO,Peak Shaving,138.0,276.0,LGES,2022-06-01,148.01
+ESS_1330,UK,Europe,Enel Green Power,Peak Shaving,21.9,87.6,LGES,2027-01-01,74.74
+ESS_1331,USA,North America,NextEra Energy,Renewable Integration,130.3,260.6,LGES,2022-11-01,149.35
+ESS_1332,USA,North America,KEPCO,Peak Shaving,119.1,476.4,LGES,2022-06-01,140.43
+ESS_1333,Australia,Asia-Pacific,Enel Green Power,Renewable Integration,80.4,160.8,SAMSUNG_SDI,2022-09-01,148.21
+ESS_1334,UK,Europe,Terra-Gen,Renewable Integration,77.3,154.6,LGES,2021-10-01,134.93
+ESS_1335,South Korea,Asia-Pacific,KEPCO,Peak Shaving,89.5,358.0,LGES,2021-08-01,141.69
+ESS_1336,South Korea,Asia-Pacific,Florida Power & Light,Renewable Integration,60.1,240.4,LGES,2025-05-01,89.5
+ESS_1337,USA,North America,Neoen,Peak Shaving,95.0,190.0,LGES,2022-12-01,146.78
+ESS_1338,South Korea,Asia-Pacific,NextEra Energy,Frequency Regulation,81.4,162.8,LGES,2025-12-01,100.37
+ESS_1339,Australia,Asia-Pacific,Fluence,Peak Shaving,95.6,382.4,SAMSUNG_SDI,2021-03-01,141.16
+ESS_1340,South Korea,Asia-Pacific,KEPCO,Frequency Regulation,144.3,577.2,LGES,2022-07-01,147.75
+ESS_1341,UK,Europe,PG&E,Renewable Integration,28.9,115.6,LGES,2025-05-01,96.5
+ESS_1342,South Korea,Asia-Pacific,Duke Energy,Frequency Regulation,97.0,388.0,LGES,2023-12-01,137.78
+ESS_1343,South Korea,Asia-Pacific,Florida Power & Light,Renewable Integration,103.2,206.4,LGES,2026-08-01,81.4
+ESS_1344,USA,North America,Vistra Energy,Frequency Regulation,144.4,577.6,LGES,2025-10-01,94.59
+ESS_1345,USA,North America,Terra-Gen,Peak Shaving,109.5,438.0,LGES,2022-07-01,138.23
+ESS_1346,UK,Europe,Vistra Energy,Peak Shaving,14.9,59.6,LGES,2025-11-01,90.58
+ESS_1347,USA,North America,Fluence,Peak Shaving,49.1,98.2,LGES,2025-08-01,98.6
+ESS_1348,South Korea,Asia-Pacific,AES Corporation,Renewable Integration,38.2,152.8,LGES,2025-08-01,99.66
+ESS_1349,Australia,Asia-Pacific,Fluence,Renewable Integration,20.5,41.0,SAMSUNG_SDI,2023-09-01,136.71
+ESS_1350,USA,North America,PG&E,Frequency Regulation,120.2,240.4,LGES,2025-12-01,89.9
+ESS_1351,UK,Europe,Neoen,Peak Shaving,126.6,506.4,LGES,2027-09-01,73.05
+ESS_1352,South Korea,Asia-Pacific,Terra-Gen,Renewable Integration,38.9,77.8,LGES,2025-01-01,100.53
+ESS_1353,UK,Europe,Neoen,Renewable Integration,80.0,160.0,LGES,2022-06-01,145.34
+ESS_1354,South Korea,Asia-Pacific,KEPCO,Peak Shaving,138.8,277.6,LGES,2021-04-01,141.77
+ESS_1355,UK,Europe,PG&E,Frequency Regulation,98.2,196.4,LGES,2026-04-01,79.74
+ESS_1356,Australia,Asia-Pacific,Florida Power & Light,Renewable Integration,71.6,143.2,SAMSUNG_SDI,2022-11-01,142.65
+ESS_1357,UK,Europe,KEPCO,Frequency Regulation,67.3,134.6,LGES,2027-12-01,76.47
+ESS_1358,South Korea,Asia-Pacific,Enel Green Power,Renewable Integration,82.3,329.2,LGES,2024-06-01,110.21
+ESS_1359,USA,North America,NextEra Energy,Peak Shaving,122.5,490.0,CATL,2023-09-01,95.22
+ESS_1360,China,Asia-Pacific,Duke Energy,Renewable Integration,67.2,268.8,CATL,2025-02-01,74.05
+ESS_1361,South Korea,Asia-Pacific,Enel Green Power,Frequency Regulation,76.7,306.8,LGES,2024-09-01,107.52
+ESS_1362,USA,North America,Enel Green Power,Renewable Integration,121.9,487.6,LGES,2022-02-01,145.27
+ESS_1363,South Korea,Asia-Pacific,Terra-Gen,Renewable Integration,19.6,78.4,LGES,2027-07-01,74.99
+ESS_1364,Australia,Asia-Pacific,KEPCO,Frequency Regulation,87.1,174.2,CATL,2027-05-01,60.7
+ESS_1365,USA,North America,Fluence,Frequency Regulation,63.0,252.0,LGES,2022-08-01,142.34
+ESS_1366,USA,North America,Fluence,Renewable Integration,116.8,233.6,LGES,2024-01-01,105.9
+ESS_1367,Australia,Asia-Pacific,PG&E,Renewable Integration,103.3,413.2,SAMSUNG_SDI,2025-12-01,92.0
+ESS_1368,USA,North America,Duke Energy,Renewable Integration,43.5,87.0,BYD,2027-03-01,58.16
+ESS_1369,UK,Europe,Vistra Energy,Renewable Integration,101.3,202.6,LGES,2022-06-01,144.55
+ESS_1370,Australia,Asia-Pacific,AES Corporation,Renewable Integration,134.5,269.0,CATL,2021-10-01,111.16
+ESS_1371,USA,North America,Vistra Energy,Frequency Regulation,100.2,400.8,LGES,2025-12-01,98.36
+ESS_1372,South Korea,Asia-Pacific,KEPCO,Peak Shaving,112.1,448.4,LGES,2026-10-01,84.7
+ESS_1373,USA,North America,Terra-Gen,Peak Shaving,44.9,89.8,LGES,2021-12-01,147.42
+ESS_1374,Australia,Asia-Pacific,PG&E,Renewable Integration,33.3,133.2,SAMSUNG_SDI,2027-09-01,79.4
+ESS_1375,USA,North America,Vistra Energy,Frequency Regulation,51.2,204.8,LGES,2025-02-01,89.55
+ESS_1376,South Korea,Asia-Pacific,Southern California Edison,Renewable Integration,117.9,471.6,LGES,2024-09-01,105.15
+ESS_1377,South Korea,Asia-Pacific,Florida Power & Light,Peak Shaving,50.1,200.4,LGES,2024-07-01,112.21
+ESS_1378,Australia,Asia-Pacific,Terra-Gen,Renewable Integration,30.3,121.2,SAMSUNG_SDI,2025-02-01,99.44
+ESS_1379,USA,North America,Vistra Energy,Renewable Integration,79.5,159.0,BYD,2023-10-01,92.56
+ESS_1380,USA,North America,Terra-Gen,Peak Shaving,113.9,227.8,BYD,2022-07-01,103.56
+ESS_1381,USA,North America,Duke Energy,Frequency Regulation,53.9,215.6,LGES,2021-08-01,138.23
+ESS_1382,UK,Europe,Vistra Energy,Frequency Regulation,64.3,257.2,LGES,2025-08-01,91.09
+ESS_1383,South Korea,Asia-Pacific,Fluence,Frequency Regulation,96.4,385.6,LGES,2026-06-01,86.19
+ESS_1384,UK,Europe,PG&E,Peak Shaving,27.5,55.0,LGES,2025-01-01,94.53
+ESS_1385,USA,North America,Duke Energy,Renewable Integration,26.5,106.0,LGES,2023-07-01,126.13
+ESS_1386,UK,Europe,Neoen,Renewable Integration,145.0,580.0,LGES,2023-12-01,127.85
+ESS_1387,South Korea,Asia-Pacific,Neoen,Renewable Integration,142.2,568.8,LGES,2026-11-01,84.42
+ESS_1388,USA,North America,KEPCO,Peak Shaving,145.5,582.0,LGES,2025-11-01,98.09
+ESS_1389,South Korea,Asia-Pacific,Terra-Gen,Renewable Integration,132.6,265.2,LGES,2026-12-01,85.07
+ESS_1390,USA,North America,AES Corporation,Frequency Regulation,147.2,294.4,LGES,2025-04-01,91.72
+ESS_1391,USA,North America,Duke Energy,Frequency Regulation,128.7,514.8,BYD,2024-06-01,86.2
+ESS_1392,USA,North America,Duke Energy,Peak Shaving,147.4,294.8,BYD,2026-12-01,62.2
+ESS_1393,UK,Europe,Duke Energy,Frequency Regulation,87.1,348.4,LGES,2024-01-01,109.7
+ESS_1394,UK,Europe,AES Corporation,Frequency Regulation,55.5,111.0,LGES,2024-10-01,115.17
+ESS_1395,South Korea,Asia-Pacific,PG&E,Peak Shaving,110.0,220.0,LGES,2024-02-01,106.98
+ESS_1396,USA,North America,Neoen,Frequency Regulation,73.1,146.2,LGES,2022-08-01,138.19
+ESS_1397,USA,North America,NextEra Energy,Renewable Integration,75.4,150.8,CATL,2025-07-01,69.79
+ESS_1398,Australia,Asia-Pacific,NextEra Energy,Frequency Regulation,33.9,67.8,CATL,2022-11-01,109.24
+ESS_1399,USA,North America,Florida Power & Light,Frequency Regulation,77.4,309.6,LGES,2023-06-01,126.25
+ESS_1400,UK,Europe,KEPCO,Peak Shaving,112.1,224.2,LGES,2024-12-01,115.65
+ESS_1401,USA,North America,Vistra Energy,Renewable Integration,140.1,560.4,LGES,2023-09-01,123.69
+ESS_1402,USA,North America,Vistra Energy,Frequency Regulation,127.5,510.0,BYD,2024-04-01,80.04
+ESS_1403,Australia,Asia-Pacific,AES Corporation,Renewable Integration,138.1,276.2,SAMSUNG_SDI,2027-05-01,75.65
+ESS_1404,South Korea,Asia-Pacific,Duke Energy,Renewable Integration,18.5,74.0,LGES,2027-07-01,75.8
+ESS_1405,USA,North America,NextEra Energy,Renewable Integration,33.8,67.6,BYD,2024-05-01,79.96
+ESS_1406,South Korea,Asia-Pacific,Enel Green Power,Frequency Regulation,27.3,54.6,LGES,2026-09-01,84.53
+ESS_1407,South Korea,Asia-Pacific,NextEra Energy,Frequency Regulation,65.8,263.2,LGES,2022-07-01,140.82
+ESS_1408,South Korea,Asia-Pacific,Enel Green Power,Peak Shaving,60.1,120.2,LGES,2022-05-01,146.85
+ESS_1409,UK,Europe,Duke Energy,Frequency Regulation,106.6,426.4,LGES,2021-01-01,136.95
+ESS_1410,South Korea,Asia-Pacific,KEPCO,Peak Shaving,120.3,240.6,LGES,2024-08-01,105.58
+ESS_1411,Germany,Europe,PG&E,Frequency Regulation,41.6,166.4,SAMSUNG_SDI,2022-06-01,145.85
+ESS_1412,USA,North America,Neoen,Renewable Integration,38.0,152.0,BYD,2026-10-01,61.93
+ESS_1413,South Korea,Asia-Pacific,Neoen,Frequency Regulation,129.4,258.8,LGES,2024-05-01,106.72
+ESS_1414,Australia,Asia-Pacific,Terra-Gen,Frequency Regulation,73.9,295.6,SAMSUNG_SDI,2027-10-01,76.24
+ESS_1415,UK,Europe,AES Corporation,Frequency Regulation,138.9,555.6,LGES,2024-08-01,113.93
+ESS_1416,South Korea,Asia-Pacific,NextEra Energy,Frequency Regulation,140.0,280.0,LGES,2026-08-01,79.75
+ESS_1417,UK,Europe,KEPCO,Frequency Regulation,140.4,280.8,LGES,2023-04-01,125.41
+ESS_1418,South Korea,Asia-Pacific,Neoen,Frequency Regulation,25.3,50.6,LGES,2021-09-01,137.73
+ESS_1419,USA,North America,KEPCO,Frequency Regulation,43.3,173.2,LGES,2022-02-01,135.66
+ESS_1420,South Korea,Asia-Pacific,NextEra Energy,Frequency Regulation,65.7,131.4,LGES,2025-08-01,100.78
+ESS_1421,South Korea,Asia-Pacific,Duke Energy,Peak Shaving,127.1,508.4,LGES,2023-05-01,127.83
+ESS_1422,South Korea,Asia-Pacific,Vistra Energy,Renewable Integration,137.7,275.4,LGES,2022-10-01,139.03
+ESS_1423,USA,North America,Southern California Edison,Renewable Integration,96.7,193.4,LGES,2022-08-01,140.26
+ESS_1424,USA,North America,Neoen,Peak Shaving,25.3,50.6,LGES,2026-09-01,84.66
+ESS_1425,UK,Europe,Neoen,Frequency Regulation,76.2,304.8,LGES,2021-08-01,141.05
+ESS_1426,USA,North America,Fluence,Renewable Integration,85.1,170.2,CATL,2026-06-01,64.72
+ESS_1427,USA,North America,Terra-Gen,Frequency Regulation,76.7,306.8,LGES,2021-02-01,134.34
+ESS_1428,Australia,Asia-Pacific,Enel Green Power,Renewable Integration,146.8,293.6,SAMSUNG_SDI,2026-07-01,87.65
+ESS_1429,Australia,Asia-Pacific,Duke Energy,Renewable Integration,60.6,121.2,SAMSUNG_SDI,2027-05-01,76.54
+ESS_1430,UK,Europe,Southern California Edison,Renewable Integration,98.0,196.0,LGES,2025-07-01,90.01
+ESS_1431,USA,North America,PG&E,Renewable Integration,89.9,359.6,LGES,2025-05-01,91.89
+ESS_1432,UK,Europe,KEPCO,Renewable Integration,148.3,593.2,LGES,2026-08-01,88.23
+ESS_1433,USA,North America,Terra-Gen,Peak Shaving,34.1,136.4,LGES,2021-11-01,143.04
+ESS_1434,South Korea,Asia-Pacific,Enel Green Power,Peak Shaving,94.3,377.2,LGES,2023-01-01,124.43
+ESS_1435,Germany,Europe,Florida Power & Light,Peak Shaving,128.7,257.4,SAMSUNG_SDI,2026-06-01,87.22
+ESS_1436,South Korea,Asia-Pacific,NextEra Energy,Frequency Regulation,88.9,355.6,LGES,2027-06-01,79.7
+ESS_1437,USA,North America,Neoen,Frequency Regulation,70.8,141.6,BYD,2027-11-01,57.31
+ESS_1438,South Korea,Asia-Pacific,NextEra Energy,Peak Shaving,133.9,267.8,LGES,2027-02-01,74.67
+ESS_1439,UK,Europe,Southern California Edison,Renewable Integration,142.9,285.8,LGES,2025-12-01,99.16
+ESS_1440,USA,North America,Southern California Edison,Peak Shaving,17.5,70.0,LGES,2027-09-01,74.51
+ESS_1441,USA,North America,Southern California Edison,Frequency Regulation,67.1,268.4,LGES,2026-08-01,86.83
+ESS_1442,USA,North America,Vistra Energy,Frequency Regulation,29.0,58.0,LGES,2024-07-01,103.61
+ESS_1443,UK,Europe,Florida Power & Light,Renewable Integration,102.7,410.8,LGES,2023-12-01,127.9
+ESS_1444,Australia,Asia-Pacific,Enel Green Power,Frequency Regulation,60.6,242.4,SAMSUNG_SDI,2022-11-01,147.64
+ESS_1445,USA,North America,Duke Energy,Renewable Integration,139.0,278.0,BYD,2025-01-01,71.1
+ESS_1446,USA,North America,NextEra Energy,Renewable Integration,116.0,232.0,LGES,2027-11-01,77.6
+ESS_1447,USA,North America,Fluence,Frequency Regulation,146.6,293.2,LGES,2024-04-01,108.22
+ESS_1448,South Korea,Asia-Pacific,Duke Energy,Frequency Regulation,46.0,184.0,LGES,2025-01-01,97.23
+ESS_1449,USA,North America,Vistra Energy,Peak Shaving,48.1,96.2,LGES,2021-12-01,138.73
+ESS_1450,USA,North America,AES Corporation,Frequency Regulation,91.4,182.8,LGES,2024-11-01,111.6
+ESS_1451,USA,North America,Neoen,Peak Shaving,5.7,22.8,LGES,2027-07-01,79.12
+ESS_1452,USA,North America,PG&E,Peak Shaving,43.5,87.0,LGES,2024-10-01,115.62
+ESS_1453,South Korea,Asia-Pacific,Fluence,Renewable Integration,147.8,295.6,LGES,2023-03-01,134.1
+ESS_1454,USA,North America,Fluence,Frequency Regulation,18.6,74.4,LGES,2022-04-01,145.58
+ESS_1455,USA,North America,Duke Energy,Peak Shaving,7.9,15.8,LGES,2024-09-01,108.08
+ESS_1456,Germany,Europe,PG&E,Frequency Regulation,147.8,591.2,SAMSUNG_SDI,2023-03-01,130.93
+ESS_1457,USA,North America,AES Corporation,Peak Shaving,102.6,410.4,LGES,2025-11-01,96.65
+ESS_1458,USA,North America,KEPCO,Frequency Regulation,59.8,119.6,LGES,2021-09-01,131.74
+ESS_1459,USA,North America,Terra-Gen,Frequency Regulation,74.4,297.6,LGES,2026-09-01,80.94
+ESS_1460,USA,North America,KEPCO,Frequency Regulation,112.3,224.6,LGES,2022-10-01,143.37
+ESS_1461,USA,North America,Enel Green Power,Peak Shaving,73.3,146.6,LGES,2022-06-01,144.45
+ESS_1462,USA,North America,PG&E,Frequency Regulation,75.6,302.4,BYD,2025-11-01,68.46
+ESS_1463,South Korea,Asia-Pacific,Southern California Edison,Peak Shaving,85.2,170.4,LGES,2024-08-01,113.37
+ESS_1464,Australia,Asia-Pacific,Florida Power & Light,Peak Shaving,57.4,229.6,SAMSUNG_SDI,2024-01-01,115.14
+ESS_1465,Australia,Asia-Pacific,Neoen,Renewable Integration,130.4,521.6,SAMSUNG_SDI,2024-12-01,107.31
+ESS_1466,South Korea,Asia-Pacific,Florida Power & Light,Renewable Integration,45.3,181.2,LGES,2023-08-01,122.97
+ESS_1467,Australia,Asia-Pacific,AES Corporation,Renewable Integration,138.7,554.8,SAMSUNG_SDI,2027-08-01,78.88
+ESS_1468,South Korea,Asia-Pacific,AES Corporation,Frequency Regulation,84.8,339.2,LGES,2021-06-01,141.67
+ESS_1469,South Korea,Asia-Pacific,AES Corporation,Renewable Integration,87.5,175.0,LGES,2026-05-01,81.52
+ESS_1470,USA,North America,Southern California Edison,Renewable Integration,48.2,96.4,LGES,2024-06-01,113.84
+ESS_1471,USA,North America,KEPCO,Frequency Regulation,7.1,14.2,BYD,2024-12-01,79.93
+ESS_1472,USA,North America,Duke Energy,Renewable Integration,132.2,528.8,LGES,2026-07-01,81.74
+ESS_1473,South Korea,Asia-Pacific,PG&E,Renewable Integration,56.1,224.4,LGES,2023-04-01,138.0
+ESS_1474,China,Asia-Pacific,Fluence,Renewable Integration,51.7,103.4,CATL,2021-05-01,105.95
+ESS_1475,South Korea,Asia-Pacific,Florida Power & Light,Frequency Regulation,145.7,291.4,LGES,2023-02-01,126.04
+ESS_1476,Australia,Asia-Pacific,Vistra Energy,Frequency Regulation,57.0,114.0,SAMSUNG_SDI,2021-02-01,146.12
+ESS_1477,UK,Europe,Fluence,Peak Shaving,43.1,172.4,LGES,2021-04-01,136.21
+ESS_1478,USA,North America,KEPCO,Frequency Regulation,60.3,241.2,BYD,2021-09-01,108.2
+ESS_1479,Australia,Asia-Pacific,Florida Power & Light,Renewable Integration,78.1,156.2,SAMSUNG_SDI,2024-04-01,111.19
+ESS_1480,Australia,Asia-Pacific,KEPCO,Frequency Regulation,66.7,133.4,SAMSUNG_SDI,2021-02-01,141.93
+ESS_1481,UK,Europe,Enel Green Power,Renewable Integration,98.1,392.4,LGES,2024-07-01,108.58
+ESS_1482,Germany,Europe,Fluence,Frequency Regulation,81.2,324.8,SAMSUNG_SDI,2025-07-01,96.68
+ESS_1483,Australia,Asia-Pacific,PG&E,Peak Shaving,141.7,283.4,SAMSUNG_SDI,2027-03-01,76.08
+ESS_1484,USA,North America,Fluence,Frequency Regulation,91.3,182.6,LGES,2022-07-01,145.78
+ESS_1485,Australia,Asia-Pacific,Florida Power & Light,Peak Shaving,19.7,39.4,SAMSUNG_SDI,2023-03-01,133.15
+ESS_1486,UK,Europe,Terra-Gen,Renewable Integration,95.1,380.4,LGES,2021-04-01,146.96
+ESS_1487,Australia,Asia-Pacific,KEPCO,Renewable Integration,64.8,129.6,SAMSUNG_SDI,2025-04-01,95.6
+ESS_1488,USA,North America,Southern California Edison,Frequency Regulation,87.3,349.2,LGES,2026-01-01,85.93
+ESS_1489,Australia,Asia-Pacific,Vistra Energy,Frequency Regulation,148.4,593.6,SAMSUNG_SDI,2026-07-01,82.02
+ESS_1490,USA,North America,Southern California Edison,Peak Shaving,24.5,49.0,LGES,2021-10-01,135.13
+ESS_1491,UK,Europe,Vistra Energy,Renewable Integration,128.3,256.6,LGES,2024-10-01,110.38
+ESS_1492,USA,North America,Duke Energy,Renewable Integration,89.8,179.6,LGES,2025-05-01,98.89
+ESS_1493,UK,Europe,Southern California Edison,Frequency Regulation,112.1,448.4,LGES,2022-08-01,148.53
+ESS_1494,USA,North America,KEPCO,Renewable Integration,63.1,126.2,LGES,2027-08-01,77.02
+ESS_1495,USA,North America,Vistra Energy,Peak Shaving,8.7,34.8,LGES,2026-05-01,85.52
+ESS_1496,USA,North America,Southern California Edison,Renewable Integration,28.8,57.6,LGES,2026-05-01,87.07
+ESS_1497,UK,Europe,NextEra Energy,Peak Shaving,65.5,262.0,LGES,2026-03-01,82.56
+ESS_1498,Germany,Europe,Duke Energy,Renewable Integration,23.2,46.4,SAMSUNG_SDI,2026-09-01,88.97
+ESS_1499,UK,Europe,PG&E,Frequency Regulation,72.0,288.0,LGES,2025-11-01,93.03
+ESS_1500,USA,North America,NextEra Energy,Renewable Integration,83.7,167.4,LGES,2027-05-01,79.35

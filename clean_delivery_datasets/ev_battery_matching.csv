@@ -1,0 +1,363 @@
+year_quarter,oem,vehicle_model,battery_supplier,form_factor,chemistry,battery_capacity_kwh,ev_production_volume_units,total_battery_demand_gwh
+2021-Q1,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,50149,3.0089
+2021-Q1,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,74820,5.836
+2021-Q1,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,31767,2.6049
+2021-Q1,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,62235,3.7341
+2021-Q1,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,57837,4.7426
+2021-Q1,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,30463,2.3761
+2021-Q1,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,21014,1.3659
+2021-Q1,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,24141,2.4624
+2021-Q1,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,6744,0.4721
+2021-Q1,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,12224,1.1124
+2021-Q1,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,17986,2.3562
+2021-Q1,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,19768,1.53
+2021-Q1,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,8035,0.6219
+2021-Q1,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,27110,2.0983
+2021-Q1,Kia,EV6,SK_ON,Pouch,NCM811,77.4,24563,1.9012
+2021-Q1,Kia,EV9,SK_ON,Pouch,NCM811,99.8,24951,2.4901
+2021-Q2,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,54252,3.2551
+2021-Q2,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,99474,7.759
+2021-Q2,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,39848,3.2675
+2021-Q2,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,69792,4.1875
+2021-Q2,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,79030,6.4805
+2021-Q2,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,34498,2.6908
+2021-Q2,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,23864,1.5512
+2021-Q2,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,24466,2.4955
+2021-Q2,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,6482,0.4537
+2021-Q2,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,11941,1.0866
+2021-Q2,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,18461,2.4184
+2021-Q2,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,21193,1.6403
+2021-Q2,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,8688,0.6725
+2021-Q2,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,30688,2.3753
+2021-Q2,Kia,EV6,SK_ON,Pouch,NCM811,77.4,30241,2.3407
+2021-Q2,Kia,EV9,SK_ON,Pouch,NCM811,99.8,28189,2.8133
+2021-Q3,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,73932,4.4359
+2021-Q3,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,131226,10.2356
+2021-Q3,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,47670,3.9089
+2021-Q3,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,100360,6.0216
+2021-Q3,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,114976,9.428
+2021-Q3,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,47666,3.7179
+2021-Q3,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,34387,2.2352
+2021-Q3,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,37294,3.804
+2021-Q3,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,10999,0.7699
+2021-Q3,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,20768,1.8899
+2021-Q3,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,31810,4.1671
+2021-Q3,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,29179,2.2585
+2021-Q3,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,12814,0.9918
+2021-Q3,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,47746,3.6955
+2021-Q3,Kia,EV6,SK_ON,Pouch,NCM811,77.4,42814,3.3138
+2021-Q3,Kia,EV9,SK_ON,Pouch,NCM811,99.8,41804,4.172
+2021-Q4,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,93311,5.5987
+2021-Q4,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,150308,11.724
+2021-Q4,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,60428,4.9551
+2021-Q4,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,111030,6.6618
+2021-Q4,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,113758,9.3282
+2021-Q4,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,61139,4.7688
+2021-Q4,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,37901,2.4636
+2021-Q4,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,43706,4.458
+2021-Q4,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,11623,0.8136
+2021-Q4,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,21777,1.9817
+2021-Q4,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,31360,4.1082
+2021-Q4,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,32336,2.5028
+2021-Q4,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,14887,1.1523
+2021-Q4,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,46527,3.6012
+2021-Q4,Kia,EV6,SK_ON,Pouch,NCM811,77.4,45897,3.5524
+2021-Q4,Kia,EV9,SK_ON,Pouch,NCM811,99.8,44262,4.4173
+2022-Q1,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,75968,4.5581
+2022-Q1,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,138692,10.818
+2022-Q1,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,53069,4.3517
+2022-Q1,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,109557,6.5734
+2022-Q1,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,99838,8.1867
+2022-Q1,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,48133,3.7544
+2022-Q1,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,37202,2.4181
+2022-Q1,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,34526,3.5217
+2022-Q1,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,9987,0.6991
+2022-Q1,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,18621,1.6945
+2022-Q1,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,27021,3.5398
+2022-Q1,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,28104,2.1752
+2022-Q1,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,13254,1.0259
+2022-Q1,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,40456,3.1313
+2022-Q1,Kia,EV6,SK_ON,Pouch,NCM811,77.4,41710,3.2284
+2022-Q1,Kia,EV9,SK_ON,Pouch,NCM811,99.8,44302,4.4213
+2022-Q2,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,84083,5.045
+2022-Q2,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,125141,9.761
+2022-Q2,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,51853,4.2519
+2022-Q2,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,113746,6.8248
+2022-Q2,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,112546,9.2288
+2022-Q2,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,56020,4.3696
+2022-Q2,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,36955,2.4021
+2022-Q2,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,38304,3.907
+2022-Q2,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,11299,0.7909
+2022-Q2,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,20560,1.871
+2022-Q2,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,32120,4.2077
+2022-Q2,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,29820,2.3081
+2022-Q2,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,15186,1.1754
+2022-Q2,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,42760,3.3096
+2022-Q2,Kia,EV6,SK_ON,Pouch,NCM811,77.4,50092,3.8771
+2022-Q2,Kia,EV9,SK_ON,Pouch,NCM811,99.8,48704,4.8607
+2022-Q3,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,116955,7.0173
+2022-Q3,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,178883,13.9529
+2022-Q3,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,77130,6.3247
+2022-Q3,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,154857,9.2914
+2022-Q3,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,158522,12.9988
+2022-Q3,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,76486,5.9659
+2022-Q3,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,55685,3.6195
+2022-Q3,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,50716,5.173
+2022-Q3,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,13635,0.9545
+2022-Q3,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,25726,2.3411
+2022-Q3,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,43212,5.6608
+2022-Q3,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,47577,3.6825
+2022-Q3,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,18977,1.4688
+2022-Q3,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,59936,4.639
+2022-Q3,Kia,EV6,SK_ON,Pouch,NCM811,77.4,68872,5.3307
+2022-Q3,Kia,EV9,SK_ON,Pouch,NCM811,99.8,58696,5.8579
+2022-Q4,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,112560,6.7536
+2022-Q4,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,210492,16.4184
+2022-Q4,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,82977,6.8041
+2022-Q4,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,180160,10.8096
+2022-Q4,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,158513,12.9981
+2022-Q4,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,75688,5.9037
+2022-Q4,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,56661,3.683
+2022-Q4,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,62294,6.354
+2022-Q4,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,15707,1.0995
+2022-Q4,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,29680,2.7009
+2022-Q4,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,46789,6.1294
+2022-Q4,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,47005,3.6382
+2022-Q4,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,20422,1.5807
+2022-Q4,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,68469,5.2995
+2022-Q4,Kia,EV6,SK_ON,Pouch,NCM811,77.4,62965,4.8735
+2022-Q4,Kia,EV9,SK_ON,Pouch,NCM811,99.8,69833,6.9693
+2023-Q1,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,101299,6.0779
+2023-Q1,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,186671,14.5603
+2023-Q1,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,65372,5.3605
+2023-Q1,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,128098,7.6859
+2023-Q1,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,152235,12.4833
+2023-Q1,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,67887,5.2952
+2023-Q1,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,45226,2.9397
+2023-Q1,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,51494,5.2524
+2023-Q1,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,13927,0.9749
+2023-Q1,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,23949,2.1794
+2023-Q1,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,39357,5.1558
+2023-Q1,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,36689,2.8397
+2023-Q1,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,18638,1.4426
+2023-Q1,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,61804,4.7836
+2023-Q1,Kia,EV6,SK_ON,Pouch,NCM811,77.4,52719,4.0805
+2023-Q1,Kia,EV9,SK_ON,Pouch,NCM811,99.8,61696,6.1573
+2023-Q2,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,105020,6.3012
+2023-Q2,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,201276,15.6995
+2023-Q2,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,78835,6.4645
+2023-Q2,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,136224,8.1734
+2023-Q2,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,152295,12.4882
+2023-Q2,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,76828,5.9926
+2023-Q2,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,49265,3.2022
+2023-Q2,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,52026,5.3067
+2023-Q2,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,15749,1.1024
+2023-Q2,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,26243,2.3881
+2023-Q2,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,43502,5.6988
+2023-Q2,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,41412,3.2053
+2023-Q2,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,17717,1.3713
+2023-Q2,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,67006,5.1863
+2023-Q2,Kia,EV6,SK_ON,Pouch,NCM811,77.4,64144,4.9647
+2023-Q2,Kia,EV9,SK_ON,Pouch,NCM811,99.8,66880,6.6746
+2023-Q3,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,145957,8.7574
+2023-Q3,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,228058,17.7885
+2023-Q3,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,105963,8.689
+2023-Q3,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,184468,11.0681
+2023-Q3,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,201234,16.5012
+2023-Q3,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,100296,7.8231
+2023-Q3,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,65523,4.259
+2023-Q3,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,70399,7.1807
+2023-Q3,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,18153,1.2707
+2023-Q3,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,36549,3.326
+2023-Q3,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,57313,7.508
+2023-Q3,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,57774,4.4717
+2023-Q3,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,26077,2.0184
+2023-Q3,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,86780,6.7168
+2023-Q3,Kia,EV6,SK_ON,Pouch,NCM811,77.4,75704,5.8595
+2023-Q3,Kia,EV9,SK_ON,Pouch,NCM811,99.8,91752,9.1568
+2023-Q4,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,148361,8.9017
+2023-Q4,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,246288,19.2105
+2023-Q4,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,104962,8.6069
+2023-Q4,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,229575,13.7745
+2023-Q4,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,210102,17.2284
+2023-Q4,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,97167,7.579
+2023-Q4,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,79911,5.1942
+2023-Q4,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,71175,7.2599
+2023-Q4,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,22618,1.5833
+2023-Q4,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,36180,3.2924
+2023-Q4,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,61698,8.0824
+2023-Q4,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,56642,4.3841
+2023-Q4,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,24259,1.8776
+2023-Q4,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,96834,7.495
+2023-Q4,Kia,EV6,SK_ON,Pouch,NCM811,77.4,80266,6.2126
+2023-Q4,Kia,EV9,SK_ON,Pouch,NCM811,99.8,95875,9.5683
+2024-Q1,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,140015,8.4009
+2024-Q1,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,240690,18.7738
+2024-Q1,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,87434,7.1696
+2024-Q1,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,178643,10.7186
+2024-Q1,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,194375,15.9388
+2024-Q1,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,84713,6.6076
+2024-Q1,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,64291,4.1789
+2024-Q1,General Motors,Chevrolet Blazer EV,LGES,Pouch,NCMA,102.0,63438,6.4707
+2024-Q1,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,62548,6.3799
+2024-Q1,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,18545,1.2981
+2024-Q1,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,32856,2.9899
+2024-Q1,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,46254,6.0593
+2024-Q1,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,49730,3.8491
+2024-Q1,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,21827,1.6894
+2024-Q1,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,76931,5.9545
+2024-Q1,Kia,EV6,SK_ON,Pouch,NCM811,77.4,79910,6.185
+2024-Q1,Kia,EV9,SK_ON,Pouch,NCM811,99.8,69010,6.8872
+2024-Q2,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,140724,8.4434
+2024-Q2,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,227762,17.7654
+2024-Q2,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,100783,8.2642
+2024-Q2,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,187630,11.2578
+2024-Q2,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,179990,14.7592
+2024-Q2,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,85915,6.7014
+2024-Q2,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,67087,4.3607
+2024-Q2,General Motors,Chevrolet Blazer EV,LGES,Pouch,NCMA,102.0,65123,6.6425
+2024-Q2,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,71085,7.2507
+2024-Q2,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,16589,1.1612
+2024-Q2,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,35530,3.2332
+2024-Q2,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,52886,6.9281
+2024-Q2,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,58587,4.5346
+2024-Q2,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,23338,1.8064
+2024-Q2,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,72093,5.58
+2024-Q2,Kia,EV6,SK_ON,Pouch,NCM811,77.4,77566,6.0036
+2024-Q2,Kia,EV9,SK_ON,Pouch,NCM811,99.8,82433,8.2268
+2024-Q3,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,188296,11.2978
+2024-Q3,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,298546,23.2866
+2024-Q3,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,121345,9.9503
+2024-Q3,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,269252,16.1551
+2024-Q3,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,247905,20.3282
+2024-Q3,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,120304,9.3837
+2024-Q3,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,87541,5.6902
+2024-Q3,General Motors,Chevrolet Blazer EV,LGES,Pouch,NCMA,102.0,81730,8.3365
+2024-Q3,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,92324,9.417
+2024-Q3,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,22206,1.5544
+2024-Q3,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,47444,4.3174
+2024-Q3,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,73635,9.6462
+2024-Q3,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,78206,6.0531
+2024-Q3,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,29600,2.291
+2024-Q3,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,111915,8.6622
+2024-Q3,Kia,EV6,SK_ON,Pouch,NCM811,77.4,98349,7.6122
+2024-Q3,Kia,EV9,SK_ON,Pouch,NCM811,99.8,98931,9.8733
+2024-Q4,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,196422,11.7853
+2024-Q4,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,322174,25.1296
+2024-Q4,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,118270,9.6981
+2024-Q4,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,244429,14.6657
+2024-Q4,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,269280,22.081
+2024-Q4,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,128513,10.024
+2024-Q4,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,100068,6.5044
+2024-Q4,General Motors,Chevrolet Blazer EV,LGES,Pouch,NCMA,102.0,90923,9.2741
+2024-Q4,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,93311,9.5177
+2024-Q4,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,27399,1.9179
+2024-Q4,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,46150,4.1997
+2024-Q4,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,73011,9.5644
+2024-Q4,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,74425,5.7605
+2024-Q4,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,31482,2.4367
+2024-Q4,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,107088,8.2886
+2024-Q4,Kia,EV6,SK_ON,Pouch,NCM811,77.4,111873,8.659
+2024-Q4,Kia,EV9,SK_ON,Pouch,NCM811,99.8,106790,10.6576
+2025-Q1,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,173467,10.408
+2025-Q1,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,288111,22.4727
+2025-Q1,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,115069,9.4357
+2025-Q1,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,227347,13.6408
+2025-Q1,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,224756,18.43
+2025-Q1,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,101244,7.897
+2025-Q1,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,69532,4.5196
+2025-Q1,General Motors,Chevrolet Blazer EV,LGES,Pouch,NCMA,102.0,70746,7.2161
+2025-Q1,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,72594,7.4046
+2025-Q1,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,22950,1.6065
+2025-Q1,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,39747,3.617
+2025-Q1,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,60974,7.9876
+2025-Q1,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,68207,5.2792
+2025-Q1,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,26468,2.0486
+2025-Q1,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,82754,6.4052
+2025-Q1,Kia,EV6,SK_ON,Pouch,NCM811,77.4,87528,6.7747
+2025-Q1,Kia,EV9,SK_ON,Pouch,NCM811,99.8,83397,8.323
+2025-Q2,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,172626,10.3576
+2025-Q2,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,254268,19.8329
+2025-Q2,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,111892,9.1751
+2025-Q2,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,203290,12.1974
+2025-Q2,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,224196,18.3841
+2025-Q2,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,103569,8.0784
+2025-Q2,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,82954,5.392
+2025-Q2,General Motors,Chevrolet Blazer EV,LGES,Pouch,NCMA,102.0,71651,7.3084
+2025-Q2,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,71559,7.299
+2025-Q2,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,22252,1.5576
+2025-Q2,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,41115,3.7415
+2025-Q2,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,65500,8.5805
+2025-Q2,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,71733,5.5521
+2025-Q2,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,26610,2.0596
+2025-Q2,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,102164,7.9075
+2025-Q2,Kia,EV6,SK_ON,Pouch,NCM811,77.4,88021,6.8128
+2025-Q2,Kia,EV9,SK_ON,Pouch,NCM811,99.8,87256,8.7081
+2025-Q3,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,221316,13.279
+2025-Q3,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,357719,27.9021
+2025-Q3,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,144626,11.8593
+2025-Q3,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,313162,18.7897
+2025-Q3,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,314646,25.801
+2025-Q3,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,156124,12.1777
+2025-Q3,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,94603,6.1492
+2025-Q3,General Motors,Chevrolet Blazer EV,LGES,Pouch,NCMA,102.0,101694,10.3728
+2025-Q3,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,107948,11.0107
+2025-Q3,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,27688,1.9382
+2025-Q3,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,52240,4.7538
+2025-Q3,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,83915,10.9929
+2025-Q3,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,78570,6.0813
+2025-Q3,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,38966,3.016
+2025-Q3,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,135806,10.5114
+2025-Q3,Kia,EV6,SK_ON,Pouch,NCM811,77.4,132697,10.2707
+2025-Q3,Kia,EV9,SK_ON,Pouch,NCM811,99.8,128044,12.7788
+2025-Q4,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,242871,14.5723
+2025-Q4,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,414713,32.3476
+2025-Q4,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,142054,11.6484
+2025-Q4,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,302007,18.1204
+2025-Q4,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,280720,23.019
+2025-Q4,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,151502,11.8172
+2025-Q4,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,106016,6.891
+2025-Q4,General Motors,Chevrolet Blazer EV,LGES,Pouch,NCMA,102.0,111043,11.3264
+2025-Q4,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,102315,10.4361
+2025-Q4,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,32331,2.2632
+2025-Q4,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,61520,5.5983
+2025-Q4,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,88649,11.613
+2025-Q4,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,88773,6.871
+2025-Q4,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,41436,3.2071
+2025-Q4,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,132874,10.2844
+2025-Q4,Kia,EV6,SK_ON,Pouch,NCM811,77.4,132397,10.2475
+2025-Q4,Kia,EV9,SK_ON,Pouch,NCM811,99.8,139856,13.9576
+2026-Q1,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,205868,12.3521
+2026-Q1,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,293907,22.9247
+2026-Q1,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,131298,10.7664
+2026-Q1,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,242639,14.5583
+2026-Q1,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,270091,22.1475
+2026-Q1,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,132672,10.3484
+2026-Q1,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,86360,5.6134
+2026-Q1,General Motors,Chevrolet Blazer EV,LGES,Pouch,NCMA,102.0,79418,8.1006
+2026-Q1,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,87950,8.9709
+2026-Q1,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,25200,1.764
+2026-Q1,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,46201,4.2043
+2026-Q1,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,73659,9.6493
+2026-Q1,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,78383,6.0668
+2026-Q1,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,30043,2.3253
+2026-Q1,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,97718,7.5634
+2026-Q1,Kia,EV6,SK_ON,Pouch,NCM811,77.4,109419,8.469
+2026-Q1,Kia,EV9,SK_ON,Pouch,NCM811,99.8,105479,10.5268
+2026-Q2,Tesla,Model Y (Standard Range),CATL,Prismatic,LFP,60.0,194002,11.6401
+2026-Q2,Tesla,Model Y (Long Range / Performance),LGES,Pouch,NCMA,78.0,308869,24.0918
+2026-Q2,Tesla,Model Y (US Cylindrical),PANASONIC,Cylindrical,NCM2170,82.0,125106,10.2587
+2026-Q2,Tesla,Model 3 (Standard),CATL,Prismatic,LFP,60.0,281247,16.8748
+2026-Q2,Tesla,Model 3 (Long Range),PANASONIC,Cylindrical,NCM2170,82.0,273581,22.4336
+2026-Q2,Tesla,Model 3 (Long Range EU),LGES,Cylindrical,NCMA,78.0,127568,9.9503
+2026-Q2,General Motors,Chevrolet Bolt EV,LGES,Pouch,NCM622,65.0,82827,5.3838
+2026-Q2,General Motors,Chevrolet Blazer EV,LGES,Pouch,NCMA,102.0,97690,9.9644
+2026-Q2,General Motors,Cadillac Lyriq,LGES,Pouch,NCMA,102.0,90978,9.2798
+2026-Q2,Ford,Mustang Mach-E (LFP),CATL,Prismatic,LFP,70.0,27271,1.909
+2026-Q2,Ford,Mustang Mach-E (NCM),LGES,Pouch,NCM811,91.0,49220,4.479
+2026-Q2,Ford,F-150 Lightning,SK_ON,Pouch,NCM9,131.0,73120,9.5787
+2026-Q2,Hyundai,IONIQ 5,SK_ON,Pouch,NCM811,77.4,77105,5.9679
+2026-Q2,Hyundai,IONIQ 5 (LGES),LGES,Pouch,NCM811,77.4,29635,2.2937
+2026-Q2,Hyundai,IONIQ 6,LGES,Pouch,NCM811,77.4,109931,8.5087
+2026-Q2,Kia,EV6,SK_ON,Pouch,NCM811,77.4,101261,7.8376
+2026-Q2,Kia,EV9,SK_ON,Pouch,NCM811,99.8,117861,11.7625
